@@ -36,13 +36,13 @@ def export(p):
         neighbors=', '.join(f'<a href="#v{j}">{html.escape(g["vertices"][j]["label"])}</a> × {m}' for j,m in adjacency[v['id']])
         rows.append(f'<tr id="v{v["id"]}"><td>{v["label"]}</td><td>{v["type"]}</td>'
           f'<td class="model">{html.escape(v["model_description"])}</td><td>{v["aut"]}</td><td>{v["degree"]}</td><td>{neighbors}</td></tr>')
-    page=f'''<!doctype html><html lang="zh-CN"><meta charset="utf-8"><title>p={p} 完整同源图</title>
+    page=f'''<!doctype html><html lang="en"><meta charset="utf-8"><title>p={p} complete isogeny graph</title>
 <style>body{{font:15px/1.6 system-ui,sans-serif;margin:32px;color:#17212b}}table{{border-collapse:collapse;width:100%}}th,td{{border:1px solid #d4dce3;padding:8px;text-align:left;vertical-align:top}}th{{background:#edf3f7;position:sticky;top:0}}.model{{font-family:monospace;min-width:260px}}tr:target{{background:#fff0bd}}a{{color:#2364aa}}img{{max-width:100%}}</style>
-<h1>p={p} 的完整有理 (2,2)-同源图</h1><p>{g['total_vertices']} 个顶点，{g['directed_kernels']} 条按核计数的有向边；实际遍历得到 1 个连通分支。
-S 为椭圆曲线乘积，R 为 Weil restriction，J 为亏格二 Jacobian。所有同构均在 Fp 上且保持主极化。</p>
-<p>顶点方程中系数按相应有限域取值。S 使用乘积极化，J 使用典范主极化。R 的椭圆曲线在 Fp² 上取极大形式。
-下图仅显示无向支撑；表格保留每条有向边的核重数。点击邻居标签可跳转到对应顶点。</p>
-<img src="p{p}_complete_support.svg" alt="完整图的无向支撑"><table><thead><tr><th>顶点</th><th>类型</th><th>代表模型</th><th>|Aut|</th><th>出度</th><th>所有出边：终点 × 核重数</th></tr></thead><tbody>{''.join(rows)}</tbody></table></html>'''
+<h1>p={p} complete rational (2,2)-isogeny graph</h1><p>{g['total_vertices']} vertices, {g['directed_kernels']} directed edges counted by kernels; graph traversal finds 1 connected component.
+S denotes a product of elliptic curves, R a Weil restriction, and J a genus 2 Jacobian. All isomorphisms are defined over Fp and preserve the principal polarization.</p>
+<p>Coefficients in the vertex equations are interpreted in the corresponding finite fields. S carries the product polarization, and J the canonical principal polarization. For R, the elliptic curve is chosen in its maximal form over Fp².
+The figure shows the undirected support; the table retains the kernel multiplicity of each directed edge. Click a neighbor label to jump to that vertex.</p>
+<img src="p{p}_complete_support.svg" alt="Undirected support of the complete graph"><table><thead><tr><th>Vertex</th><th>Type</th><th>Representative model</th><th>|Aut|</th><th>Outdegree</th><th>Outgoing edges: target × kernel multiplicity</th></tr></thead><tbody>{''.join(rows)}</tbody></table></html>'''
     (OUT/f'p{p}_vertex_catalogue.html').write_text(page,encoding='utf8')
 
 if __name__=='__main__':
