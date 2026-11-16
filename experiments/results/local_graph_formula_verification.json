@@ -1,0 +1,407 @@
+{
+  "odd_residue_cases": [
+    {
+      "ell": 3,
+      "p_mod_ell": 1,
+      "symbol": -1,
+      "split": {
+        "geometric_kernels": 40,
+        "rational_kernels": 4,
+        "product_kernels": 0,
+        "graph_kernels": 4
+      },
+      "restriction": {
+        "geometric_kernels": 40,
+        "rational_kernels": 4,
+        "product_kernels": 4,
+        "graph_kernels": 0
+      }
+    },
+    {
+      "ell": 3,
+      "p_mod_ell": 2,
+      "symbol": 1,
+      "split": {
+        "geometric_kernels": 40,
+        "rational_kernels": 6,
+        "product_kernels": 4,
+        "graph_kernels": 2
+      },
+      "restriction": {
+        "geometric_kernels": 40,
+        "rational_kernels": 6,
+        "product_kernels": 4,
+        "graph_kernels": 2
+      }
+    },
+    {
+      "ell": 5,
+      "p_mod_ell": 1,
+      "symbol": 1,
+      "split": {
+        "geometric_kernels": 156,
+        "rational_kernels": 8,
+        "product_kernels": 4,
+        "graph_kernels": 4
+      },
+      "restriction": {
+        "geometric_kernels": 156,
+        "rational_kernels": 8,
+        "product_kernels": 6,
+        "graph_kernels": 2
+      }
+    },
+    {
+      "ell": 5,
+      "p_mod_ell": 2,
+      "symbol": -1,
+      "split": {
+        "geometric_kernels": 156,
+        "rational_kernels": 6,
+        "product_kernels": 0,
+        "graph_kernels": 6
+      },
+      "restriction": {
+        "geometric_kernels": 156,
+        "rational_kernels": 6,
+        "product_kernels": 6,
+        "graph_kernels": 0
+      }
+    },
+    {
+      "ell": 5,
+      "p_mod_ell": 3,
+      "symbol": -1,
+      "split": {
+        "geometric_kernels": 156,
+        "rational_kernels": 6,
+        "product_kernels": 0,
+        "graph_kernels": 6
+      },
+      "restriction": {
+        "geometric_kernels": 156,
+        "rational_kernels": 6,
+        "product_kernels": 6,
+        "graph_kernels": 0
+      }
+    },
+    {
+      "ell": 5,
+      "p_mod_ell": 4,
+      "symbol": 1,
+      "split": {
+        "geometric_kernels": 156,
+        "rational_kernels": 8,
+        "product_kernels": 4,
+        "graph_kernels": 4
+      },
+      "restriction": {
+        "geometric_kernels": 156,
+        "rational_kernels": 8,
+        "product_kernels": 6,
+        "graph_kernels": 2
+      }
+    },
+    {
+      "ell": 7,
+      "p_mod_ell": 1,
+      "symbol": -1,
+      "split": {
+        "geometric_kernels": 400,
+        "rational_kernels": 8,
+        "product_kernels": 0,
+        "graph_kernels": 8
+      },
+      "restriction": {
+        "geometric_kernels": 400,
+        "rational_kernels": 8,
+        "product_kernels": 8,
+        "graph_kernels": 0
+      }
+    },
+    {
+      "ell": 7,
+      "p_mod_ell": 2,
+      "symbol": -1,
+      "split": {
+        "geometric_kernels": 400,
+        "rational_kernels": 8,
+        "product_kernels": 0,
+        "graph_kernels": 8
+      },
+      "restriction": {
+        "geometric_kernels": 400,
+        "rational_kernels": 8,
+        "product_kernels": 8,
+        "graph_kernels": 0
+      }
+    },
+    {
+      "ell": 7,
+      "p_mod_ell": 3,
+      "symbol": 1,
+      "split": {
+        "geometric_kernels": 400,
+        "rational_kernels": 10,
+        "product_kernels": 4,
+        "graph_kernels": 6
+      },
+      "restriction": {
+        "geometric_kernels": 400,
+        "rational_kernels": 10,
+        "product_kernels": 8,
+        "graph_kernels": 2
+      }
+    },
+    {
+      "ell": 7,
+      "p_mod_ell": 4,
+      "symbol": -1,
+      "split": {
+        "geometric_kernels": 400,
+        "rational_kernels": 8,
+        "product_kernels": 0,
+        "graph_kernels": 8
+      },
+      "restriction": {
+        "geometric_kernels": 400,
+        "rational_kernels": 8,
+        "product_kernels": 8,
+        "graph_kernels": 0
+      }
+    },
+    {
+      "ell": 7,
+      "p_mod_ell": 5,
+      "symbol": 1,
+      "split": {
+        "geometric_kernels": 400,
+        "rational_kernels": 10,
+        "product_kernels": 4,
+        "graph_kernels": 6
+      },
+      "restriction": {
+        "geometric_kernels": 400,
+        "rational_kernels": 10,
+        "product_kernels": 8,
+        "graph_kernels": 2
+      }
+    },
+    {
+      "ell": 7,
+      "p_mod_ell": 6,
+      "symbol": 1,
+      "split": {
+        "geometric_kernels": 400,
+        "rational_kernels": 10,
+        "product_kernels": 4,
+        "graph_kernels": 6
+      },
+      "restriction": {
+        "geometric_kernels": 400,
+        "rational_kernels": 10,
+        "product_kernels": 8,
+        "graph_kernels": 2
+      }
+    },
+    {
+      "ell": 11,
+      "p_mod_ell": 1,
+      "symbol": -1,
+      "split": {
+        "geometric_kernels": 1464,
+        "rational_kernels": 12,
+        "product_kernels": 0,
+        "graph_kernels": 12
+      },
+      "restriction": {
+        "geometric_kernels": 1464,
+        "rational_kernels": 12,
+        "product_kernels": 12,
+        "graph_kernels": 0
+      }
+    },
+    {
+      "ell": 11,
+      "p_mod_ell": 2,
+      "symbol": 1,
+      "split": {
+        "geometric_kernels": 1464,
+        "rational_kernels": 14,
+        "product_kernels": 4,
+        "graph_kernels": 10
+      },
+      "restriction": {
+        "geometric_kernels": 1464,
+        "rational_kernels": 14,
+        "product_kernels": 12,
+        "graph_kernels": 2
+      }
+    },
+    {
+      "ell": 11,
+      "p_mod_ell": 3,
+      "symbol": -1,
+      "split": {
+        "geometric_kernels": 1464,
+        "rational_kernels": 12,
+        "product_kernels": 0,
+        "graph_kernels": 12
+      },
+      "restriction": {
+        "geometric_kernels": 1464,
+        "rational_kernels": 12,
+        "product_kernels": 12,
+        "graph_kernels": 0
+      }
+    },
+    {
+      "ell": 11,
+      "p_mod_ell": 4,
+      "symbol": -1,
+      "split": {
+        "geometric_kernels": 1464,
+        "rational_kernels": 12,
+        "product_kernels": 0,
+        "graph_kernels": 12
+      },
+      "restriction": {
+        "geometric_kernels": 1464,
+        "rational_kernels": 12,
+        "product_kernels": 12,
+        "graph_kernels": 0
+      }
+    },
+    {
+      "ell": 11,
+      "p_mod_ell": 5,
+      "symbol": -1,
+      "split": {
+        "geometric_kernels": 1464,
+        "rational_kernels": 12,
+        "product_kernels": 0,
+        "graph_kernels": 12
+      },
+      "restriction": {
+        "geometric_kernels": 1464,
+        "rational_kernels": 12,
+        "product_kernels": 12,
+        "graph_kernels": 0
+      }
+    },
+    {
+      "ell": 11,
+      "p_mod_ell": 6,
+      "symbol": 1,
+      "split": {
+        "geometric_kernels": 1464,
+        "rational_kernels": 14,
+        "product_kernels": 4,
+        "graph_kernels": 10
+      },
+      "restriction": {
+        "geometric_kernels": 1464,
+        "rational_kernels": 14,
+        "product_kernels": 12,
+        "graph_kernels": 2
+      }
+    },
+    {
+      "ell": 11,
+      "p_mod_ell": 7,
+      "symbol": 1,
+      "split": {
+        "geometric_kernels": 1464,
+        "rational_kernels": 14,
+        "product_kernels": 4,
+        "graph_kernels": 10
+      },
+      "restriction": {
+        "geometric_kernels": 1464,
+        "rational_kernels": 14,
+        "product_kernels": 12,
+        "graph_kernels": 2
+      }
+    },
+    {
+      "ell": 11,
+      "p_mod_ell": 8,
+      "symbol": 1,
+      "split": {
+        "geometric_kernels": 1464,
+        "rational_kernels": 14,
+        "product_kernels": 4,
+        "graph_kernels": 10
+      },
+      "restriction": {
+        "geometric_kernels": 1464,
+        "rational_kernels": 14,
+        "product_kernels": 12,
+        "graph_kernels": 2
+      }
+    },
+    {
+      "ell": 11,
+      "p_mod_ell": 9,
+      "symbol": -1,
+      "split": {
+        "geometric_kernels": 1464,
+        "rational_kernels": 12,
+        "product_kernels": 0,
+        "graph_kernels": 12
+      },
+      "restriction": {
+        "geometric_kernels": 1464,
+        "rational_kernels": 12,
+        "product_kernels": 12,
+        "graph_kernels": 0
+      }
+    },
+    {
+      "ell": 11,
+      "p_mod_ell": 10,
+      "symbol": 1,
+      "split": {
+        "geometric_kernels": 1464,
+        "rational_kernels": 14,
+        "product_kernels": 4,
+        "graph_kernels": 10
+      },
+      "restriction": {
+        "geometric_kernels": 1464,
+        "rational_kernels": 14,
+        "product_kernels": 12,
+        "graph_kernels": 2
+      }
+    }
+  ],
+  "dyadic_types": {
+    "I,I": {
+      "geometric_kernels": 15,
+      "rational_kernels": 15,
+      "product_kernels": 9,
+      "graph_kernels": 6
+    },
+    "I,U": {
+      "geometric_kernels": 15,
+      "rational_kernels": 3,
+      "product_kernels": 3,
+      "graph_kernels": 0
+    },
+    "U,U": {
+      "geometric_kernels": 15,
+      "rational_kernels": 3,
+      "product_kernels": 1,
+      "graph_kernels": 2
+    },
+    "restriction": {
+      "geometric_kernels": 15,
+      "rational_kernels": 7,
+      "product_kernels": 3,
+      "graph_kernels": 4
+    }
+  },
+  "XOZ_v3_theorem_2_4_at_p7": "3/4",
+  "signed_permutation_group_is_nonabelian": true,
+  "scope": "Exact local kernel counts. No quotient or complete-graph census is inferred."
+}

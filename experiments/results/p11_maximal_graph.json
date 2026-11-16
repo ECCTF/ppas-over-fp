@@ -1,0 +1,2119 @@
+{
+  "p": 11,
+  "ell": 2,
+  "weil_polynomial": [
+    121,
+    0,
+    22,
+    0,
+    1
+  ],
+  "elliptic_models": [
+    {
+      "a": 0,
+      "b": 1,
+      "j": 0
+    },
+    {
+      "a": 0,
+      "b": 2,
+      "j": 0
+    },
+    {
+      "a": 1,
+      "b": 0,
+      "j": 1
+    },
+    {
+      "a": 2,
+      "b": 0,
+      "j": 1
+    }
+  ],
+  "vertices": [
+    {
+      "label": "S0",
+      "type": "split",
+      "elliptic_ids": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "label": "S1",
+      "type": "split",
+      "elliptic_ids": [
+        0,
+        1
+      ],
+      "aut": 4
+    },
+    {
+      "label": "S2",
+      "type": "split",
+      "elliptic_ids": [
+        0,
+        2
+      ],
+      "aut": 4
+    },
+    {
+      "label": "S3",
+      "type": "split",
+      "elliptic_ids": [
+        0,
+        3
+      ],
+      "aut": 4
+    },
+    {
+      "label": "S4",
+      "type": "split",
+      "elliptic_ids": [
+        1,
+        1
+      ],
+      "aut": 8
+    },
+    {
+      "label": "S5",
+      "type": "split",
+      "elliptic_ids": [
+        1,
+        2
+      ],
+      "aut": 4
+    },
+    {
+      "label": "S6",
+      "type": "split",
+      "elliptic_ids": [
+        1,
+        3
+      ],
+      "aut": 4
+    },
+    {
+      "label": "S7",
+      "type": "split",
+      "elliptic_ids": [
+        2,
+        2
+      ],
+      "aut": 8
+    },
+    {
+      "label": "S8",
+      "type": "split",
+      "elliptic_ids": [
+        2,
+        3
+      ],
+      "aut": 4
+    },
+    {
+      "label": "S9",
+      "type": "split",
+      "elliptic_ids": [
+        3,
+        3
+      ],
+      "aut": 8
+    },
+    {
+      "label": "R0",
+      "type": "restriction",
+      "j": 0,
+      "aut": 12
+    },
+    {
+      "label": "R1",
+      "type": "restriction",
+      "j": 1,
+      "aut": 8
+    },
+    {
+      "label": "J0",
+      "type": "Jacobian",
+      "coefficients": [
+        7,
+        0,
+        1,
+        0,
+        2,
+        0,
+        1
+      ],
+      "aut": 12
+    },
+    {
+      "label": "J1",
+      "type": "Jacobian",
+      "coefficients": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "aut": 4
+    },
+    {
+      "label": "J2",
+      "type": "Jacobian",
+      "coefficients": [
+        7,
+        0,
+        4,
+        0,
+        1,
+        0,
+        1
+      ],
+      "aut": 4
+    },
+    {
+      "label": "J3",
+      "type": "Jacobian",
+      "coefficients": [
+        5,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "aut": 4
+    },
+    {
+      "label": "J4",
+      "type": "Jacobian",
+      "coefficients": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "aut": 8
+    },
+    {
+      "label": "J5",
+      "type": "Jacobian",
+      "coefficients": [
+        5,
+        0,
+        3,
+        0,
+        1,
+        0,
+        1
+      ],
+      "aut": 8
+    },
+    {
+      "label": "J6",
+      "type": "Jacobian",
+      "coefficients": [
+        6,
+        5,
+        2,
+        1,
+        0,
+        0,
+        1
+      ],
+      "aut": 12
+    },
+    {
+      "label": "J7",
+      "type": "Jacobian",
+      "coefficients": [
+        3,
+        0,
+        8,
+        0,
+        1,
+        0,
+        1
+      ],
+      "aut": 12
+    }
+  ],
+  "adjacency": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      2,
+      2,
+      0,
+      1,
+      2,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      2,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      1,
+      0,
+      0,
+      3,
+      3,
+      3,
+      0,
+      0,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      1,
+      0,
+      0,
+      2
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      1,
+      2,
+      0
+    ],
+    [
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0
+    ]
+  ],
+  "outdegrees": [
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    15,
+    7,
+    7,
+    15,
+    3,
+    3,
+    3,
+    7,
+    7,
+    7,
+    7
+  ],
+  "counts": {
+    "split": 10,
+    "restriction": 2,
+    "Jacobian": 8,
+    "total": 20
+  },
+  "directed_kernels": 108,
+  "components": [
+    [
+      0,
+      1,
+      2,
+      4,
+      5,
+      7,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    [
+      3,
+      6,
+      8
+    ]
+  ],
+  "richelot_kernels": [
+    {
+      "source": 12,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        5,
+        0,
+        5,
+        0,
+        9,
+        0,
+        2
+      ],
+      "target": 14
+    },
+    {
+      "source": 12,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        10,
+        0,
+        2,
+        7,
+        7,
+        8
+      ],
+      "target": 15
+    },
+    {
+      "source": 12,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        2,
+        10,
+        9,
+        4,
+        7,
+        7,
+        5
+      ],
+      "target": 13
+    },
+    {
+      "source": 12,
+      "matching": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        10,
+        0,
+        2,
+        4,
+        7,
+        3
+      ],
+      "target": 15
+    },
+    {
+      "source": 12,
+      "matching": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8
+      ],
+      "target": 13
+    },
+    {
+      "source": 12,
+      "matching": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        0,
+        2,
+        9,
+        7,
+        4,
+        0,
+        3
+      ],
+      "target": 14
+    },
+    {
+      "source": 12,
+      "matching": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        2,
+        1,
+        9,
+        7,
+        7,
+        4,
+        5
+      ],
+      "target": 13
+    },
+    {
+      "source": 12,
+      "matching": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          5
+        ]
+      ],
+      "degenerate": true,
+      "fixed_points": [
+        "5*a + 1",
+        "6*a + 10"
+      ],
+      "target": 10
+    },
+    {
+      "source": 12,
+      "matching": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "degenerate": true,
+      "fixed_points": [
+        "8",
+        "9"
+      ],
+      "target": 9
+    },
+    {
+      "source": 12,
+      "matching": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        0,
+        9,
+        9,
+        4,
+        4,
+        0,
+        3
+      ],
+      "target": 14
+    },
+    {
+      "source": 12,
+      "matching": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          5
+        ]
+      ],
+      "degenerate": true,
+      "fixed_points": [
+        "2",
+        "3"
+      ],
+      "target": 9
+    },
+    {
+      "source": 12,
+      "matching": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        6,
+        0,
+        5,
+        0,
+        2,
+        0,
+        2
+      ],
+      "target": 18
+    },
+    {
+      "source": 12,
+      "matching": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        3,
+        0,
+        10,
+        0,
+        10,
+        0,
+        7
+      ],
+      "target": 15
+    },
+    {
+      "source": 12,
+      "matching": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        3,
+        0,
+        1,
+        0,
+        10,
+        0,
+        4
+      ],
+      "target": 19
+    },
+    {
+      "source": 12,
+      "matching": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "degenerate": true,
+      "fixed_points": [
+        "None",
+        "0"
+      ],
+      "target": 9
+    },
+    {
+      "source": 13,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "degenerate": true,
+      "fixed_points": [
+        "8*a + 6",
+        "3*a + 5"
+      ],
+      "target": 11
+    },
+    {
+      "source": 13,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        1,
+        0,
+        10,
+        0,
+        3,
+        0,
+        6
+      ],
+      "target": 12
+    },
+    {
+      "source": 13,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "degenerate": true,
+      "fixed_points": [
+        "None",
+        "0"
+      ],
+      "target": 1
+    },
+    {
+      "source": 14,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        3,
+        0,
+        5,
+        0,
+        3,
+        0,
+        1
+      ],
+      "target": 17
+    },
+    {
+      "source": 14,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        3,
+        0,
+        6,
+        0,
+        3,
+        0,
+        10
+      ],
+      "target": 12
+    },
+    {
+      "source": 14,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "degenerate": true,
+      "fixed_points": [
+        "None",
+        "0"
+      ],
+      "target": 2
+    },
+    {
+      "source": 15,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "degenerate": true,
+      "fixed_points": [
+        "6",
+        "5"
+      ],
+      "target": 5
+    },
+    {
+      "source": 15,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5
+      ],
+      "target": 16
+    },
+    {
+      "source": 15,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        0,
+        9,
+        0,
+        1,
+        0,
+        1
+      ],
+      "target": 12
+    },
+    {
+      "source": 16,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        6,
+        0,
+        2,
+        0,
+        2,
+        0,
+        6
+      ],
+      "target": 16
+    },
+    {
+      "source": 16,
+      "matching": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        3,
+        0,
+        0,
+        9,
+        0,
+        0,
+        3
+      ],
+      "target": 15
+    },
+    {
+      "source": 16,
+      "matching": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        8,
+        1,
+        2,
+        4,
+        2,
+        1,
+        8
+      ],
+      "target": 19
+    },
+    {
+      "source": 16,
+      "matching": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        3,
+        0,
+        0,
+        2,
+        0,
+        0,
+        3
+      ],
+      "target": 15
+    },
+    {
+      "source": 16,
+      "matching": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        8,
+        10,
+        2,
+        7,
+        2,
+        10,
+        8
+      ],
+      "target": 19
+    },
+    {
+      "source": 16,
+      "matching": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "degenerate": true,
+      "fixed_points": [
+        "1",
+        "10"
+      ],
+      "target": 9
+    },
+    {
+      "source": 16,
+      "matching": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "degenerate": true,
+      "fixed_points": [
+        "None",
+        "0"
+      ],
+      "target": 0
+    },
+    {
+      "source": 17,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        10,
+        0,
+        3,
+        0,
+        5,
+        0,
+        4
+      ],
+      "target": 14
+    },
+    {
+      "source": 17,
+      "matching": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        9,
+        0,
+        4,
+        0,
+        1,
+        0,
+        2
+      ],
+      "target": 14
+    },
+    {
+      "source": 17,
+      "matching": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        2,
+        0,
+        4,
+        0,
+        10,
+        0,
+        2
+      ],
+      "target": 18
+    },
+    {
+      "source": 17,
+      "matching": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        10,
+        0,
+        8,
+        0,
+        5,
+        0,
+        7
+      ],
+      "target": 18
+    },
+    {
+      "source": 17,
+      "matching": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8
+      ],
+      "target": 17
+    },
+    {
+      "source": 17,
+      "matching": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "degenerate": true,
+      "fixed_points": [
+        "5",
+        "6"
+      ],
+      "target": 4
+    },
+    {
+      "source": 17,
+      "matching": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "degenerate": true,
+      "fixed_points": [
+        "None",
+        "0"
+      ],
+      "target": 9
+    },
+    {
+      "source": 18,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        5,
+        6,
+        7,
+        4,
+        1,
+        0,
+        4
+      ],
+      "target": 17
+    },
+    {
+      "source": 18,
+      "matching": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "degenerate": true,
+      "fixed_points": [
+        "5",
+        "8"
+      ],
+      "target": 2
+    },
+    {
+      "source": 18,
+      "matching": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        8,
+        8,
+        2,
+        1,
+        2,
+        8,
+        6
+      ],
+      "target": 17
+    },
+    {
+      "source": 18,
+      "matching": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "degenerate": true,
+      "fixed_points": [
+        "0",
+        "6"
+      ],
+      "target": 2
+    },
+    {
+      "source": 18,
+      "matching": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "degenerate": true,
+      "fixed_points": [
+        "2",
+        "7"
+      ],
+      "target": 2
+    },
+    {
+      "source": 18,
+      "matching": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        8,
+        9,
+        3,
+        8,
+        10,
+        7,
+        4
+      ],
+      "target": 17
+    },
+    {
+      "source": 18,
+      "matching": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        6,
+        5,
+        1,
+        9,
+        4,
+        8
+      ],
+      "target": 12
+    },
+    {
+      "source": 19,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        8,
+        0,
+        2,
+        0,
+        7,
+        0,
+        2
+      ],
+      "target": 16
+    },
+    {
+      "source": 19,
+      "matching": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "degenerate": true,
+      "fixed_points": [
+        "3",
+        "2"
+      ],
+      "target": 5
+    },
+    {
+      "source": 19,
+      "matching": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        4,
+        3,
+        6,
+        0,
+        10,
+        10,
+        1
+      ],
+      "target": 16
+    },
+    {
+      "source": 19,
+      "matching": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "degenerate": true,
+      "fixed_points": [
+        "9",
+        "8"
+      ],
+      "target": 5
+    },
+    {
+      "source": 19,
+      "matching": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        4,
+        8,
+        6,
+        0,
+        10,
+        1,
+        1
+      ],
+      "target": 16
+    },
+    {
+      "source": 19,
+      "matching": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        3,
+        0,
+        2,
+        0,
+        4,
+        0,
+        2
+      ],
+      "target": 12
+    },
+    {
+      "source": 19,
+      "matching": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "degenerate": true,
+      "fixed_points": [
+        "None",
+        "0"
+      ],
+      "target": 5
+    }
+  ],
+  "checks": [
+    "Sage Weil polynomials",
+    "complete reduced-model census",
+    "all 15 geometric kernels partitioned",
+    "every rational row degree",
+    "weighted duality",
+    "rational correspondence sign and freshly recomputed Jacobian rows"
+  ],
+  "richelot_codomain_normalization": "-[B,C][C,A][A,B]/det(rows(q2,q1,q0))"
+}

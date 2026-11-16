@@ -1,0 +1,6 @@
+# Python libraries used by the experiments and auxiliary figures.
+# SageMath and a C++17 compiler are separate requirements; see environment.yml.
+numpy
+matplotlib
+networkx
+reportlab

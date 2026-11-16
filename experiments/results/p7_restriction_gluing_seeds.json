@@ -1,0 +1,80 @@
+{
+  "p": 7,
+  "extension_nonresidue": 3,
+  "kernels": [
+    {
+      "j_orbit": [
+        6
+      ],
+      "root_permutation": [
+        1,
+        0,
+        2
+      ],
+      "coefficients": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "j_orbit": [
+        6
+      ],
+      "root_permutation": [
+        2,
+        1,
+        0
+      ],
+      "coefficients": [
+        0,
+        6,
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    }
+  ],
+  "decomposed_graph_kernels": [
+    {
+      "j_orbit": [
+        6
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "j_orbit": [
+        6
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ]
+    }
+  ],
+  "models": [
+    {
+      "elliptic_coefficients": [
+        1,
+        0
+      ],
+      "j_orbit": [
+        6
+      ],
+      "Jacobian_kernels": 2,
+      "decomposed_graph_kernels": 2
+    }
+  ],
+  "seconds": 0.001
+}

@@ -1,0 +1,11 @@
+name: ppas-over-fp
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - sage>=9.5
+  - numpy
+  - matplotlib
+  - networkx
+  - reportlab
+  - cxx-compiler

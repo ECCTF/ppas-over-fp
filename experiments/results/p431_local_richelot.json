@@ -1,0 +1,145 @@
+{
+  "p": 431,
+  "source_coefficients": [
+    0,
+    430,
+    0,
+    0,
+    0,
+    1
+  ],
+  "weil_polynomial": [
+    185761,
+    0,
+    862,
+    0,
+    1
+  ],
+  "a_number": 2,
+  "rational_2_degree": 3,
+  "kernels": [
+    {
+      "quadratics": [
+        [
+          1,
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          430,
+          0,
+          1
+        ]
+      ],
+      "delta": 429,
+      "target": "same_jacobian",
+      "quotient_coefficients": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        429
+      ],
+      "coefficient_ratio": 429,
+      "isomorphism_matrix": [
+        0,
+        1,
+        1,
+        0
+      ],
+      "y_multiplier": 243
+    },
+    {
+      "quadratics": [
+        [
+          1,
+          0,
+          1
+        ],
+        [
+          0,
+          430,
+          1
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "delta": 0,
+      "target": "split_product",
+      "elliptic_class_ids": [
+        26,
+        26
+      ],
+      "product_id": 767,
+      "fixed_points": [
+        187,
+        242
+      ],
+      "elliptic_cubics": [
+        [
+          421,
+          417,
+          297,
+          158
+        ],
+        [
+          158,
+          297,
+          417,
+          421
+        ]
+      ]
+    },
+    {
+      "quadratics": [
+        [
+          1,
+          0,
+          1
+        ],
+        [
+          0,
+          1,
+          1
+        ],
+        [
+          430,
+          1
+        ]
+      ],
+      "delta": 0,
+      "target": "split_product",
+      "elliptic_class_ids": [
+        27,
+        27
+      ],
+      "product_id": 783,
+      "fixed_points": [
+        244,
+        189
+      ],
+      "elliptic_cubics": [
+        [
+          10,
+          14,
+          134,
+          273
+        ],
+        [
+          273,
+          134,
+          14,
+          10
+        ]
+      ]
+    }
+  ],
+  "richelot_codomain_normalization": "-[B,C][C,A][A,B]/det(rows(q2,q1,q0))"
+}

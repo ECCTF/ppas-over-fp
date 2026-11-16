@@ -1,0 +1,52 @@
+{
+  "p": 13,
+  "field_modulus": [
+    2,
+    12,
+    1
+  ],
+  "geometric_j": 1,
+  "rational_j": 1,
+  "elliptic_forms_over_fp2": 2,
+  "fixed_forms": 2,
+  "restriction_classes": 2,
+  "blocks_b_over_p": {
+    "2": 1,
+    "-2": 1
+  },
+  "elliptic_curves": [
+    {
+      "id": 0,
+      "a4": [
+        1
+      ],
+      "a6": [
+        4
+      ],
+      "trace": -26,
+      "conjugate": 0
+    },
+    {
+      "id": 1,
+      "a4": [
+        7,
+        3
+      ],
+      "a6": [
+        8,
+        4
+      ],
+      "trace": 26,
+      "conjugate": 1
+    }
+  ],
+  "galois_orbits": [
+    [
+      0
+    ],
+    [
+      1
+    ]
+  ],
+  "sage_version": "SageMath version 10.8, Release Date: 2025-12-18"
+}

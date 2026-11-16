@@ -1,0 +1,663 @@
+{
+  "p": 13,
+  "ell": 2,
+  "weil_polynomial": [
+    169,
+    0,
+    26,
+    0,
+    1
+  ],
+  "elliptic_models": [
+    {
+      "a": 1,
+      "b": 4,
+      "j": 5
+    },
+    {
+      "a": 12,
+      "b": 7,
+      "j": 5
+    }
+  ],
+  "vertices": [
+    {
+      "label": "S0",
+      "type": "split",
+      "elliptic_ids": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "label": "S1",
+      "type": "split",
+      "elliptic_ids": [
+        0,
+        1
+      ],
+      "aut": 4
+    },
+    {
+      "label": "S2",
+      "type": "split",
+      "elliptic_ids": [
+        1,
+        1
+      ],
+      "aut": 8
+    },
+    {
+      "label": "R5",
+      "type": "restriction",
+      "j": 5,
+      "aut": 4
+    },
+    {
+      "label": "J0",
+      "type": "Jacobian",
+      "coefficients": [
+        10,
+        2,
+        5,
+        2,
+        1,
+        0,
+        1
+      ],
+      "aut": 8
+    },
+    {
+      "label": "J1",
+      "type": "Jacobian",
+      "coefficients": [
+        7,
+        5,
+        1,
+        2,
+        1,
+        0,
+        1
+      ],
+      "aut": 2
+    },
+    {
+      "label": "J2",
+      "type": "Jacobian",
+      "coefficients": [
+        9,
+        10,
+        4,
+        2,
+        0,
+        0,
+        1
+      ],
+      "aut": 2
+    },
+    {
+      "label": "J3",
+      "type": "Jacobian",
+      "coefficients": [
+        8,
+        0,
+        5,
+        0,
+        1,
+        0,
+        1
+      ],
+      "aut": 4
+    }
+  ],
+  "adjacency": [
+    [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      3,
+      0,
+      0,
+      2,
+      1
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      2,
+      3
+    ]
+  ],
+  "outdegrees": [
+    3,
+    3,
+    3,
+    7,
+    3,
+    3,
+    3,
+    7
+  ],
+  "counts": {
+    "split": 3,
+    "restriction": 1,
+    "Jacobian": 4,
+    "total": 8
+  },
+  "directed_kernels": 32,
+  "components": [
+    [
+      0,
+      2,
+      4
+    ],
+    [
+      1,
+      3,
+      6,
+      7
+    ],
+    [
+      5
+    ]
+  ],
+  "richelot_kernels": [
+    {
+      "source": 4,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "degenerate": true,
+      "fixed_points": [
+        "4",
+        "3"
+      ],
+      "target": 0
+    },
+    {
+      "source": 4,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "degenerate": true,
+      "fixed_points": [
+        "9",
+        "0"
+      ],
+      "target": 2
+    },
+    {
+      "source": 4,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        6,
+        9,
+        3,
+        9,
+        11,
+        0,
+        11
+      ],
+      "target": 4
+    },
+    {
+      "source": 5,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        3,
+        9,
+        6,
+        0,
+        8,
+        2,
+        2
+      ],
+      "target": 5
+    },
+    {
+      "source": 5,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        0,
+        5,
+        7,
+        11,
+        2,
+        5,
+        2
+      ],
+      "target": 5
+    },
+    {
+      "source": 5,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        8,
+        6,
+        4,
+        0,
+        6,
+        1,
+        2
+      ],
+      "target": 5
+    },
+    {
+      "source": 6,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "degenerate": true,
+      "fixed_points": [
+        "a + 11",
+        "12*a + 12"
+      ],
+      "target": 3
+    },
+    {
+      "source": 6,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        5,
+        6,
+        10,
+        8,
+        6,
+        6,
+        10
+      ],
+      "target": 7
+    },
+    {
+      "source": 6,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        9,
+        12,
+        3,
+        2,
+        11,
+        2,
+        2
+      ],
+      "target": 6
+    },
+    {
+      "source": 7,
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        6,
+        9,
+        1,
+        4,
+        8,
+        4,
+        4
+      ],
+      "target": 6
+    },
+    {
+      "source": 7,
+      "matching": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        6,
+        4,
+        1,
+        9,
+        8,
+        9,
+        4
+      ],
+      "target": 6
+    },
+    {
+      "source": 7,
+      "matching": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        12,
+        1,
+        6,
+        12,
+        9,
+        12,
+        8
+      ],
+      "target": 7
+    },
+    {
+      "source": 7,
+      "matching": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          5
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        12,
+        12,
+        6,
+        1,
+        9,
+        1,
+        8
+      ],
+      "target": 7
+    },
+    {
+      "source": 7,
+      "matching": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "degenerate": false,
+      "quotient_coefficients": [
+        10,
+        0,
+        3,
+        0,
+        11,
+        0,
+        11
+      ],
+      "target": 7
+    },
+    {
+      "source": 7,
+      "matching": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "degenerate": true,
+      "fixed_points": [
+        "5*a + 4",
+        "8*a + 9"
+      ],
+      "target": 3
+    },
+    {
+      "source": 7,
+      "matching": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "degenerate": true,
+      "fixed_points": [
+        "None",
+        "0"
+      ],
+      "target": 1
+    }
+  ],
+  "checks": [
+    "Sage Weil polynomials",
+    "complete reduced-model census",
+    "all 15 geometric kernels partitioned",
+    "every rational row degree",
+    "weighted duality",
+    "rational correspondence sign and freshly recomputed Jacobian rows"
+  ],
+  "richelot_codomain_normalization": "-[B,C][C,A][A,B]/det(rows(q2,q1,q0))"
+}

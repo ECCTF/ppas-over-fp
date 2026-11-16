@@ -1,0 +1,102 @@
+{
+  "p": 13,
+  "elliptic_classes": [
+    {
+      "id": 0,
+      "j": 5,
+      "a": 1,
+      "b": 4,
+      "aut": 2
+    },
+    {
+      "id": 1,
+      "j": 5,
+      "a": 12,
+      "b": 7,
+      "aut": 2
+    }
+  ],
+  "counts": {
+    "s": 1,
+    "t": 1,
+    "elliptic_forms": 2,
+    "split": 3,
+    "restriction": 2,
+    "real_block": 3,
+    "real_jacobian": 2,
+    "zeta_minus_one": "1/6",
+    "h_minus_p": 2,
+    "h_minus_3p": 4
+  },
+  "ell2": {
+    "elliptic_edges": [
+      {
+        "source": 0,
+        "target": 1,
+        "kernel": [
+          3,
+          1
+        ]
+      },
+      {
+        "source": 1,
+        "target": 0,
+        "kernel": [
+          11,
+          1
+        ]
+      }
+    ],
+    "product_vertices": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "product_edges": [
+      [
+        0,
+        2,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        2,
+        0,
+        1
+      ]
+    ],
+    "product_only": true
+  },
+  "ell3": {
+    "elliptic_edges": [],
+    "product_vertices": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "product_edges": [],
+    "product_only": true
+  }
+}

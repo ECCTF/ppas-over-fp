@@ -1,0 +1,30 @@
+[
+  {
+    "p": 7,
+    "old_Jacobian_classes": 2,
+    "exhaustive_classes": 2,
+    "model_rows": 8,
+    "enumerator_log": "p=7 nonsquare=3 second_pair_orbits=3 candidates=252 maximal_models=8 seconds=0.000315791\np=7 type=6 models=10 trace_zero=10 cm_zero=0 maximal_models_with_twists=0\np=7 type=4 models=115 trace_zero=55 cm_zero=3 maximal_models_with_twists=6\np=7 type=2 models=195 trace_zero=78 cm_zero=4 maximal_models_with_twists=8\np=7 type=0 models=252 trace_zero=105 cm_zero=5 maximal_models_with_twists=8\n"
+  },
+  {
+    "p": 11,
+    "old_Jacobian_classes": 8,
+    "exhaustive_classes": 8,
+    "model_rows": 38,
+    "enumerator_log": "p=11 nonsquare=2 second_pair_orbits=5 candidates=1168 maximal_models=38 seconds=0.00090404\np=11 type=6 models=84 trace_zero=60 cm_zero=10 maximal_models_with_twists=20\np=11 type=4 models=579 trace_zero=201 cm_zero=10 maximal_models_with_twists=20\np=11 type=2 models=903 trace_zero=282 cm_zero=14 maximal_models_with_twists=28\np=11 type=0 models=1168 trace_zero=390 cm_zero=20 maximal_models_with_twists=38\n"
+  },
+  {
+    "p": 13,
+    "old_Jacobian_classes": 4,
+    "exhaustive_classes": 4,
+    "model_rows": 18,
+    "enumerator_log": "p=13 nonsquare=2 second_pair_orbits=6 candidates=2018 maximal_models=18 seconds=0.00137866\np=13 type=6 models=165 trace_zero=95 cm_zero=5 maximal_models_with_twists=0\np=13 type=4 models=1023 trace_zero=329 cm_zero=5 maximal_models_with_twists=0\np=13 type=2 models=1562 trace_zero=465 cm_zero=11 maximal_models_with_twists=12\np=13 type=0 models=2018 trace_zero=657 cm_zero=16 maximal_models_with_twists=18\n"
+  },
+  {
+    "p": 31,
+    "old_Jacobian_classes": 36,
+    "exhaustive_classes": 36,
+    "model_rows": 412,
+    "enumerator_log": "p=31 nonsquare=3 second_pair_orbits=15 candidates=31508 maximal_models=412 seconds=0.0473872\np=31 type=6 models=3654 trace_zero=1490 cm_zero=90 maximal_models_with_twists=180\np=31 type=4 models=17139 trace_zero=3755 cm_zero=171 maximal_models_with_twists=342\np=31 type=2 models=24563 trace_zero=4942 cm_zero=191 maximal_models_with_twists=382\np=31 type=0 models=31508 trace_zero=7089 cm_zero=222 maximal_models_with_twists=412\n"
+  }
+]

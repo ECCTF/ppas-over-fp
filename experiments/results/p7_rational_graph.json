@@ -1,0 +1,337 @@
+{
+  "p": 7,
+  "ell": 2,
+  "field": {
+    "p": 7,
+    "nu": 3,
+    "encoding": "a+p*b with u^2=nu"
+  },
+  "weil_polynomial": [
+    49,
+    0,
+    14,
+    0,
+    1
+  ],
+  "elliptic_classes": [
+    {
+      "id": 0,
+      "j": 6,
+      "a": 1,
+      "b": 0,
+      "aut": 2
+    },
+    {
+      "id": 1,
+      "j": 6,
+      "a": 3,
+      "b": 0,
+      "aut": 2
+    }
+  ],
+  "vertices": [
+    {
+      "id": 0,
+      "label": "S0",
+      "type": "split",
+      "elliptic_ids": [
+        0,
+        0
+      ],
+      "aut": 8,
+      "degree": 3
+    },
+    {
+      "id": 1,
+      "label": "S1",
+      "type": "split",
+      "elliptic_ids": [
+        0,
+        1
+      ],
+      "aut": 4,
+      "degree": 3
+    },
+    {
+      "id": 2,
+      "label": "S2",
+      "type": "split",
+      "elliptic_ids": [
+        1,
+        1
+      ],
+      "aut": 8,
+      "degree": 15
+    },
+    {
+      "id": 3,
+      "label": "R6",
+      "type": "restriction",
+      "j_orbit": [
+        6
+      ],
+      "aut": 8,
+      "degree": 7
+    },
+    {
+      "id": 4,
+      "label": "J0",
+      "type": "Jacobian",
+      "coefficients": [
+        3,
+        0,
+        6,
+        0,
+        6,
+        0,
+        3
+      ],
+      "roots": [
+        2,
+        3,
+        4,
+        5,
+        21,
+        28
+      ],
+      "aut": 8,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 24,
+      "degree": 3
+    },
+    {
+      "id": 5,
+      "label": "J1",
+      "type": "Jacobian",
+      "coefficients": [
+        6,
+        0,
+        2,
+        0,
+        5,
+        0,
+        1
+      ],
+      "roots": [
+        1,
+        6,
+        7,
+        14,
+        35,
+        42
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 24,
+      "degree": 3
+    }
+  ],
+  "edges": [
+    {
+      "source": 0,
+      "target": 0,
+      "multiplicity": 1
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "multiplicity": 1
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "multiplicity": 1
+    },
+    {
+      "source": 1,
+      "target": 1,
+      "multiplicity": 1
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "multiplicity": 2
+    },
+    {
+      "source": 2,
+      "target": 0,
+      "multiplicity": 1
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "multiplicity": 4
+    },
+    {
+      "source": 2,
+      "target": 2,
+      "multiplicity": 5
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "multiplicity": 1
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "multiplicity": 2
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "multiplicity": 2
+    },
+    {
+      "source": 3,
+      "target": 0,
+      "multiplicity": 1
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "multiplicity": 1
+    },
+    {
+      "source": 3,
+      "target": 3,
+      "multiplicity": 3
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "multiplicity": 2
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "multiplicity": 2
+    },
+    {
+      "source": 4,
+      "target": 4,
+      "multiplicity": 1
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "multiplicity": 1
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "multiplicity": 1
+    },
+    {
+      "source": 5,
+      "target": 5,
+      "multiplicity": 1
+    }
+  ],
+  "counts": {
+    "split": 3,
+    "restriction": 1,
+    "Jacobian": 2
+  },
+  "total_vertices": 6,
+  "directed_kernels": 34,
+  "edge_categories": {
+    "S_product": 13,
+    "S_decomposed_graph": 4,
+    "S_J": 4,
+    "J_J": 2,
+    "J_split": 3,
+    "J_restriction": 1,
+    "R_product": 3,
+    "R_split": 2,
+    "R_Jacobian": 2
+  },
+  "components": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  ],
+  "component_statistics": [
+    {
+      "size": 6,
+      "counts": {
+        "split": 3,
+        "restriction": 1,
+        "Jacobian": 2
+      },
+      "directed_kernels": 34
+    }
+  ],
+  "split_affine_graph_kernels": [
+    {
+      "source": 0,
+      "target": 0,
+      "x_scalar": 1,
+      "root_permutation": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "x_scalar": 6,
+      "root_permutation": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "source": 2,
+      "target": 2,
+      "x_scalar": 1,
+      "root_permutation": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "x_scalar": 6,
+      "root_permutation": [
+        0,
+        2,
+        1
+      ]
+    }
+  ],
+  "checks": [
+    "independent elliptic Velu product rows agree with previous Sage output",
+    "all rational Richelot Jacobian rows explicitly enumerated",
+    "all Frobenius-stable split graph kernels enumerated",
+    "all restriction product kernels explicitly enumerated",
+    "every restriction row saturated by 3 product kernels and dual S/J kernels",
+    "all Frobenius-fixed Lagrangian row degrees",
+    "weighted duality for every ordered vertex pair"
+  ]
+}

@@ -1,0 +1,857 @@
+{
+  "automorphisms": [
+    {
+      "p": 7,
+      "label": "J0",
+      "rational_branch_stabilizer": 4,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 48,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 2
+    },
+    {
+      "p": 7,
+      "label": "J1",
+      "rational_branch_stabilizer": 8,
+      "rational_automorphisms": 8,
+      "geometric_automorphisms": 48,
+      "element_orders": {
+        "1": 1,
+        "2": 5,
+        "4": 2
+      },
+      "nonlifting_branch_maps": 4
+    },
+    {
+      "p": 11,
+      "label": "J0",
+      "rational_branch_stabilizer": 12,
+      "rational_automorphisms": 12,
+      "geometric_automorphisms": 24,
+      "element_orders": {
+        "1": 1,
+        "2": 7,
+        "3": 2,
+        "6": 2
+      },
+      "nonlifting_branch_maps": 6
+    },
+    {
+      "p": 11,
+      "label": "J1",
+      "rational_branch_stabilizer": 4,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 24,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 2
+    },
+    {
+      "p": 11,
+      "label": "J2",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 12,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 11,
+      "label": "J3",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 12,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 11,
+      "label": "J4",
+      "rational_branch_stabilizer": 4,
+      "rational_automorphisms": 8,
+      "geometric_automorphisms": 24,
+      "element_orders": {
+        "1": 1,
+        "2": 5,
+        "4": 2
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 11,
+      "label": "J5",
+      "rational_branch_stabilizer": 4,
+      "rational_automorphisms": 8,
+      "geometric_automorphisms": 24,
+      "element_orders": {
+        "1": 1,
+        "2": 5,
+        "4": 2
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 11,
+      "label": "J6",
+      "rational_branch_stabilizer": 6,
+      "rational_automorphisms": 12,
+      "geometric_automorphisms": 12,
+      "element_orders": {
+        "1": 1,
+        "2": 7,
+        "3": 2,
+        "6": 2
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 11,
+      "label": "J7",
+      "rational_branch_stabilizer": 6,
+      "rational_automorphisms": 12,
+      "geometric_automorphisms": 12,
+      "element_orders": {
+        "1": 1,
+        "2": 7,
+        "3": 2,
+        "6": 2
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 13,
+      "label": "J0",
+      "rational_branch_stabilizer": 8,
+      "rational_automorphisms": 8,
+      "geometric_automorphisms": 48,
+      "element_orders": {
+        "1": 1,
+        "2": 5,
+        "4": 2
+      },
+      "nonlifting_branch_maps": 4
+    },
+    {
+      "p": 13,
+      "label": "J1",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 2,
+      "geometric_automorphisms": 8,
+      "element_orders": {
+        "1": 1,
+        "2": 1
+      },
+      "nonlifting_branch_maps": 1
+    },
+    {
+      "p": 13,
+      "label": "J2",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 2,
+      "geometric_automorphisms": 12,
+      "element_orders": {
+        "1": 1,
+        "2": 1
+      },
+      "nonlifting_branch_maps": 1
+    },
+    {
+      "p": 13,
+      "label": "J3",
+      "rational_branch_stabilizer": 4,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 48,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 2
+    },
+    {
+      "p": 31,
+      "label": "J0",
+      "rational_branch_stabilizer": 4,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 48,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 2
+    },
+    {
+      "p": 31,
+      "label": "J1",
+      "rational_branch_stabilizer": 8,
+      "rational_automorphisms": 8,
+      "geometric_automorphisms": 48,
+      "element_orders": {
+        "1": 1,
+        "2": 5,
+        "4": 2
+      },
+      "nonlifting_branch_maps": 4
+    },
+    {
+      "p": 31,
+      "label": "J2",
+      "rational_branch_stabilizer": 4,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 8,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 2
+    },
+    {
+      "p": 31,
+      "label": "J3",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 2,
+      "geometric_automorphisms": 8,
+      "element_orders": {
+        "1": 1,
+        "2": 1
+      },
+      "nonlifting_branch_maps": 1
+    },
+    {
+      "p": 31,
+      "label": "J4",
+      "rational_branch_stabilizer": 4,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 8,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 2
+    },
+    {
+      "p": 31,
+      "label": "J5",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 4,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J6",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 4,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J7",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 4,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J8",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 4,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J9",
+      "rational_branch_stabilizer": 1,
+      "rational_automorphisms": 2,
+      "geometric_automorphisms": 2,
+      "element_orders": {
+        "1": 1,
+        "2": 1
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J10",
+      "rational_branch_stabilizer": 1,
+      "rational_automorphisms": 2,
+      "geometric_automorphisms": 2,
+      "element_orders": {
+        "1": 1,
+        "2": 1
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J11",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 4,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J12",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 4,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J13",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 4,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J14",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 4,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J15",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 4,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J16",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 4,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J17",
+      "rational_branch_stabilizer": 4,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 8,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 2
+    },
+    {
+      "p": 31,
+      "label": "J18",
+      "rational_branch_stabilizer": 4,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 8,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 2
+    },
+    {
+      "p": 31,
+      "label": "J19",
+      "rational_branch_stabilizer": 1,
+      "rational_automorphisms": 2,
+      "geometric_automorphisms": 2,
+      "element_orders": {
+        "1": 1,
+        "2": 1
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J20",
+      "rational_branch_stabilizer": 1,
+      "rational_automorphisms": 2,
+      "geometric_automorphisms": 2,
+      "element_orders": {
+        "1": 1,
+        "2": 1
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J21",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 4,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J22",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 4,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J23",
+      "rational_branch_stabilizer": 4,
+      "rational_automorphisms": 8,
+      "geometric_automorphisms": 8,
+      "element_orders": {
+        "1": 1,
+        "2": 5,
+        "4": 2
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J24",
+      "rational_branch_stabilizer": 4,
+      "rational_automorphisms": 8,
+      "geometric_automorphisms": 8,
+      "element_orders": {
+        "1": 1,
+        "2": 5,
+        "4": 2
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J25",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 4,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J26",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 4,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J27",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 4,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J28",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 4,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J29",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 2,
+      "geometric_automorphisms": 4,
+      "element_orders": {
+        "1": 1,
+        "2": 1
+      },
+      "nonlifting_branch_maps": 1
+    },
+    {
+      "p": 31,
+      "label": "J30",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 4,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J31",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 4,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J32",
+      "rational_branch_stabilizer": 4,
+      "rational_automorphisms": 8,
+      "geometric_automorphisms": 8,
+      "element_orders": {
+        "1": 1,
+        "2": 5,
+        "4": 2
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J33",
+      "rational_branch_stabilizer": 4,
+      "rational_automorphisms": 8,
+      "geometric_automorphisms": 8,
+      "element_orders": {
+        "1": 1,
+        "2": 5,
+        "4": 2
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J34",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 4,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 0
+    },
+    {
+      "p": 31,
+      "label": "J35",
+      "rational_branch_stabilizer": 2,
+      "rational_automorphisms": 4,
+      "geometric_automorphisms": 4,
+      "element_orders": {
+        "1": 1,
+        "2": 3
+      },
+      "nonlifting_branch_maps": 0
+    }
+  ],
+  "kernel_families": [
+    {
+      "p": 7,
+      "ell": 2,
+      "source": "II",
+      "product": 9,
+      "nonproduct": 6
+    },
+    {
+      "p": 7,
+      "ell": 2,
+      "source": "IU",
+      "product": 3,
+      "nonproduct": 0
+    },
+    {
+      "p": 7,
+      "ell": 2,
+      "source": "UU",
+      "product": 1,
+      "nonproduct": 2
+    },
+    {
+      "p": 7,
+      "ell": 2,
+      "source": "restriction",
+      "product": 3,
+      "nonproduct": 4
+    },
+    {
+      "p": 11,
+      "ell": 2,
+      "source": "II",
+      "product": 9,
+      "nonproduct": 6
+    },
+    {
+      "p": 11,
+      "ell": 2,
+      "source": "IU",
+      "product": 3,
+      "nonproduct": 0
+    },
+    {
+      "p": 11,
+      "ell": 2,
+      "source": "UU",
+      "product": 1,
+      "nonproduct": 2
+    },
+    {
+      "p": 11,
+      "ell": 2,
+      "source": "restriction",
+      "product": 3,
+      "nonproduct": 4
+    },
+    {
+      "p": 13,
+      "ell": 2,
+      "source": "II",
+      "product": 9,
+      "nonproduct": 6
+    },
+    {
+      "p": 13,
+      "ell": 2,
+      "source": "IU",
+      "product": 3,
+      "nonproduct": 0
+    },
+    {
+      "p": 13,
+      "ell": 2,
+      "source": "UU",
+      "product": 1,
+      "nonproduct": 2
+    },
+    {
+      "p": 13,
+      "ell": 2,
+      "source": "restriction",
+      "product": 3,
+      "nonproduct": 4
+    },
+    {
+      "p": 31,
+      "ell": 2,
+      "source": "II",
+      "product": 9,
+      "nonproduct": 6
+    },
+    {
+      "p": 31,
+      "ell": 2,
+      "source": "IU",
+      "product": 3,
+      "nonproduct": 0
+    },
+    {
+      "p": 31,
+      "ell": 2,
+      "source": "UU",
+      "product": 1,
+      "nonproduct": 2
+    },
+    {
+      "p": 31,
+      "ell": 2,
+      "source": "restriction",
+      "product": 3,
+      "nonproduct": 4
+    },
+    {
+      "p": 7,
+      "ell": 3,
+      "source": "split_surface",
+      "product": 0,
+      "nonproduct": 4
+    },
+    {
+      "p": 7,
+      "ell": 3,
+      "source": "restriction",
+      "product": 4,
+      "nonproduct": 0
+    },
+    {
+      "p": 11,
+      "ell": 3,
+      "source": "split_surface",
+      "product": 4,
+      "nonproduct": 2
+    },
+    {
+      "p": 11,
+      "ell": 3,
+      "source": "restriction",
+      "product": 4,
+      "nonproduct": 2
+    },
+    {
+      "p": 13,
+      "ell": 3,
+      "source": "split_surface",
+      "product": 0,
+      "nonproduct": 4
+    },
+    {
+      "p": 13,
+      "ell": 3,
+      "source": "restriction",
+      "product": 4,
+      "nonproduct": 0
+    },
+    {
+      "p": 7,
+      "ell": 5,
+      "source": "split_surface",
+      "product": 0,
+      "nonproduct": 6
+    },
+    {
+      "p": 7,
+      "ell": 5,
+      "source": "restriction",
+      "product": 6,
+      "nonproduct": 0
+    },
+    {
+      "p": 11,
+      "ell": 5,
+      "source": "split_surface",
+      "product": 4,
+      "nonproduct": 4
+    },
+    {
+      "p": 11,
+      "ell": 5,
+      "source": "restriction",
+      "product": 6,
+      "nonproduct": 2
+    },
+    {
+      "p": 13,
+      "ell": 5,
+      "source": "split_surface",
+      "product": 0,
+      "nonproduct": 6
+    },
+    {
+      "p": 13,
+      "ell": 5,
+      "source": "restriction",
+      "product": 6,
+      "nonproduct": 0
+    },
+    {
+      "p": 11,
+      "ell": 7,
+      "source": "split_surface",
+      "product": 0,
+      "nonproduct": 8
+    },
+    {
+      "p": 11,
+      "ell": 7,
+      "source": "restriction",
+      "product": 8,
+      "nonproduct": 0
+    },
+    {
+      "p": 13,
+      "ell": 7,
+      "source": "split_surface",
+      "product": 4,
+      "nonproduct": 6
+    },
+    {
+      "p": 13,
+      "ell": 7,
+      "source": "restriction",
+      "product": 8,
+      "nonproduct": 2
+    }
+  ],
+  "dual_example": {
+    "p": 7,
+    "ell": 2,
+    "elliptic_source": [
+      1,
+      0
+    ],
+    "forward_degree": 4,
+    "reverse_degree": 4,
+    "composite_degree": 16,
+    "verified": true
+  }
+}

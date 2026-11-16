@@ -1,0 +1,78 @@
+{
+  "p": 31,
+  "ell": 2,
+  "reused_data": "p31_maximal_graph.json: labels, equations, aut orders, and final adjacency comparison",
+  "independence": "Loop counts use complete norm-bounded integer/Gaussian matrix enumeration and direct two-torsion kernels; no graph quotient routine is imported.",
+  "norm_bounds": {
+    "rational_noninteger_minimum": 8,
+    "geometric_outside_gaussian_lower_bound": "31/4",
+    "entry_norm_maximum": 2
+  },
+  "matrix_counts": {
+    "rational_norm_one": 8,
+    "geometric_norm_one": 32,
+    "rational_norm_two": 8,
+    "geometric_norm_two": 96
+  },
+  "loop_kernel_counts": {
+    "rational_codomain_same_Fp_form": 1,
+    "geometric_codomain_same_class": 3,
+    "Frobenius_stable_geometric_loop_kernels": 3
+  },
+  "models": {
+    "S18": "E0^2, E0: y^2=x^3+x",
+    "S20": "E1^2, E1: y^2=x^3+3x",
+    "R23": "Res_Fp2/Fp(E0 over Fp2)",
+    "j": 23,
+    "Fp_point_counts_of_elliptic_factors": [
+      32,
+      32
+    ],
+    "Fp_aut_orders": [
+      8,
+      8,
+      8
+    ]
+  },
+  "quotient_identification": {
+    "graph_identity": "S18, via the rational norm-two matrix [[1,1],[-1,1]]",
+    "product_kernel": {
+      "codomain": "S20",
+      "elliptic_quotient_a": 27,
+      "Fp_scalings_to_E1": [
+        14,
+        17
+      ]
+    },
+    "graph_i": {
+      "codomain": "R23",
+      "geometric_quotient_map": "[[1,i],[i,1]]",
+      "target_Frobenius": "i*swap*pi",
+      "reason": "Frobenius exchanges the two canonical polarized factors"
+    },
+    "E0_to_E1_over_Fp2": {
+      "field": "Fp[i], i^2=-1",
+      "u": [
+        14,
+        14
+      ],
+      "u_fourth_power": [
+        3,
+        0
+      ]
+    }
+  },
+  "predicted_S18_row": {
+    "S18": 1,
+    "S20": 1,
+    "R23": 1
+  },
+  "stored_S18_row": {
+    "S18": 1,
+    "S20": 1,
+    "R23": 1
+  },
+  "stored_S20_self_loops": 1,
+  "checks_passed": true,
+  "limitation": "This verifies one complete degree-three row and the rational loop count at two j=1728 squares, not the full p=31 adjacency matrix."
+}

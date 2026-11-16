@@ -1,0 +1,2826 @@
+{
+  "p": 127,
+  "extension_nonresidue": 3,
+  "elliptic_classes": [
+    {
+      "id": 0,
+      "a": 1,
+      "b": 0,
+      "j": 77
+    },
+    {
+      "id": 1,
+      "a": 1,
+      "b": 21,
+      "j": 125
+    },
+    {
+      "id": 2,
+      "a": 1,
+      "b": 106,
+      "j": 125
+    },
+    {
+      "id": 3,
+      "a": 3,
+      "b": 0,
+      "j": 77
+    },
+    {
+      "id": 4,
+      "a": 3,
+      "b": 14,
+      "j": 126
+    },
+    {
+      "id": 5,
+      "a": 3,
+      "b": 54,
+      "j": 73
+    },
+    {
+      "id": 6,
+      "a": 3,
+      "b": 62,
+      "j": 95
+    },
+    {
+      "id": 7,
+      "a": 3,
+      "b": 65,
+      "j": 95
+    },
+    {
+      "id": 8,
+      "a": 3,
+      "b": 73,
+      "j": 73
+    },
+    {
+      "id": 9,
+      "a": 3,
+      "b": 113,
+      "j": 126
+    }
+  ],
+  "kernels": [
+    {
+      "split_ids": [
+        0,
+        1
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "coefficients": [
+        76,
+        0,
+        86,
+        0,
+        53,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        0,
+        1
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        26,
+        0,
+        4,
+        0,
+        95,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        0,
+        2
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "coefficients": [
+        101,
+        0,
+        4,
+        0,
+        32,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        0,
+        2
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        51,
+        0,
+        86,
+        0,
+        74,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        0,
+        5
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "coefficients": [
+        51,
+        0,
+        101,
+        0,
+        101,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        0,
+        5
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        101,
+        0,
+        49,
+        0,
+        78,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        0,
+        8
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "coefficients": [
+        26,
+        0,
+        49,
+        0,
+        49,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        0,
+        8
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        76,
+        0,
+        101,
+        0,
+        26,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        1,
+        1
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        1,
+        0,
+        86,
+        0,
+        86,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        1,
+        2
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "coefficients": [
+        126,
+        0,
+        86,
+        0,
+        41,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        1,
+        5
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "coefficients": [
+        1,
+        0,
+        121,
+        0,
+        112,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        1,
+        5
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        124,
+        0,
+        82,
+        0,
+        90,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        1,
+        8
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "coefficients": [
+        3,
+        0,
+        82,
+        0,
+        37,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        1,
+        8
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        126,
+        0,
+        121,
+        0,
+        15,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        2,
+        2
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        3,
+        0,
+        4,
+        0,
+        4,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        2,
+        5
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "coefficients": [
+        1,
+        0,
+        112,
+        0,
+        97,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        2,
+        5
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        124,
+        0,
+        109,
+        0,
+        45,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        2,
+        8
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "coefficients": [
+        3,
+        0,
+        109,
+        0,
+        82,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        2,
+        8
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        126,
+        0,
+        112,
+        0,
+        30,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        3
+      ],
+      "root_permutation": [
+        1,
+        0,
+        2
+      ],
+      "coefficients": [
+        1,
+        0,
+        62,
+        0,
+        62,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        3
+      ],
+      "root_permutation": [
+        1,
+        2,
+        0
+      ],
+      "coefficients": [
+        124,
+        0,
+        59,
+        0,
+        68,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        3
+      ],
+      "root_permutation": [
+        2,
+        0,
+        1
+      ],
+      "coefficients": [
+        126,
+        0,
+        62,
+        0,
+        65,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        3
+      ],
+      "root_permutation": [
+        2,
+        1,
+        0
+      ],
+      "coefficients": [
+        3,
+        0,
+        59,
+        0,
+        59,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        4
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "coefficients": [
+        81,
+        0,
+        64,
+        0,
+        86,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        4
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        100,
+        0,
+        106,
+        0,
+        56,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        4
+      ],
+      "root_permutation": [
+        1,
+        0,
+        2
+      ],
+      "coefficients": [
+        46,
+        0,
+        112,
+        0,
+        53,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        4
+      ],
+      "root_permutation": [
+        1,
+        2,
+        0
+      ],
+      "coefficients": [
+        27,
+        0,
+        122,
+        0,
+        67,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        4
+      ],
+      "root_permutation": [
+        2,
+        0,
+        1
+      ],
+      "coefficients": [
+        81,
+        0,
+        78,
+        0,
+        94,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        4
+      ],
+      "root_permutation": [
+        2,
+        1,
+        0
+      ],
+      "coefficients": [
+        100,
+        0,
+        26,
+        0,
+        11,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        6
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "coefficients": [
+        104,
+        0,
+        28,
+        0,
+        61,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        6
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        50,
+        0,
+        94,
+        0,
+        22,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        6
+      ],
+      "root_permutation": [
+        1,
+        0,
+        2
+      ],
+      "coefficients": [
+        50,
+        0,
+        9,
+        0,
+        100,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        6
+      ],
+      "root_permutation": [
+        1,
+        2,
+        0
+      ],
+      "coefficients": [
+        104,
+        0,
+        27,
+        0,
+        81,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        6
+      ],
+      "root_permutation": [
+        2,
+        0,
+        1
+      ],
+      "coefficients": [
+        104,
+        0,
+        72,
+        0,
+        112,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        6
+      ],
+      "root_permutation": [
+        2,
+        1,
+        0
+      ],
+      "coefficients": [
+        50,
+        0,
+        24,
+        0,
+        5,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        7
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "coefficients": [
+        77,
+        0,
+        24,
+        0,
+        122,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        7
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        23,
+        0,
+        72,
+        0,
+        15,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        7
+      ],
+      "root_permutation": [
+        1,
+        0,
+        2
+      ],
+      "coefficients": [
+        23,
+        0,
+        27,
+        0,
+        46,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        7
+      ],
+      "root_permutation": [
+        1,
+        2,
+        0
+      ],
+      "coefficients": [
+        77,
+        0,
+        9,
+        0,
+        27,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        7
+      ],
+      "root_permutation": [
+        2,
+        0,
+        1
+      ],
+      "coefficients": [
+        77,
+        0,
+        94,
+        0,
+        105,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        7
+      ],
+      "root_permutation": [
+        2,
+        1,
+        0
+      ],
+      "coefficients": [
+        23,
+        0,
+        28,
+        0,
+        66,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        9
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "coefficients": [
+        27,
+        0,
+        26,
+        0,
+        116,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        9
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        46,
+        0,
+        78,
+        0,
+        33,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        9
+      ],
+      "root_permutation": [
+        1,
+        0,
+        2
+      ],
+      "coefficients": [
+        100,
+        0,
+        122,
+        0,
+        60,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        9
+      ],
+      "root_permutation": [
+        1,
+        2,
+        0
+      ],
+      "coefficients": [
+        81,
+        0,
+        112,
+        0,
+        74,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        9
+      ],
+      "root_permutation": [
+        2,
+        0,
+        1
+      ],
+      "coefficients": [
+        27,
+        0,
+        106,
+        0,
+        71,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        9
+      ],
+      "root_permutation": [
+        2,
+        1,
+        0
+      ],
+      "coefficients": [
+        46,
+        0,
+        64,
+        0,
+        41,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        4,
+        4
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        1,
+        0,
+        106,
+        0,
+        106,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        4,
+        4
+      ],
+      "root_permutation": [
+        1,
+        0,
+        2
+      ],
+      "coefficients": [
+        3,
+        0,
+        78,
+        0,
+        78,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        4,
+        4
+      ],
+      "root_permutation": [
+        1,
+        2,
+        0
+      ],
+      "coefficients": [
+        124,
+        0,
+        18,
+        0,
+        27,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        4,
+        4
+      ],
+      "root_permutation": [
+        2,
+        0,
+        1
+      ],
+      "coefficients": [
+        126,
+        0,
+        118,
+        0,
+        121,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        4,
+        4
+      ],
+      "root_permutation": [
+        2,
+        1,
+        0
+      ],
+      "coefficients": [
+        1,
+        0,
+        122,
+        0,
+        122,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        4,
+        6
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "coefficients": [
+        63,
+        0,
+        18,
+        0,
+        82,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        4,
+        6
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        64,
+        0,
+        117,
+        0,
+        84,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        4,
+        6
+      ],
+      "root_permutation": [
+        1,
+        0,
+        2
+      ],
+      "coefficients": [
+        65,
+        0,
+        124,
+        0,
+        20,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        4,
+        6
+      ],
+      "root_permutation": [
+        1,
+        2,
+        0
+      ],
+      "coefficients": [
+        62,
+        0,
+        8,
+        0,
+        62,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        4,
+        6
+      ],
+      "root_permutation": [
+        2,
+        0,
+        1
+      ],
+      "coefficients": [
+        63,
+        0,
+        64,
+        0,
+        109,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        4,
+        6
+      ],
+      "root_permutation": [
+        2,
+        1,
+        0
+      ],
+      "coefficients": [
+        64,
+        0,
+        11,
+        0,
+        121,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        4,
+        7
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "coefficients": [
+        63,
+        0,
+        11,
+        0,
+        6,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        4,
+        7
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        64,
+        0,
+        64,
+        0,
+        18,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        4,
+        7
+      ],
+      "root_permutation": [
+        1,
+        0,
+        2
+      ],
+      "coefficients": [
+        65,
+        0,
+        8,
+        0,
+        65,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        4,
+        7
+      ],
+      "root_permutation": [
+        1,
+        2,
+        0
+      ],
+      "coefficients": [
+        62,
+        0,
+        124,
+        0,
+        107,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        4,
+        7
+      ],
+      "root_permutation": [
+        2,
+        0,
+        1
+      ],
+      "coefficients": [
+        63,
+        0,
+        117,
+        0,
+        43,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        4,
+        7
+      ],
+      "root_permutation": [
+        2,
+        1,
+        0
+      ],
+      "coefficients": [
+        64,
+        0,
+        18,
+        0,
+        45,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        4,
+        9
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "coefficients": [
+        126,
+        0,
+        122,
+        0,
+        5,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        4,
+        9
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        1,
+        0,
+        118,
+        0,
+        6,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        4,
+        9
+      ],
+      "root_permutation": [
+        1,
+        0,
+        2
+      ],
+      "coefficients": [
+        3,
+        0,
+        18,
+        0,
+        100,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        4,
+        9
+      ],
+      "root_permutation": [
+        1,
+        2,
+        0
+      ],
+      "coefficients": [
+        124,
+        0,
+        78,
+        0,
+        49,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        4,
+        9
+      ],
+      "root_permutation": [
+        2,
+        0,
+        1
+      ],
+      "coefficients": [
+        126,
+        0,
+        106,
+        0,
+        21,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        5,
+        5
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        3,
+        0,
+        20,
+        0,
+        20,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        5,
+        8
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "coefficients": [
+        124,
+        0,
+        20,
+        0,
+        107,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        6,
+        6
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        3,
+        0,
+        28,
+        0,
+        28,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        6,
+        6
+      ],
+      "root_permutation": [
+        1,
+        0,
+        2
+      ],
+      "coefficients": [
+        1,
+        0,
+        24,
+        0,
+        24,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        6,
+        6
+      ],
+      "root_permutation": [
+        1,
+        2,
+        0
+      ],
+      "coefficients": [
+        124,
+        0,
+        68,
+        0,
+        77,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        6,
+        6
+      ],
+      "root_permutation": [
+        2,
+        0,
+        1
+      ],
+      "coefficients": [
+        126,
+        0,
+        59,
+        0,
+        62,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        6,
+        6
+      ],
+      "root_permutation": [
+        2,
+        1,
+        0
+      ],
+      "coefficients": [
+        3,
+        0,
+        27,
+        0,
+        27,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        6,
+        7
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "coefficients": [
+        124,
+        0,
+        27,
+        0,
+        100,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        6,
+        7
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        1,
+        0,
+        59,
+        0,
+        65,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        6,
+        7
+      ],
+      "root_permutation": [
+        1,
+        0,
+        2
+      ],
+      "coefficients": [
+        3,
+        0,
+        68,
+        0,
+        50,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        6,
+        7
+      ],
+      "root_permutation": [
+        1,
+        2,
+        0
+      ],
+      "coefficients": [
+        126,
+        0,
+        24,
+        0,
+        103,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        6,
+        7
+      ],
+      "root_permutation": [
+        2,
+        0,
+        1
+      ],
+      "coefficients": [
+        124,
+        0,
+        28,
+        0,
+        99,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        6,
+        9
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "coefficients": [
+        125,
+        0,
+        115,
+        0,
+        105,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        6,
+        9
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        2,
+        0,
+        1,
+        0,
+        90,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        6,
+        9
+      ],
+      "root_permutation": [
+        1,
+        0,
+        2
+      ],
+      "coefficients": [
+        6,
+        0,
+        108,
+        0,
+        3,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        6,
+        9
+      ],
+      "root_permutation": [
+        1,
+        2,
+        0
+      ],
+      "coefficients": [
+        121,
+        0,
+        40,
+        0,
+        6,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        6,
+        9
+      ],
+      "root_permutation": [
+        2,
+        0,
+        1
+      ],
+      "coefficients": [
+        125,
+        0,
+        41,
+        0,
+        20,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        6,
+        9
+      ],
+      "root_permutation": [
+        2,
+        1,
+        0
+      ],
+      "coefficients": [
+        6,
+        0,
+        16,
+        0,
+        108,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        7,
+        7
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        3,
+        0,
+        72,
+        0,
+        72,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        7,
+        7
+      ],
+      "root_permutation": [
+        1,
+        0,
+        2
+      ],
+      "coefficients": [
+        1,
+        0,
+        94,
+        0,
+        94,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        7,
+        7
+      ],
+      "root_permutation": [
+        1,
+        2,
+        0
+      ],
+      "coefficients": [
+        124,
+        0,
+        50,
+        0,
+        59,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        7,
+        7
+      ],
+      "root_permutation": [
+        2,
+        0,
+        1
+      ],
+      "coefficients": [
+        126,
+        0,
+        65,
+        0,
+        68,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        7,
+        7
+      ],
+      "root_permutation": [
+        2,
+        1,
+        0
+      ],
+      "coefficients": [
+        1,
+        0,
+        9,
+        0,
+        9,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        7,
+        9
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "coefficients": [
+        125,
+        0,
+        90,
+        0,
+        91,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        7,
+        9
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        2,
+        0,
+        98,
+        0,
+        125,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        7,
+        9
+      ],
+      "root_permutation": [
+        1,
+        0,
+        2
+      ],
+      "coefficients": [
+        6,
+        0,
+        123,
+        0,
+        67,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        7,
+        9
+      ],
+      "root_permutation": [
+        1,
+        2,
+        0
+      ],
+      "coefficients": [
+        121,
+        0,
+        3,
+        0,
+        111,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        7,
+        9
+      ],
+      "root_permutation": [
+        2,
+        0,
+        1
+      ],
+      "coefficients": [
+        125,
+        0,
+        36,
+        0,
+        126,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        7,
+        9
+      ],
+      "root_permutation": [
+        2,
+        1,
+        0
+      ],
+      "coefficients": [
+        6,
+        0,
+        91,
+        0,
+        66,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        8,
+        8
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        1,
+        0,
+        49,
+        0,
+        49,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        9,
+        9
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        1,
+        0,
+        26,
+        0,
+        26,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        9,
+        9
+      ],
+      "root_permutation": [
+        1,
+        0,
+        2
+      ],
+      "coefficients": [
+        3,
+        0,
+        64,
+        0,
+        64,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        9,
+        9
+      ],
+      "root_permutation": [
+        1,
+        2,
+        0
+      ],
+      "coefficients": [
+        124,
+        0,
+        100,
+        0,
+        109,
+        0,
+        3
+      ]
+    },
+    {
+      "split_ids": [
+        9,
+        9
+      ],
+      "root_permutation": [
+        2,
+        0,
+        1
+      ],
+      "coefficients": [
+        126,
+        0,
+        6,
+        0,
+        9,
+        0,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        9,
+        9
+      ],
+      "root_permutation": [
+        2,
+        1,
+        0
+      ],
+      "coefficients": [
+        3,
+        0,
+        112,
+        0,
+        112,
+        0,
+        3
+      ]
+    }
+  ],
+  "decomposed_graph_kernels": [
+    {
+      "split_ids": [
+        0,
+        0
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "split_ids": [
+        0,
+        0
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        1,
+        1
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "split_ids": [
+        1,
+        2
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        2,
+        2
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        3
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "split_ids": [
+        3,
+        3
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        4,
+        4
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "split_ids": [
+        4,
+        9
+      ],
+      "root_permutation": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "split_ids": [
+        5,
+        5
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "split_ids": [
+        5,
+        8
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "split_ids": [
+        6,
+        6
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "split_ids": [
+        6,
+        7
+      ],
+      "root_permutation": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "split_ids": [
+        7,
+        7
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "split_ids": [
+        8,
+        8
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "split_ids": [
+        9,
+        9
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "split_rows": [
+    {
+      "split_ids": [
+        0,
+        0
+      ],
+      "product_kernels": 1,
+      "graph_kernels": 2,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        0,
+        1
+      ],
+      "product_kernels": 1,
+      "graph_kernels": 2,
+      "Jacobian_kernels": 2
+    },
+    {
+      "split_ids": [
+        0,
+        2
+      ],
+      "product_kernels": 1,
+      "graph_kernels": 2,
+      "Jacobian_kernels": 2
+    },
+    {
+      "split_ids": [
+        0,
+        3
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        0,
+        4
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        0,
+        5
+      ],
+      "product_kernels": 1,
+      "graph_kernels": 2,
+      "Jacobian_kernels": 2
+    },
+    {
+      "split_ids": [
+        0,
+        6
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        0,
+        7
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        0,
+        8
+      ],
+      "product_kernels": 1,
+      "graph_kernels": 2,
+      "Jacobian_kernels": 2
+    },
+    {
+      "split_ids": [
+        0,
+        9
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        1,
+        1
+      ],
+      "product_kernels": 1,
+      "graph_kernels": 2,
+      "Jacobian_kernels": 1
+    },
+    {
+      "split_ids": [
+        1,
+        2
+      ],
+      "product_kernels": 1,
+      "graph_kernels": 2,
+      "Jacobian_kernels": 1
+    },
+    {
+      "split_ids": [
+        1,
+        3
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        1,
+        4
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        1,
+        5
+      ],
+      "product_kernels": 1,
+      "graph_kernels": 2,
+      "Jacobian_kernels": 2
+    },
+    {
+      "split_ids": [
+        1,
+        6
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        1,
+        7
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        1,
+        8
+      ],
+      "product_kernels": 1,
+      "graph_kernels": 2,
+      "Jacobian_kernels": 2
+    },
+    {
+      "split_ids": [
+        1,
+        9
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        2,
+        2
+      ],
+      "product_kernels": 1,
+      "graph_kernels": 2,
+      "Jacobian_kernels": 1
+    },
+    {
+      "split_ids": [
+        2,
+        3
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        2,
+        4
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        2,
+        5
+      ],
+      "product_kernels": 1,
+      "graph_kernels": 2,
+      "Jacobian_kernels": 2
+    },
+    {
+      "split_ids": [
+        2,
+        6
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        2,
+        7
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        2,
+        8
+      ],
+      "product_kernels": 1,
+      "graph_kernels": 2,
+      "Jacobian_kernels": 2
+    },
+    {
+      "split_ids": [
+        2,
+        9
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        3,
+        3
+      ],
+      "product_kernels": 9,
+      "graph_kernels": 6,
+      "Jacobian_kernels": 4
+    },
+    {
+      "split_ids": [
+        3,
+        4
+      ],
+      "product_kernels": 9,
+      "graph_kernels": 6,
+      "Jacobian_kernels": 6
+    },
+    {
+      "split_ids": [
+        3,
+        5
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        3,
+        6
+      ],
+      "product_kernels": 9,
+      "graph_kernels": 6,
+      "Jacobian_kernels": 6
+    },
+    {
+      "split_ids": [
+        3,
+        7
+      ],
+      "product_kernels": 9,
+      "graph_kernels": 6,
+      "Jacobian_kernels": 6
+    },
+    {
+      "split_ids": [
+        3,
+        8
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        3,
+        9
+      ],
+      "product_kernels": 9,
+      "graph_kernels": 6,
+      "Jacobian_kernels": 6
+    },
+    {
+      "split_ids": [
+        4,
+        4
+      ],
+      "product_kernels": 9,
+      "graph_kernels": 6,
+      "Jacobian_kernels": 5
+    },
+    {
+      "split_ids": [
+        4,
+        5
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        4,
+        6
+      ],
+      "product_kernels": 9,
+      "graph_kernels": 6,
+      "Jacobian_kernels": 6
+    },
+    {
+      "split_ids": [
+        4,
+        7
+      ],
+      "product_kernels": 9,
+      "graph_kernels": 6,
+      "Jacobian_kernels": 6
+    },
+    {
+      "split_ids": [
+        4,
+        8
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        4,
+        9
+      ],
+      "product_kernels": 9,
+      "graph_kernels": 6,
+      "Jacobian_kernels": 5
+    },
+    {
+      "split_ids": [
+        5,
+        5
+      ],
+      "product_kernels": 1,
+      "graph_kernels": 2,
+      "Jacobian_kernels": 1
+    },
+    {
+      "split_ids": [
+        5,
+        6
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        5,
+        7
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        5,
+        8
+      ],
+      "product_kernels": 1,
+      "graph_kernels": 2,
+      "Jacobian_kernels": 1
+    },
+    {
+      "split_ids": [
+        5,
+        9
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        6,
+        6
+      ],
+      "product_kernels": 9,
+      "graph_kernels": 6,
+      "Jacobian_kernels": 5
+    },
+    {
+      "split_ids": [
+        6,
+        7
+      ],
+      "product_kernels": 9,
+      "graph_kernels": 6,
+      "Jacobian_kernels": 5
+    },
+    {
+      "split_ids": [
+        6,
+        8
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        6,
+        9
+      ],
+      "product_kernels": 9,
+      "graph_kernels": 6,
+      "Jacobian_kernels": 6
+    },
+    {
+      "split_ids": [
+        7,
+        7
+      ],
+      "product_kernels": 9,
+      "graph_kernels": 6,
+      "Jacobian_kernels": 5
+    },
+    {
+      "split_ids": [
+        7,
+        8
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        7,
+        9
+      ],
+      "product_kernels": 9,
+      "graph_kernels": 6,
+      "Jacobian_kernels": 6
+    },
+    {
+      "split_ids": [
+        8,
+        8
+      ],
+      "product_kernels": 1,
+      "graph_kernels": 2,
+      "Jacobian_kernels": 1
+    },
+    {
+      "split_ids": [
+        8,
+        9
+      ],
+      "product_kernels": 3,
+      "graph_kernels": 0,
+      "Jacobian_kernels": 0
+    },
+    {
+      "split_ids": [
+        9,
+        9
+      ],
+      "product_kernels": 9,
+      "graph_kernels": 6,
+      "Jacobian_kernels": 5
+    }
+  ],
+  "distinct_equations": 104,
+  "seconds": 0.046,
+  "source": "Howe--Leprevost--Poonen (2000), Proposition 4"
+}

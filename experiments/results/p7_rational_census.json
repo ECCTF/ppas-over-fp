@@ -1,0 +1,158 @@
+{
+  "p": 7,
+  "richelot_sign": -1,
+  "field": {
+    "p": 7,
+    "nu": 3,
+    "encoding": "a+p*b with u^2=nu"
+  },
+  "complete_jacobian_closure": true,
+  "processed": 2,
+  "elapsed_seconds": 0.011125326156616211,
+  "vertices": [
+    {
+      "id": 0,
+      "label": "J0",
+      "type": "Jacobian",
+      "coefficients": [
+        3,
+        0,
+        6,
+        0,
+        6,
+        0,
+        3
+      ],
+      "roots": [
+        2,
+        3,
+        4,
+        5,
+        21,
+        28
+      ],
+      "aut": 8,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 24,
+      "degree": 3
+    },
+    {
+      "id": 1,
+      "label": "J1",
+      "type": "Jacobian",
+      "coefficients": [
+        6,
+        0,
+        2,
+        0,
+        5,
+        0,
+        1
+      ],
+      "roots": [
+        1,
+        6,
+        7,
+        14,
+        35,
+        42
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 24,
+      "degree": 3
+    }
+  ],
+  "edges": [
+    {
+      "source": 0,
+      "target": 0,
+      "multiplicity": 1
+    },
+    {
+      "source": 1,
+      "target": 1,
+      "multiplicity": 1
+    }
+  ],
+  "decomposed_edges": [
+    {
+      "source": 0,
+      "multiplicity": 2,
+      "type": "split",
+      "elliptic_models": [
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 1,
+      "multiplicity": 1,
+      "type": "restriction",
+      "j_orbit": [
+        6
+      ],
+      "auxiliary_elliptic_model": [
+        3,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 1,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    }
+  ],
+  "seed_indices": [
+    0,
+    1,
+    1,
+    0
+  ],
+  "geometric_jacobian_classes": 1,
+  "rational_jacobian_classes": 2,
+  "jacobian_kernel_count": 6
+}

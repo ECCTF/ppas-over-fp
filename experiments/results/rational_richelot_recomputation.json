@@ -1,0 +1,33 @@
+[
+  {
+    "p": 7,
+    "changed_matrix_entries": 0,
+    "components": [
+      6
+    ]
+  },
+  {
+    "p": 11,
+    "changed_matrix_entries": 20,
+    "components": [
+      17,
+      3
+    ]
+  },
+  {
+    "p": 13,
+    "changed_matrix_entries": 0,
+    "components": [
+      3,
+      4,
+      1
+    ]
+  },
+  {
+    "p": 31,
+    "changed_matrix_entries": 156,
+    "components": [
+      60
+    ]
+  }
+]

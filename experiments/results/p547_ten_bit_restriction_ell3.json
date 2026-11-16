@@ -1,0 +1,2502 @@
+{
+  "p": 547,
+  "bits": 10,
+  "p_mod_8": 3,
+  "field_relation": "u^2=2",
+  "field_encoding": "a+p*b denotes a+b*u, 0<=a,b<p",
+  "ell": 3,
+  "scope": "Complete closed Weil-restriction sector in the maximal block; not the full PPAS graph",
+  "model_convention": "Auxiliary geometric models compute quotient j. Vertices represent unique maximal elliptic forms; generic quadratic twisting leaves the geometric kernel/codomain-j multiset unchanged.",
+  "h_quadratic_field": 3,
+  "s": 6,
+  "t": 46,
+  "split_vertices": 78,
+  "restriction_vertices": 26,
+  "elliptic_seed_j": 87,
+  "elliptic_models": [
+    {
+      "j": 87,
+      "a": 1,
+      "b": 0,
+      "kernels": [
+        {
+          "kernel_x": 95851,
+          "target_j": 92548,
+          "quotient_a": 105592,
+          "quotient_b": 207275
+        },
+        {
+          "kernel_x": 96146,
+          "target_j": 206871,
+          "quotient_a": 193659,
+          "quotient_b": 206804
+        },
+        {
+          "kernel_x": 203610,
+          "target_j": 206871,
+          "quotient_a": 193659,
+          "quotient_b": 92952
+        },
+        {
+          "kernel_x": 203905,
+          "target_j": 92548,
+          "quotient_a": 105592,
+          "quotient_b": 92481
+        }
+      ]
+    },
+    {
+      "j": 92548,
+      "a": 178595,
+      "b": 19327,
+      "kernels": [
+        {
+          "kernel_x": 59619,
+          "target_j": 124108,
+          "quotient_a": 6682,
+          "quotient_b": 169548
+        },
+        {
+          "kernel_x": 78119,
+          "target_j": 87,
+          "quotient_a": 112207,
+          "quotient_b": 0
+        },
+        {
+          "kernel_x": 213483,
+          "target_j": 118762,
+          "quotient_a": 144365,
+          "quotient_b": 297203
+        },
+        {
+          "kernel_x": 248838,
+          "target_j": 273938,
+          "quotient_a": 55605,
+          "quotient_b": 83834
+        }
+      ]
+    },
+    {
+      "j": 206871,
+      "a": 121160,
+      "b": 280246,
+      "kernels": [
+        {
+          "kernel_x": 51371,
+          "target_j": 26147,
+          "quotient_a": 244320,
+          "quotient_b": 215661
+        },
+        {
+          "kernel_x": 86032,
+          "target_j": 180573,
+          "quotient_a": 155852,
+          "quotient_b": 2370
+        },
+        {
+          "kernel_x": 221980,
+          "target_j": 87,
+          "quotient_a": 187146,
+          "quotient_b": 0
+        },
+        {
+          "kernel_x": 240676,
+          "target_j": 176073,
+          "quotient_a": 292763,
+          "quotient_b": 130711
+        }
+      ]
+    },
+    {
+      "j": 124108,
+      "a": 180098,
+      "b": 20329,
+      "kernels": [
+        {
+          "kernel_x": 14023,
+          "target_j": 92548,
+          "quotient_a": 87149,
+          "quotient_b": 74162
+        },
+        {
+          "kernel_x": 165882,
+          "target_j": 273429,
+          "quotient_a": 100624,
+          "quotient_b": 268681
+        },
+        {
+          "kernel_x": 168400,
+          "target_j": 149279,
+          "quotient_a": 256487,
+          "quotient_b": 177467
+        },
+        {
+          "kernel_x": 251207,
+          "target_j": 176073,
+          "quotient_a": 12885,
+          "quotient_b": 232602
+        }
+      ]
+    },
+    {
+      "j": 118762,
+      "a": 103595,
+      "b": 69428,
+      "kernels": [
+        {
+          "kernel_x": 4208,
+          "target_j": 166873,
+          "quotient_a": 264859,
+          "quotient_b": 80668
+        },
+        {
+          "kernel_x": 174397,
+          "target_j": 180573,
+          "quotient_a": 144874,
+          "quotient_b": 55236
+        },
+        {
+          "kernel_x": 179226,
+          "target_j": 92548,
+          "quotient_a": 264017,
+          "quotient_b": 99826
+        },
+        {
+          "kernel_x": 242228,
+          "target_j": 180573,
+          "quotient_a": 232386,
+          "quotient_b": 248438
+        }
+      ]
+    },
+    {
+      "j": 273938,
+      "a": 80468,
+      "b": 54010,
+      "kernels": [
+        {
+          "kernel_x": 106484,
+          "target_j": 92548,
+          "quotient_a": 62359,
+          "quotient_b": 106445
+        },
+        {
+          "kernel_x": 126599,
+          "target_j": 111425,
+          "quotient_a": 220432,
+          "quotient_b": 94389
+        },
+        {
+          "kernel_x": 161897,
+          "target_j": 206149,
+          "quotient_a": 286620,
+          "quotient_b": 225076
+        },
+        {
+          "kernel_x": 205079,
+          "target_j": 67668,
+          "quotient_a": 201892,
+          "quotient_b": 216616
+        }
+      ]
+    },
+    {
+      "j": 26147,
+      "a": 218859,
+      "b": 246007,
+      "kernels": [
+        {
+          "kernel_x": 95132,
+          "target_j": 232315,
+          "quotient_a": 97415,
+          "quotient_b": 82601
+        },
+        {
+          "kernel_x": 138376,
+          "target_j": 94014,
+          "quotient_a": 13667,
+          "quotient_b": 74651
+        },
+        {
+          "kernel_x": 173094,
+          "target_j": 188552,
+          "quotient_a": 79853,
+          "quotient_b": 205430
+        },
+        {
+          "kernel_x": 193457,
+          "target_j": 206871,
+          "quotient_a": 236852,
+          "quotient_b": 193418
+        }
+      ]
+    },
+    {
+      "j": 180573,
+      "a": 196038,
+      "b": 230793,
+      "kernels": [
+        {
+          "kernel_x": 57889,
+          "target_j": 118762,
+          "quotient_a": 67739,
+          "quotient_b": 50971
+        },
+        {
+          "kernel_x": 120697,
+          "target_j": 206871,
+          "quotient_a": 35918,
+          "quotient_b": 199927
+        },
+        {
+          "kernel_x": 125714,
+          "target_j": 118762,
+          "quotient_a": 155267,
+          "quotient_b": 245045
+        },
+        {
+          "kernel_x": 295759,
+          "target_j": 132412,
+          "quotient_a": 34572,
+          "quotient_b": 219059
+        }
+      ]
+    },
+    {
+      "j": 176073,
+      "a": 119381,
+      "b": 279060,
+      "kernels": [
+        {
+          "kernel_x": 48270,
+          "target_j": 124108,
+          "quotient_a": 286932,
+          "quotient_b": 66861
+        },
+        {
+          "kernel_x": 131751,
+          "target_j": 150920,
+          "quotient_a": 43704,
+          "quotient_b": 122220
+        },
+        {
+          "kernel_x": 133609,
+          "target_j": 26732,
+          "quotient_a": 199631,
+          "quotient_b": 30736
+        },
+        {
+          "kernel_x": 285882,
+          "target_j": 206871,
+          "quotient_a": 212412,
+          "quotient_b": 225681
+        }
+      ]
+    },
+    {
+      "j": 273429,
+      "a": 263751,
+      "b": 76280,
+      "kernels": [
+        {
+          "kernel_x": 49258,
+          "target_j": 124108,
+          "quotient_a": 195784,
+          "quotient_b": 111485
+        },
+        {
+          "kernel_x": 98309,
+          "target_j": 48051,
+          "quotient_a": 257276,
+          "quotient_b": 208276
+        },
+        {
+          "kernel_x": 168788,
+          "target_j": 188552,
+          "quotient_a": 112164,
+          "quotient_b": 101225
+        },
+        {
+          "kernel_x": 283157,
+          "target_j": 321,
+          "quotient_a": 39701,
+          "quotient_b": 182102
+        }
+      ]
+    },
+    {
+      "j": 149279,
+      "a": 218200,
+      "b": 45548,
+      "kernels": [
+        {
+          "kernel_x": 8426,
+          "target_j": 120008,
+          "quotient_a": 249173,
+          "quotient_b": 191865
+        },
+        {
+          "kernel_x": 69598,
+          "target_j": 262887,
+          "quotient_a": 123636,
+          "quotient_b": 153206
+        },
+        {
+          "kernel_x": 90670,
+          "target_j": 124108,
+          "quotient_a": 144939,
+          "quotient_b": 192813
+        },
+        {
+          "kernel_x": 131609,
+          "target_j": 205990,
+          "quotient_a": 117243,
+          "quotient_b": 82806
+        }
+      ]
+    },
+    {
+      "j": 166873,
+      "a": 265194,
+      "b": 276350,
+      "kernels": [
+        {
+          "kernel_x": 38922,
+          "target_j": 118762,
+          "quotient_a": 18853,
+          "quotient_b": 55838
+        },
+        {
+          "kernel_x": 48176,
+          "target_j": 248,
+          "quotient_a": 278684,
+          "quotient_b": 59319
+        },
+        {
+          "kernel_x": 215844,
+          "target_j": 67441,
+          "quotient_a": 34615,
+          "quotient_b": 117901
+        },
+        {
+          "kernel_x": 296023,
+          "target_j": 206149,
+          "quotient_a": 65238,
+          "quotient_b": 5923
+        }
+      ]
+    },
+    {
+      "j": 111425,
+      "a": 238999,
+      "b": 259069,
+      "kernels": [
+        {
+          "kernel_x": 40225,
+          "target_j": 179631,
+          "quotient_a": 202705,
+          "quotient_b": 217584
+        },
+        {
+          "kernel_x": 41550,
+          "target_j": 273938,
+          "quotient_a": 243476,
+          "quotient_b": 48732
+        },
+        {
+          "kernel_x": 55457,
+          "target_j": 26732,
+          "quotient_a": 95217,
+          "quotient_b": 97080
+        },
+        {
+          "kernel_x": 163071,
+          "target_j": 188552,
+          "quotient_a": 43814,
+          "quotient_b": 228083
+        }
+      ]
+    },
+    {
+      "j": 206149,
+      "a": 297220,
+      "b": 198329,
+      "kernels": [
+        {
+          "kernel_x": 195877,
+          "target_j": 166873,
+          "quotient_a": 108233,
+          "quotient_b": 181736
+        },
+        {
+          "kernel_x": 212669,
+          "target_j": 175071,
+          "quotient_a": 251572,
+          "quotient_b": 212933
+        },
+        {
+          "kernel_x": 230804,
+          "target_j": 310,
+          "quotient_a": 132341,
+          "quotient_b": 12640
+        },
+        {
+          "kernel_x": 259371,
+          "target_j": 273938,
+          "quotient_a": 223636,
+          "quotient_b": 21832
+        }
+      ]
+    },
+    {
+      "j": 67668,
+      "a": 127907,
+      "b": 284744,
+      "kernels": [
+        {
+          "kernel_x": 24535,
+          "target_j": 111616,
+          "quotient_a": 81576,
+          "quotient_b": 55440
+        },
+        {
+          "kernel_x": 34743,
+          "target_j": 232088,
+          "quotient_a": 128369,
+          "quotient_b": 24700
+        },
+        {
+          "kernel_x": 99142,
+          "target_j": 273938,
+          "quotient_a": 272639,
+          "quotient_b": 27713
+        },
+        {
+          "kernel_x": 141883,
+          "target_j": 232315,
+          "quotient_a": 51302,
+          "quotient_b": 152965
+        }
+      ]
+    },
+    {
+      "j": 232315,
+      "a": 172214,
+      "b": 15073,
+      "kernels": [
+        {
+          "kernel_x": 157746,
+          "target_j": 67668,
+          "quotient_a": 248769,
+          "quotient_b": 146948
+        },
+        {
+          "kernel_x": 200337,
+          "target_j": 26147,
+          "quotient_a": 27036,
+          "quotient_b": 272222
+        },
+        {
+          "kernel_x": 265030,
+          "target_j": 67441,
+          "quotient_a": 171582,
+          "quotient_b": 274679
+        },
+        {
+          "kernel_x": 275608,
+          "target_j": 187649,
+          "quotient_a": 217779,
+          "quotient_b": 244155
+        }
+      ]
+    },
+    {
+      "j": 94014,
+      "a": 2387,
+      "b": 101510,
+      "kernels": [
+        {
+          "kernel_x": 40024,
+          "target_j": 26147,
+          "quotient_a": 76493,
+          "quotient_b": 278375
+        },
+        {
+          "kernel_x": 69439,
+          "target_j": 310,
+          "quotient_a": 167896,
+          "quotient_b": 286687
+        },
+        {
+          "kernel_x": 87406,
+          "target_j": 124200,
+          "quotient_a": 48635,
+          "quotient_b": 86576
+        },
+        {
+          "kernel_x": 103434,
+          "target_j": 132412,
+          "quotient_a": 191924,
+          "quotient_b": 117737
+        }
+      ]
+    },
+    {
+      "j": 188552,
+      "a": 61224,
+      "b": 40816,
+      "kernels": [
+        {
+          "kernel_x": 136268,
+          "target_j": 111425,
+          "quotient_a": 255503,
+          "quotient_b": 72188
+        },
+        {
+          "kernel_x": 244172,
+          "target_j": 273429,
+          "quotient_a": 204070,
+          "quotient_b": 202651
+        },
+        {
+          "kernel_x": 258709,
+          "target_j": 26147,
+          "quotient_a": 55855,
+          "quotient_b": 250575
+        },
+        {
+          "kernel_x": 259572,
+          "target_j": 120008,
+          "quotient_a": 97134,
+          "quotient_b": 82475
+        }
+      ]
+    },
+    {
+      "j": 132412,
+      "a": 34907,
+      "b": 23089,
+      "kernels": [
+        {
+          "kernel_x": 3378,
+          "target_j": 94014,
+          "quotient_a": 234261,
+          "quotient_b": 294192
+        },
+        {
+          "kernel_x": 84017,
+          "target_j": 232088,
+          "quotient_a": 264902,
+          "quotient_b": 181900
+        },
+        {
+          "kernel_x": 251113,
+          "target_j": 248,
+          "quotient_a": 21047,
+          "quotient_b": 240376
+        },
+        {
+          "kernel_x": 260457,
+          "target_j": 180573,
+          "quotient_a": 280866,
+          "quotient_b": 243459
+        }
+      ]
+    },
+    {
+      "j": 150920,
+      "a": 81997,
+      "b": 253955,
+      "kernels": [
+        {
+          "kernel_x": 168258,
+          "target_j": 93855,
+          "quotient_a": 182336,
+          "quotient_b": 216821
+        },
+        {
+          "kernel_x": 209369,
+          "target_j": 176073,
+          "quotient_a": 155332,
+          "quotient_b": 106934
+        },
+        {
+          "kernel_x": 229869,
+          "target_j": 36976,
+          "quotient_a": 175601,
+          "quotient_b": 146095
+        },
+        {
+          "kernel_x": 291225,
+          "target_j": 179631,
+          "quotient_a": 50612,
+          "quotient_b": 108174
+        }
+      ]
+    },
+    {
+      "j": 26732,
+      "a": 35652,
+      "b": 223423,
+      "kernels": [
+        {
+          "kernel_x": 16768,
+          "target_j": 321,
+          "quotient_a": 260142,
+          "quotient_b": 118103
+        },
+        {
+          "kernel_x": 131045,
+          "target_j": 111425,
+          "quotient_a": 187103,
+          "quotient_b": 198044
+        },
+        {
+          "kernel_x": 201692,
+          "target_j": 252082,
+          "quotient_a": 42305,
+          "quotient_b": 91765
+        },
+        {
+          "kernel_x": 250007,
+          "target_j": 176073,
+          "quotient_a": 104435,
+          "quotient_b": 188612
+        }
+      ]
+    },
+    {
+      "j": 48051,
+      "a": 75869,
+      "b": 50397,
+      "kernels": [
+        {
+          "kernel_x": 34630,
+          "target_j": 93855,
+          "quotient_a": 260331,
+          "quotient_b": 249603
+        },
+        {
+          "kernel_x": 146502,
+          "target_j": 273429,
+          "quotient_a": 212486,
+          "quotient_b": 10578
+        },
+        {
+          "kernel_x": 161817,
+          "target_j": 167,
+          "quotient_a": 230299,
+          "quotient_b": 88873
+        },
+        {
+          "kernel_x": 256563,
+          "target_j": 109878,
+          "quotient_a": 252939,
+          "quotient_b": 284749
+        }
+      ]
+    },
+    {
+      "j": 321,
+      "a": 59,
+      "b": 404,
+      "kernels": [
+        {
+          "kernel_x": 70344,
+          "target_j": 187649,
+          "quotient_a": 242036,
+          "quotient_b": 163932
+        },
+        {
+          "kernel_x": 136969,
+          "target_j": 273429,
+          "quotient_a": 154282,
+          "quotient_b": 208749
+        },
+        {
+          "kernel_x": 162678,
+          "target_j": 26732,
+          "quotient_a": 144983,
+          "quotient_b": 91144
+        },
+        {
+          "kernel_x": 229521,
+          "target_j": 111616,
+          "quotient_a": 57697,
+          "quotient_b": 136035
+        }
+      ]
+    },
+    {
+      "j": 120008,
+      "a": 121571,
+      "b": 81412,
+      "kernels": [
+        {
+          "kernel_x": 50091,
+          "target_j": 188552,
+          "quotient_a": 26776,
+          "quotient_b": 212192
+        },
+        {
+          "kernel_x": 113658,
+          "target_j": 149279,
+          "quotient_a": 184348,
+          "quotient_b": 91499
+        },
+        {
+          "kernel_x": 166684,
+          "target_j": 42398,
+          "quotient_a": 156002,
+          "quotient_b": 72588
+        },
+        {
+          "kernel_x": 269626,
+          "target_j": 167,
+          "quotient_a": 259757,
+          "quotient_b": 239765
+        }
+      ]
+    },
+    {
+      "j": 262887,
+      "a": 107931,
+      "b": 271609,
+      "kernels": [
+        {
+          "kernel_x": 60639,
+          "target_j": 36976,
+          "quotient_a": 267076,
+          "quotient_b": 19275
+        },
+        {
+          "kernel_x": 70662,
+          "target_j": 248,
+          "quotient_a": 274758,
+          "quotient_b": 56929
+        },
+        {
+          "kernel_x": 187620,
+          "target_j": 124200,
+          "quotient_a": 81736,
+          "quotient_b": 210167
+        },
+        {
+          "kernel_x": 281138,
+          "target_j": 149279,
+          "quotient_a": 51107,
+          "quotient_b": 238447
+        }
+      ]
+    },
+    {
+      "j": 205990,
+      "a": 164128,
+      "b": 109601,
+      "kernels": [
+        {
+          "kernel_x": 801,
+          "target_j": 310,
+          "quotient_a": 60758,
+          "quotient_b": 124739
+        },
+        {
+          "kernel_x": 66029,
+          "target_j": 149279,
+          "quotient_a": 231312,
+          "quotient_b": 141283
+        },
+        {
+          "kernel_x": 248429,
+          "target_j": 252082,
+          "quotient_a": 109219,
+          "quotient_b": 220808
+        },
+        {
+          "kernel_x": 284253,
+          "target_j": 190809,
+          "quotient_a": 219173,
+          "quotient_b": 5459
+        }
+      ]
+    },
+    {
+      "j": 248,
+      "a": 240,
+      "b": 160,
+      "kernels": [
+        {
+          "kernel_x": 44634,
+          "target_j": 132412,
+          "quotient_a": 198507,
+          "quotient_b": 288812
+        },
+        {
+          "kernel_x": 94304,
+          "target_j": 36976,
+          "quotient_a": 108047,
+          "quotient_b": 216647
+        },
+        {
+          "kernel_x": 205345,
+          "target_j": 262887,
+          "quotient_a": 191738,
+          "quotient_b": 82632
+        },
+        {
+          "kernel_x": 255229,
+          "target_j": 166873,
+          "quotient_a": 101688,
+          "quotient_b": 11483
+        }
+      ]
+    },
+    {
+      "j": 67441,
+      "a": 65135,
+      "b": 242896,
+      "kernels": [
+        {
+          "kernel_x": 107731,
+          "target_j": 166873,
+          "quotient_a": 5191,
+          "quotient_b": 187766
+        },
+        {
+          "kernel_x": 139077,
+          "target_j": 109878,
+          "quotient_a": 106636,
+          "quotient_b": 231305
+        },
+        {
+          "kernel_x": 147948,
+          "target_j": 232315,
+          "quotient_a": 27508,
+          "quotient_b": 12937
+        },
+        {
+          "kernel_x": 204756,
+          "target_j": 52,
+          "quotient_a": 243264,
+          "quotient_b": 216991
+        }
+      ]
+    },
+    {
+      "j": 179631,
+      "a": 177912,
+      "b": 218709,
+      "kernels": [
+        {
+          "kernel_x": 30587,
+          "target_j": 167,
+          "quotient_a": 40410,
+          "quotient_b": 59802
+        },
+        {
+          "kernel_x": 133317,
+          "target_j": 257369,
+          "quotient_a": 143421,
+          "quotient_b": 227389
+        },
+        {
+          "kernel_x": 186409,
+          "target_j": 150920,
+          "quotient_a": 114879,
+          "quotient_b": 208010
+        },
+        {
+          "kernel_x": 249746,
+          "target_j": 111425,
+          "quotient_a": 273473,
+          "quotient_b": 88023
+        }
+      ]
+    },
+    {
+      "j": 175071,
+      "a": 58189,
+      "b": 138529,
+      "kernels": [
+        {
+          "kernel_x": 5279,
+          "target_j": 124200,
+          "quotient_a": 243373,
+          "quotient_b": 268644
+        },
+        {
+          "kernel_x": 52797,
+          "target_j": 36976,
+          "quotient_a": 48106,
+          "quotient_b": 85738
+        },
+        {
+          "kernel_x": 250131,
+          "target_j": 206149,
+          "quotient_a": 241217,
+          "quotient_b": 292148
+        },
+        {
+          "kernel_x": 291305,
+          "target_j": 109306,
+          "quotient_a": 150938,
+          "quotient_b": 122373
+        }
+      ]
+    },
+    {
+      "j": 310,
+      "a": 13,
+      "b": 191,
+      "kernels": [
+        {
+          "kernel_x": 11906,
+          "target_j": 93855,
+          "quotient_a": 253173,
+          "quotient_b": 114109
+        },
+        {
+          "kernel_x": 87101,
+          "target_j": 94014,
+          "quotient_a": 181144,
+          "quotient_b": 213981
+        },
+        {
+          "kernel_x": 212364,
+          "target_j": 206149,
+          "quotient_a": 118239,
+          "quotient_b": 85436
+        },
+        {
+          "kernel_x": 288141,
+          "target_j": 205990,
+          "quotient_a": 46954,
+          "quotient_b": 185766
+        }
+      ]
+    },
+    {
+      "j": 111616,
+      "a": 100902,
+      "b": 167369,
+      "kernels": [
+        {
+          "kernel_x": 66544,
+          "target_j": 321,
+          "quotient_a": 218237,
+          "quotient_b": 106705
+        },
+        {
+          "kernel_x": 96924,
+          "target_j": 67668,
+          "quotient_a": 119632,
+          "quotient_b": 94728
+        },
+        {
+          "kernel_x": 161738,
+          "target_j": 190287,
+          "quotient_a": 96076,
+          "quotient_b": 67758
+        },
+        {
+          "kernel_x": 274306,
+          "target_j": 42398,
+          "quotient_a": 242697,
+          "quotient_b": 76843
+        }
+      ]
+    },
+    {
+      "j": 232088,
+      "a": 234158,
+      "b": 56369,
+      "kernels": [
+        {
+          "kernel_x": 94809,
+          "target_j": 52,
+          "quotient_a": 56737,
+          "quotient_b": 82976
+        },
+        {
+          "kernel_x": 151777,
+          "target_j": 67668,
+          "quotient_a": 272017,
+          "quotient_b": 286984
+        },
+        {
+          "kernel_x": 160410,
+          "target_j": 190287,
+          "quotient_a": 193609,
+          "quotient_b": 68846
+        },
+        {
+          "kernel_x": 192516,
+          "target_j": 132412,
+          "quotient_a": 294554,
+          "quotient_b": 111733
+        }
+      ]
+    },
+    {
+      "j": 187649,
+      "a": 198815,
+      "b": 132908,
+      "kernels": [
+        {
+          "kernel_x": 25421,
+          "target_j": 257369,
+          "quotient_a": 57264,
+          "quotient_b": 222892
+        },
+        {
+          "kernel_x": 138217,
+          "target_j": 109878,
+          "quotient_a": 203835,
+          "quotient_b": 232405
+        },
+        {
+          "kernel_x": 202495,
+          "target_j": 232315,
+          "quotient_a": 180349,
+          "quotient_b": 204675
+        },
+        {
+          "kernel_x": 233379,
+          "target_j": 321,
+          "quotient_a": 82034,
+          "quotient_b": 192584
+        }
+      ]
+    },
+    {
+      "j": 124200,
+      "a": 241434,
+      "b": 160956,
+      "kernels": [
+        {
+          "kernel_x": 8506,
+          "target_j": 190809,
+          "quotient_a": 149297,
+          "quotient_b": 177620
+        },
+        {
+          "kernel_x": 49382,
+          "target_j": 94014,
+          "quotient_a": 59066,
+          "quotient_b": 7161
+        },
+        {
+          "kernel_x": 246982,
+          "target_j": 262887,
+          "quotient_a": 252137,
+          "quotient_b": 214283
+        },
+        {
+          "kernel_x": 294642,
+          "target_j": 175071,
+          "quotient_a": 56846,
+          "quotient_b": 30699
+        }
+      ]
+    },
+    {
+      "j": 93855,
+      "a": 135137,
+      "b": 190010,
+      "kernels": [
+        {
+          "kernel_x": 15676,
+          "target_j": 109306,
+          "quotient_a": 80782,
+          "quotient_b": 294822
+        },
+        {
+          "kernel_x": 50962,
+          "target_j": 48051,
+          "quotient_a": 190722,
+          "quotient_b": 79135
+        },
+        {
+          "kernel_x": 233958,
+          "target_j": 150920,
+          "quotient_a": 68853,
+          "quotient_b": 158240
+        },
+        {
+          "kernel_x": 298916,
+          "target_j": 310,
+          "quotient_a": 238533,
+          "quotient_b": 174516
+        }
+      ]
+    },
+    {
+      "j": 36976,
+      "a": 191622,
+      "b": 28194,
+      "kernels": [
+        {
+          "kernel_x": 19125,
+          "target_j": 150920,
+          "quotient_a": 248574,
+          "quotient_b": 61766
+        },
+        {
+          "kernel_x": 112681,
+          "target_j": 175071,
+          "quotient_a": 217939,
+          "quotient_b": 89280
+        },
+        {
+          "kernel_x": 228745,
+          "target_j": 248,
+          "quotient_a": 24779,
+          "quotient_b": 242362
+        },
+        {
+          "kernel_x": 239508,
+          "target_j": 262887,
+          "quotient_a": 32413,
+          "quotient_b": 280194
+        }
+      ]
+    },
+    {
+      "j": 252082,
+      "a": 224106,
+      "b": 248958,
+      "kernels": [
+        {
+          "kernel_x": 42686,
+          "target_j": 190287,
+          "quotient_a": 46720,
+          "quotient_b": 15078
+        },
+        {
+          "kernel_x": 138296,
+          "target_j": 167,
+          "quotient_a": 68934,
+          "quotient_b": 210854
+        },
+        {
+          "kernel_x": 153613,
+          "target_j": 26732,
+          "quotient_a": 87223,
+          "quotient_b": 289001
+        },
+        {
+          "kernel_x": 264917,
+          "target_j": 205990,
+          "quotient_a": 39890,
+          "quotient_b": 49948
+        }
+      ]
+    },
+    {
+      "j": 167,
+      "a": 151,
+      "b": 283,
+      "kernels": [
+        {
+          "kernel_x": 67269,
+          "target_j": 120008,
+          "quotient_a": 175042,
+          "quotient_b": 25650
+        },
+        {
+          "kernel_x": 149343,
+          "target_j": 252082,
+          "quotient_a": 197243,
+          "quotient_b": 290711
+        },
+        {
+          "kernel_x": 149890,
+          "target_j": 48051,
+          "quotient_a": 102612,
+          "quotient_b": 9006
+        },
+        {
+          "kernel_x": 233010,
+          "target_j": 179631,
+          "quotient_a": 124171,
+          "quotient_b": 274535
+        }
+      ]
+    },
+    {
+      "j": 109878,
+      "a": 59058,
+      "b": 239027,
+      "kernels": [
+        {
+          "kernel_x": 72573,
+          "target_j": 67441,
+          "quotient_a": 148989,
+          "quotient_b": 138993
+        },
+        {
+          "kernel_x": 75534,
+          "target_j": 190287,
+          "quotient_a": 196927,
+          "quotient_b": 148929
+        },
+        {
+          "kernel_x": 182698,
+          "target_j": 187649,
+          "quotient_a": 72098,
+          "quotient_b": 179137
+        },
+        {
+          "kernel_x": 268160,
+          "target_j": 48051,
+          "quotient_a": 10963,
+          "quotient_b": 269171
+        }
+      ]
+    },
+    {
+      "j": 42398,
+      "a": 27542,
+      "b": 217834,
+      "kernels": [
+        {
+          "kernel_x": 18830,
+          "target_j": 111616,
+          "quotient_a": 283939,
+          "quotient_b": 108190
+        },
+        {
+          "kernel_x": 23660,
+          "target_j": 109306,
+          "quotient_a": 169227,
+          "quotient_b": 63632
+        },
+        {
+          "kernel_x": 94381,
+          "target_j": 120008,
+          "quotient_a": 243419,
+          "quotient_b": 236591
+        },
+        {
+          "kernel_x": 163432,
+          "target_j": 257369,
+          "quotient_a": 105035,
+          "quotient_b": 73653
+        }
+      ]
+    },
+    {
+      "j": 190809,
+      "a": 22843,
+      "b": 214519,
+      "kernels": [
+        {
+          "kernel_x": 152654,
+          "target_j": 257369,
+          "quotient_a": 177033,
+          "quotient_b": 107712
+        },
+        {
+          "kernel_x": 204212,
+          "target_j": 124200,
+          "quotient_a": 262801,
+          "quotient_b": 115729
+        },
+        {
+          "kernel_x": 264840,
+          "target_j": 109306,
+          "quotient_a": 25487,
+          "quotient_b": 12846
+        },
+        {
+          "kernel_x": 276468,
+          "target_j": 205990,
+          "quotient_a": 222741,
+          "quotient_b": 236939
+        }
+      ]
+    },
+    {
+      "j": 52,
+      "a": 192,
+      "b": 128,
+      "kernels": [
+        {
+          "kernel_x": 1171,
+          "target_j": 52,
+          "quotient_a": 32398,
+          "quotient_b": 11033
+        },
+        {
+          "kernel_x": 33837,
+          "target_j": 67441,
+          "quotient_a": 63186,
+          "quotient_b": 211949
+        },
+        {
+          "kernel_x": 266312,
+          "target_j": 232088,
+          "quotient_a": 236585,
+          "quotient_b": 87780
+        },
+        {
+          "kernel_x": 298192,
+          "target_j": 52,
+          "quotient_a": 267061,
+          "quotient_b": 288362
+        }
+      ]
+    },
+    {
+      "j": 257369,
+      "a": 272051,
+      "b": 81631,
+      "kernels": [
+        {
+          "kernel_x": 136629,
+          "target_j": 42398,
+          "quotient_a": 194196,
+          "quotient_b": 226266
+        },
+        {
+          "kernel_x": 205422,
+          "target_j": 179631,
+          "quotient_a": 55798,
+          "quotient_b": 63192
+        },
+        {
+          "kernel_x": 275827,
+          "target_j": 190809,
+          "quotient_a": 130390,
+          "quotient_b": 235937
+        },
+        {
+          "kernel_x": 280843,
+          "target_j": 187649,
+          "quotient_a": 15362,
+          "quotient_b": 191881
+        }
+      ]
+    },
+    {
+      "j": 109306,
+      "a": 277198,
+      "b": 84880,
+      "kernels": [
+        {
+          "kernel_x": 23207,
+          "target_j": 93855,
+          "quotient_a": 76692,
+          "quotient_b": 62446
+        },
+        {
+          "kernel_x": 34553,
+          "target_j": 190809,
+          "quotient_a": 274372,
+          "quotient_b": 286893
+        },
+        {
+          "kernel_x": 95359,
+          "target_j": 175071,
+          "quotient_a": 36890,
+          "quotient_b": 184104
+        },
+        {
+          "kernel_x": 146637,
+          "target_j": 42398,
+          "quotient_a": 122880,
+          "quotient_b": 192497
+        }
+      ]
+    },
+    {
+      "j": 190287,
+      "a": 241209,
+      "b": 61252,
+      "kernels": [
+        {
+          "kernel_x": 31309,
+          "target_j": 252082,
+          "quotient_a": 288292,
+          "quotient_b": 30132
+        },
+        {
+          "kernel_x": 116511,
+          "target_j": 111616,
+          "quotient_a": 227993,
+          "quotient_b": 120608
+        },
+        {
+          "kernel_x": 223771,
+          "target_j": 109878,
+          "quotient_a": 102296,
+          "quotient_b": 150570
+        },
+        {
+          "kernel_x": 227374,
+          "target_j": 232088,
+          "quotient_a": 150630,
+          "quotient_b": 160326
+        }
+      ]
+    }
+  ],
+  "elliptic_fp_forms": [
+    {
+      "j": 52,
+      "a": 192,
+      "b": 128,
+      "rational_2_kernels": 1
+    },
+    {
+      "j": 52,
+      "a": 221,
+      "b": 477,
+      "rational_2_kernels": 1
+    },
+    {
+      "j": 87,
+      "a": 1,
+      "b": 0,
+      "rational_2_kernels": 1
+    },
+    {
+      "j": 87,
+      "a": 2,
+      "b": 0,
+      "rational_2_kernels": 3
+    },
+    {
+      "j": 167,
+      "a": 151,
+      "b": 283,
+      "rational_2_kernels": 1
+    },
+    {
+      "j": 167,
+      "a": 57,
+      "b": 76,
+      "rational_2_kernels": 1
+    },
+    {
+      "j": 248,
+      "a": 240,
+      "b": 160,
+      "rational_2_kernels": 3
+    },
+    {
+      "j": 248,
+      "a": 413,
+      "b": 186,
+      "rational_2_kernels": 3
+    },
+    {
+      "j": 310,
+      "a": 13,
+      "b": 191,
+      "rational_2_kernels": 1
+    },
+    {
+      "j": 310,
+      "a": 52,
+      "b": 434,
+      "rational_2_kernels": 1
+    },
+    {
+      "j": 321,
+      "a": 59,
+      "b": 404,
+      "rational_2_kernels": 1
+    },
+    {
+      "j": 321,
+      "a": 236,
+      "b": 497,
+      "rational_2_kernels": 1
+    }
+  ],
+  "vertices": [
+    {
+      "id": 0,
+      "j_orbit": [
+        52
+      ],
+      "automorphism_order": 4
+    },
+    {
+      "id": 1,
+      "j_orbit": [
+        87
+      ],
+      "automorphism_order": 8
+    },
+    {
+      "id": 2,
+      "j_orbit": [
+        167
+      ],
+      "automorphism_order": 4
+    },
+    {
+      "id": 3,
+      "j_orbit": [
+        248
+      ],
+      "automorphism_order": 4
+    },
+    {
+      "id": 4,
+      "j_orbit": [
+        310
+      ],
+      "automorphism_order": 4
+    },
+    {
+      "id": 5,
+      "j_orbit": [
+        321
+      ],
+      "automorphism_order": 4
+    },
+    {
+      "id": 6,
+      "j_orbit": [
+        26147,
+        273938
+      ],
+      "automorphism_order": 2
+    },
+    {
+      "id": 7,
+      "j_orbit": [
+        26732,
+        273429
+      ],
+      "automorphism_order": 2
+    },
+    {
+      "id": 8,
+      "j_orbit": [
+        36976,
+        262887
+      ],
+      "automorphism_order": 2
+    },
+    {
+      "id": 9,
+      "j_orbit": [
+        42398,
+        257369
+      ],
+      "automorphism_order": 2
+    },
+    {
+      "id": 10,
+      "j_orbit": [
+        48051,
+        252082
+      ],
+      "automorphism_order": 2
+    },
+    {
+      "id": 11,
+      "j_orbit": [
+        67441,
+        232088
+      ],
+      "automorphism_order": 2
+    },
+    {
+      "id": 12,
+      "j_orbit": [
+        67668,
+        232315
+      ],
+      "automorphism_order": 2
+    },
+    {
+      "id": 13,
+      "j_orbit": [
+        92548,
+        206871
+      ],
+      "automorphism_order": 2
+    },
+    {
+      "id": 14,
+      "j_orbit": [
+        93855,
+        205990
+      ],
+      "automorphism_order": 2
+    },
+    {
+      "id": 15,
+      "j_orbit": [
+        94014,
+        206149
+      ],
+      "automorphism_order": 2
+    },
+    {
+      "id": 16,
+      "j_orbit": [
+        109306,
+        190809
+      ],
+      "automorphism_order": 2
+    },
+    {
+      "id": 17,
+      "j_orbit": [
+        109878,
+        190287
+      ],
+      "automorphism_order": 2
+    },
+    {
+      "id": 18,
+      "j_orbit": [
+        111425,
+        188552
+      ],
+      "automorphism_order": 2
+    },
+    {
+      "id": 19,
+      "j_orbit": [
+        111616,
+        187649
+      ],
+      "automorphism_order": 2
+    },
+    {
+      "id": 20,
+      "j_orbit": [
+        118762,
+        180573
+      ],
+      "automorphism_order": 2
+    },
+    {
+      "id": 21,
+      "j_orbit": [
+        120008,
+        179631
+      ],
+      "automorphism_order": 2
+    },
+    {
+      "id": 22,
+      "j_orbit": [
+        124108,
+        176073
+      ],
+      "automorphism_order": 2
+    },
+    {
+      "id": 23,
+      "j_orbit": [
+        124200,
+        175071
+      ],
+      "automorphism_order": 2
+    },
+    {
+      "id": 24,
+      "j_orbit": [
+        132412,
+        166873
+      ],
+      "automorphism_order": 2
+    },
+    {
+      "id": 25,
+      "j_orbit": [
+        149279,
+        150920
+      ],
+      "automorphism_order": 2
+    }
+  ],
+  "adjacency": [
+    [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "components": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ]
+  ],
+  "directed_kernels": 104,
+  "loops": 12,
+  "split_ell2_degree_histogram": {
+    "3": 72,
+    "15": 6
+  },
+  "split_ell2_product_kernels": 180,
+  "jacobian_asymptotic_main_term": "3282/3",
+  "jacobian_exact_count": null,
+  "checks": [
+    "Geometric quotient calculation by all four roots of psi_3",
+    "V\u00e9lu quotient j and rational-map polynomial identity",
+    "Closure and geometric elliptic census",
+    "Frobenius orbit census",
+    "Trace-zero verification for every rational elliptic form",
+    "All four kernels per restriction vertex",
+    "Weighted polarized duality",
+    "Direct enumeration of all 15 symplectic planes for each elliptic two-torsion action type"
+  ],
+  "seconds": 0.192
+}

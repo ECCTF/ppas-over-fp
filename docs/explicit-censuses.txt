@@ -1,0 +1,105 @@
+COMPLETE RATIONAL (2,2)-ISOGENY GRAPHS AT p=47,71,127
+
+Scope: actual principally polarized Fp-isomorphism classes, twists retained,
+with Weil polynomial (T^2+p)^2. No component/class-group theorem is used
+to decide connectivity or establish census coverage in this experiment.
+
+Results:
+ p   split  restriction  Jacobian  total  directed kernel edges  components
+ 47     55       5         100      160           880               1
+ 71    105       7         210      322          1750               1
+127     55       8         227      290          1510               1
+
+START HERE: ../experiments/results/p47_vertex_catalogue.html (and p71/p127).
+These pages list EVERY vertex model, automorphism order, outgoing degree,
+and every target with its kernel multiplicity. Neighbor links jump to rows.
+
+Per-prime files:
+ *_all_vertices.csv: every representative, including Fp2 models for restrictions.
+ *_all_edges.csv: every nonzero ordered adjacency entry, with kernel multiplicity.
+ *_adjacency.csv: complete labelled integer adjacency matrix.
+ *_spanning_tree.csv: N-1 actual edges reaching all vertices from S0.
+ *_rational_graph.json: complete structured graph and equations.
+ *_complete_support.svg/png: all vertices, undirected support only.
+ *_full_enumeration_audit.json: independent census/coverage/distinctness audit.
+ *_laplacian_check.json: exact rational Laplacian rank.
+ *_exhaustive_branch_models.csv: all surviving models before isomorphism reduction.
+ *_exhaustive_isomorphism_certificates.json: explicit Fp coordinate changes
+       identifying EVERY surviving exhaustive model with a graph vertex.
+ *_rational_census_independent_check.json: separate Fp/Fp2 point counts,
+       Cartier-Manin matrices and Frobenius-stable matching counts.
+ *_gluing_verification.json: direct split/restriction boundary checks.
+
+How global completeness is verified, independently of connectivity:
+
+For a curve in the maximal block, Frobenius squared is [-p] on its Jacobian.
+It acts trivially on 2-torsion, hence fixes all six Weierstrass points.
+Thus the six branch points lie in P1(Fp2), with Frobenius pattern 1^6,
+2*1^4, 2^2*1^2, or 2^3. The standalone C++ enumerator covers all four:
+
+1) Six rational branch points: normalize three to infinity, 0, 1;
+   choose the other three from Fp minus {0,1}.
+2) Four rational branch points: normalize three to infinity, 0, 1;
+   choose the fourth and every irreducible monic quadratic.
+3) Two rational branch points: normalize them to infinity, 0.
+   Write a chosen conjugate root a+b*u, u^2=nu. Scaling x over Fp
+   puts it into 1+b'*u if a!=0, or u if a=0. Choose the other pair freely.
+4) No rational branch points: PGL2(Fp) is transitive on conjugate pairs.
+   Fix one pair {u,-u}. Its stabilizer consists of x and
+   (a*x+nu)/(x+a), a in Fp, and their compositions with x -> -x.
+   Enumerate one representative for the second pair under this stabilizer,
+   then every possible disjoint third pair.
+
+All these models are squarefree by construction. Both leading square
+classes 1 and nu are retained. The enumerator tests trace zero, vanishing
+Cartier-Manin matrix and #C(Fp2)=p^2+1+4p. The maximal block is superspecial,
+so the Cartier-Manin filter removes no curve in the stated scope.
+Every smooth genus-two curve has a hyperelliptic model over its finite
+base field. The normalization therefore covers every required Jacobian.
+
+Candidate branch configurations tested (before two leading twists):
+ p=47: 113572; p=71: 400188; p=127: 2333812.
+Surviving models including twists (with duplicates): 976, 2276, 4536.
+After rational-isomorphism comparison: 100, 210, 227 Jacobian classes.
+Every exhaustive model is matched by an explicit rational coordinate
+change and square multiplier; every graph Jacobian occurs in the census.
+Automorphism orders and class distinctness within each geometric bucket
+are rechecked by the full 120 ordered-branch-triple maps.
+
+Elliptic forms are separately enumerated over Fp. All supersingular
+j-invariants over Fp2 and their unique maximal elliptic forms are enumerated
+with Sage's supersingular polynomial. Thus all split products and all
+restrictions are included, even when the j-invariant is not rational.
+
+How edges are computed:
+ - Every Jacobian's 15 geometric branch matchings is tested for Frobenius
+   stability. Each stable kernel is evaluated by the rational Richelot
+   formula, with sign -L*M*N/d, including degenerate quotients.
+ - Split product kernels use elliptic Velu quotients; nonproduct kernels
+   use explicit HLP two-gluing and affine-map tests for degenerate outputs.
+ - Restriction product kernels use all three geometric elliptic 2-kernels.
+   Restriction-to-Jacobian kernels are independently computed by HLP with
+   exchanged-factor descent and compared with reversed Richelot entries.
+   Restriction-to-split multiplicities in the assembled matrix use polarized
+   duality and affine split-kernel calculations. All seven kernels per
+   restriction row are accounted for. This is an algebraic edge computation,
+   not an invocation of the component theorem being tested.
+ - Weighted duality and all Frobenius-fixed Lagrangian row counts are checked.
+
+Connectivity is decided by actual breadth-first search on these matrices.
+The spanning trees provide explicit witnesses. An independent Sage check
+computes the Laplacian rank over QQ; ranks are 159,321,289.
+The diagrams suppress loops/directions/multiplicities only for readability;
+CSV and JSON retain them. Edge totals count directed kernels, including loops.
+
+Reproduction from the repository root (Linux/WSL; Sage, Python with
+numpy/matplotlib/networkx, and a C++17 compiler):
+  sage -python experiments/reproduce.py --primes 47 71 127
+  python3 experiments/check_release.py
+
+See REPRODUCIBILITY.md for the individual stages and DATA_FORMAT.md for
+the output schemas. Compilation products and logs are placed in build/.
+
+All computations are over exact finite fields/integers/rationals. The spring
+layout alone uses floating point and has no role in mathematical checks.
+The genus-two curve-to-PPAS identification uses polarized Torelli.

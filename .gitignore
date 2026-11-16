@@ -1,0 +1,15 @@
+/build/
+__pycache__/
+*.py[cod]
+*.o
+*.obj
+*.exe
+*.log
+experiments/results/*.bin
+experiments/results/*_maximal_orbits.csv
+experiments/results/*.zip
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db

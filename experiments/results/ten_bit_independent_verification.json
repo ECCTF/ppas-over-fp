@@ -1,0 +1,569 @@
+{
+  "independent_checks": [
+    "Complete rational elliptic j census by direct Fp point enumeration",
+    "Distinctness of the saved elliptic Fp forms by short-Weierstrass scaling",
+    "Actual rational two-torsion roots and all 15 symplectic planes",
+    "Direct Fp2 point enumeration for two nonrational auxiliary elliptic models per prime",
+    "Direct Fp and Fp2 point enumeration for every saved Jacobian vertex"
+  ],
+  "consistency_checks_reusing_generator_data": [
+    "Adjacency reconstructed from saved quotient-j kernel records",
+    "Degrees, weighted duality and components of the saved restriction matrices",
+    "Jacobian reverse multiplicities checked against saved automorphism orders"
+  ],
+  "limitations": [
+    "Does not independently recompute every Velu or Richelot quotient",
+    "Does not independently repeat the genus-two isomorphism or automorphism computation",
+    "Does not provide a full PPAS or Jacobian census at these primes",
+    "The I/U Frobenius normal form uses the standard elliptic two-torsion classification"
+  ],
+  "restriction_experiments": [
+    {
+      "p": 523,
+      "input_sha256": "bb5118d23fd8a58c693fb04cfe94ee2863e0593dd8c8867f32a712a7f4cd9542",
+      "all_rational_j_tested": 523,
+      "supersingular_rational_j": [
+        88,
+        123,
+        159,
+        180,
+        181,
+        183,
+        286,
+        369,
+        462,
+        473
+      ],
+      "distinct_fp_elliptic_forms": 20,
+      "sampled_nonrational_elliptic_models": [
+        {
+          "j_encoding": 180796,
+          "points_fp2": 274576,
+          "scalar_frobenius": -523
+        },
+        {
+          "j_encoding": 93455,
+          "points_fp2": 274576,
+          "scalar_frobenius": -523
+        }
+      ],
+      "split_degree_histogram": {
+        "3": 195,
+        "15": 15
+      },
+      "split_product_kernels": 480,
+      "restriction_vertices": 27,
+      "directed_kernels": 108,
+      "component_sizes": [
+        27
+      ],
+      "saved_adjacency_matches_saved_kernel_records": true,
+      "weighted_duality_verified": true
+    },
+    {
+      "p": 541,
+      "input_sha256": "9d419d16d2794cc42432fe460f682c4391ace924f2289a98f5d03d1284add29d",
+      "all_rational_j_tested": 541,
+      "supersingular_rational_j": [
+        149,
+        233,
+        309,
+        426,
+        540
+      ],
+      "distinct_fp_elliptic_forms": 10,
+      "sampled_nonrational_elliptic_models": [
+        {
+          "j_encoding": 99489,
+          "points_fp2": 293764,
+          "scalar_frobenius": -541
+        },
+        {
+          "j_encoding": 171932,
+          "points_fp2": 293764,
+          "scalar_frobenius": -541
+        }
+      ],
+      "split_degree_histogram": {
+        "3": 55
+      },
+      "split_product_kernels": 55,
+      "restriction_vertices": 25,
+      "directed_kernels": 100,
+      "component_sizes": [
+        25
+      ],
+      "saved_adjacency_matches_saved_kernel_records": true,
+      "weighted_duality_verified": true
+    },
+    {
+      "p": 547,
+      "input_sha256": "ed7ba343ef918cbeec3aa30ba9e0627c3ae3d0208bf47f201cdfdc0e2a49674a",
+      "all_rational_j_tested": 547,
+      "supersingular_rational_j": [
+        52,
+        87,
+        167,
+        248,
+        310,
+        321
+      ],
+      "distinct_fp_elliptic_forms": 12,
+      "sampled_nonrational_elliptic_models": [
+        {
+          "j_encoding": 92548,
+          "points_fp2": 298116,
+          "scalar_frobenius": 547
+        },
+        {
+          "j_encoding": 206871,
+          "points_fp2": 298116,
+          "scalar_frobenius": 547
+        }
+      ],
+      "split_degree_histogram": {
+        "3": 72,
+        "15": 6
+      },
+      "split_product_kernels": 180,
+      "restriction_vertices": 26,
+      "directed_kernels": 104,
+      "component_sizes": [
+        26
+      ],
+      "saved_adjacency_matches_saved_kernel_records": true,
+      "weighted_duality_verified": true
+    },
+    {
+      "p": 613,
+      "input_sha256": "05043d411b5e9b52941409de453b63bebf5ef9b8504c6e2d77c96ccb7ef1061d",
+      "all_rational_j_tested": 613,
+      "supersingular_rational_j": [
+        31,
+        111,
+        171,
+        334,
+        470
+      ],
+      "distinct_fp_elliptic_forms": 10,
+      "sampled_nonrational_elliptic_models": [
+        {
+          "j_encoding": 96261,
+          "points_fp2": 376996,
+          "scalar_frobenius": -613
+        },
+        {
+          "j_encoding": 279548,
+          "points_fp2": 376996,
+          "scalar_frobenius": -613
+        }
+      ],
+      "split_degree_histogram": {
+        "3": 55
+      },
+      "split_product_kernels": 55,
+      "restriction_vertices": 28,
+      "directed_kernels": 112,
+      "component_sizes": [
+        28
+      ],
+      "saved_adjacency_matches_saved_kernel_records": true,
+      "weighted_duality_verified": true
+    },
+    {
+      "p": 619,
+      "input_sha256": "4226371670b50cd30d4aad85e555040a09af77bdecbc712557bb2ca074564cdb",
+      "all_rational_j_tested": 619,
+      "supersingular_rational_j": [
+        29,
+        31,
+        47,
+        218,
+        222,
+        280,
+        339,
+        403,
+        459,
+        490
+      ],
+      "distinct_fp_elliptic_forms": 20,
+      "sampled_nonrational_elliptic_models": [
+        {
+          "j_encoding": 336269,
+          "points_fp2": 384400,
+          "scalar_frobenius": -619
+        },
+        {
+          "j_encoding": 47196,
+          "points_fp2": 384400,
+          "scalar_frobenius": -619
+        }
+      ],
+      "split_degree_histogram": {
+        "3": 195,
+        "15": 15
+      },
+      "split_product_kernels": 480,
+      "restriction_vertices": 31,
+      "directed_kernels": 124,
+      "component_sizes": [
+        31
+      ],
+      "saved_adjacency_matches_saved_kernel_records": true,
+      "weighted_duality_verified": true
+    },
+    {
+      "p": 631,
+      "input_sha256": "b795715b155499b9a89151aed605b8e36d3cf226f89bf7e2e5bfbed4e5f12fcb",
+      "all_rational_j_tested": 631,
+      "supersingular_rational_j": [
+        140,
+        179,
+        187,
+        264,
+        322,
+        391,
+        428,
+        458,
+        460,
+        466,
+        489,
+        583,
+        598
+      ],
+      "distinct_fp_elliptic_forms": 26,
+      "sampled_nonrational_elliptic_models": [
+        {
+          "j_encoding": 140475,
+          "points_fp2": 396900,
+          "scalar_frobenius": 631
+        },
+        {
+          "j_encoding": 258472,
+          "points_fp2": 396900,
+          "scalar_frobenius": 631
+        }
+      ],
+      "split_degree_histogram": {
+        "3": 260,
+        "15": 91
+      },
+      "split_product_kernels": 1417,
+      "restriction_vertices": 33,
+      "directed_kernels": 132,
+      "component_sizes": [
+        33
+      ],
+      "saved_adjacency_matches_saved_kernel_records": true,
+      "weighted_duality_verified": true
+    },
+    {
+      "p": 661,
+      "input_sha256": "9eedb591428d53e5a30635089f77b26e6451d27b8bec190206beb854881f3246",
+      "all_rational_j_tested": 661,
+      "supersingular_rational_j": [
+        68,
+        190,
+        312,
+        343,
+        356,
+        512,
+        568,
+        591,
+        658
+      ],
+      "distinct_fp_elliptic_forms": 18,
+      "sampled_nonrational_elliptic_models": [
+        {
+          "j_encoding": 17413,
+          "points_fp2": 438244,
+          "scalar_frobenius": -661
+        },
+        {
+          "j_encoding": 419962,
+          "points_fp2": 438244,
+          "scalar_frobenius": -661
+        }
+      ],
+      "split_degree_histogram": {
+        "3": 171
+      },
+      "split_product_kernels": 171,
+      "restriction_vertices": 32,
+      "directed_kernels": 128,
+      "component_sizes": [
+        32
+      ],
+      "saved_adjacency_matches_saved_kernel_records": true,
+      "weighted_duality_verified": true
+    },
+    {
+      "p": 673,
+      "input_sha256": "0f29c61a65d02ce27162b6803b8213a3a90b6061a78b5c5830989f0db6805d31",
+      "all_rational_j_tested": 673,
+      "supersingular_rational_j": [
+        209,
+        259,
+        281,
+        397,
+        495,
+        568
+      ],
+      "distinct_fp_elliptic_forms": 12,
+      "sampled_nonrational_elliptic_models": [
+        {
+          "j_encoding": 271463,
+          "points_fp2": 451584,
+          "scalar_frobenius": 673
+        },
+        {
+          "j_encoding": 181954,
+          "points_fp2": 451584,
+          "scalar_frobenius": 673
+        }
+      ],
+      "split_degree_histogram": {
+        "3": 78
+      },
+      "split_product_kernels": 78,
+      "restriction_vertices": 31,
+      "directed_kernels": 124,
+      "component_sizes": [
+        31
+      ],
+      "saved_adjacency_matches_saved_kernel_records": true,
+      "weighted_duality_verified": true
+    },
+    {
+      "p": 751,
+      "input_sha256": "7a36aabbbaf01178083f2530ae442bd71b70eae94fcc8671ef6067051aba424a",
+      "all_rational_j_tested": 751,
+      "supersingular_rational_j": [
+        7,
+        60,
+        154,
+        162,
+        191,
+        195,
+        226,
+        271,
+        447,
+        490,
+        523,
+        578,
+        614,
+        693,
+        715
+      ],
+      "distinct_fp_elliptic_forms": 30,
+      "sampled_nonrational_elliptic_models": [
+        {
+          "j_encoding": 212566,
+          "points_fp2": 562500,
+          "scalar_frobenius": 751
+        },
+        {
+          "j_encoding": 351501,
+          "points_fp2": 562500,
+          "scalar_frobenius": 751
+        }
+      ],
+      "split_degree_histogram": {
+        "3": 345,
+        "15": 120
+      },
+      "split_product_kernels": 1875,
+      "restriction_vertices": 39,
+      "directed_kernels": 156,
+      "component_sizes": [
+        39
+      ],
+      "saved_adjacency_matches_saved_kernel_records": true,
+      "weighted_duality_verified": true
+    },
+    {
+      "p": 823,
+      "input_sha256": "95ea8b13b311d8bfa2dab017c21d1b86d8f624310b5621af971a05806a4c98c5",
+      "all_rational_j_tested": 823,
+      "supersingular_rational_j": [
+        82,
+        269,
+        343,
+        383,
+        499,
+        523,
+        530,
+        593,
+        693
+      ],
+      "distinct_fp_elliptic_forms": 18,
+      "sampled_nonrational_elliptic_models": [
+        {
+          "j_encoding": 349697,
+          "points_fp2": 678976,
+          "scalar_frobenius": -823
+        },
+        {
+          "j_encoding": 329122,
+          "points_fp2": 678976,
+          "scalar_frobenius": -823
+        }
+      ],
+      "split_degree_histogram": {
+        "3": 126,
+        "15": 45
+      },
+      "split_product_kernels": 693,
+      "restriction_vertices": 39,
+      "directed_kernels": 156,
+      "component_sizes": [
+        39
+      ],
+      "saved_adjacency_matches_saved_kernel_records": true,
+      "weighted_duality_verified": true
+    },
+    {
+      "p": 991,
+      "input_sha256": "63bce5c46439670515bd9b83c6112cde6e4b1bc5dfb48b650c9152508799a224",
+      "all_rational_j_tested": 991,
+      "supersingular_rational_j": [
+        29,
+        44,
+        61,
+        72,
+        103,
+        106,
+        115,
+        126,
+        160,
+        227,
+        356,
+        446,
+        532,
+        696,
+        737,
+        740,
+        782
+      ],
+      "distinct_fp_elliptic_forms": 34,
+      "sampled_nonrational_elliptic_models": [
+        {
+          "j_encoding": 890138,
+          "points_fp2": 984064,
+          "scalar_frobenius": -991
+        },
+        {
+          "j_encoding": 92383,
+          "points_fp2": 984064,
+          "scalar_frobenius": -991
+        }
+      ],
+      "split_degree_histogram": {
+        "15": 153,
+        "3": 442
+      },
+      "split_product_kernels": 2397,
+      "restriction_vertices": 50,
+      "directed_kernels": 200,
+      "component_sizes": [
+        50
+      ],
+      "saved_adjacency_matches_saved_kernel_records": true,
+      "weighted_duality_verified": true
+    }
+  ],
+  "jacobian_neighborhoods": [
+    {
+      "p": 719,
+      "input_sha256": "69af231fa58f2e0803a51065376a011a52255cf31632d8af083e1566328e847e",
+      "jacobian_point_counts": [
+        {
+          "label": "J0",
+          "points_fp": 720,
+          "points_fp2": 519838
+        },
+        {
+          "label": "J1",
+          "points_fp": 720,
+          "points_fp2": 519838
+        },
+        {
+          "label": "J2",
+          "points_fp": 720,
+          "points_fp2": 519838
+        }
+      ],
+      "saved_source_kernels": 7,
+      "saved_reverse_multiplicity_consistency": true
+    },
+    {
+      "p": 751,
+      "input_sha256": "1db4158023bd7181000ec0a628fce5c8b27910c21069c0dd91d2c27f2e052f9b",
+      "jacobian_point_counts": [
+        {
+          "label": "J0",
+          "points_fp": 752,
+          "points_fp2": 567006
+        },
+        {
+          "label": "J1",
+          "points_fp": 752,
+          "points_fp2": 567006
+        },
+        {
+          "label": "J2",
+          "points_fp": 752,
+          "points_fp2": 567006
+        },
+        {
+          "label": "J3",
+          "points_fp": 752,
+          "points_fp2": 567006
+        },
+        {
+          "label": "J4",
+          "points_fp": 752,
+          "points_fp2": 567006
+        }
+      ],
+      "saved_source_kernels": 7,
+      "saved_reverse_multiplicity_consistency": true
+    },
+    {
+      "p": 823,
+      "input_sha256": "e50ee5e6ea74e279b162afa8a2a9ba65b7ceb5dad030f3430670bb3c344b777a",
+      "jacobian_point_counts": [
+        {
+          "label": "J0",
+          "points_fp": 824,
+          "points_fp2": 680622
+        },
+        {
+          "label": "J1",
+          "points_fp": 824,
+          "points_fp2": 680622
+        },
+        {
+          "label": "J2",
+          "points_fp": 824,
+          "points_fp2": 680622
+        },
+        {
+          "label": "J3",
+          "points_fp": 824,
+          "points_fp2": 680622
+        },
+        {
+          "label": "J4",
+          "points_fp": 824,
+          "points_fp2": 680622
+        }
+      ],
+      "saved_source_kernels": 7,
+      "saved_reverse_multiplicity_consistency": true
+    }
+  ],
+  "total_jacobian_models_checked": 13,
+  "seconds": 3.556,
+  "all_checks_passed": true
+}

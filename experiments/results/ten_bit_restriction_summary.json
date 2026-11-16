@@ -1,0 +1,240 @@
+[
+  {
+    "p": 523,
+    "bits": 10,
+    "p_mod_8": 3,
+    "h_quadratic_field": 5,
+    "s": 10,
+    "t": 44,
+    "split_vertices": 210,
+    "restriction_vertices": 27,
+    "directed_kernels": 108,
+    "loops": 8,
+    "split_ell2_degree_histogram": {
+      "3": 195,
+      "15": 15
+    },
+    "split_ell2_product_kernels": 480,
+    "jacobian_asymptotic_main_term": "5230/3",
+    "seconds": 0.19,
+    "component_sizes": [
+      27
+    ]
+  },
+  {
+    "p": 541,
+    "bits": 10,
+    "p_mod_8": 5,
+    "h_quadratic_field": 10,
+    "s": 5,
+    "t": 45,
+    "split_vertices": 55,
+    "restriction_vertices": 25,
+    "directed_kernels": 100,
+    "loops": 16,
+    "split_ell2_degree_histogram": {
+      "3": 55
+    },
+    "split_ell2_product_kernels": 55,
+    "jacobian_asymptotic_main_term": "2705/3",
+    "seconds": 0.237,
+    "component_sizes": [
+      25
+    ]
+  },
+  {
+    "p": 547,
+    "bits": 10,
+    "p_mod_8": 3,
+    "h_quadratic_field": 3,
+    "s": 6,
+    "t": 46,
+    "split_vertices": 78,
+    "restriction_vertices": 26,
+    "directed_kernels": 104,
+    "loops": 12,
+    "split_ell2_degree_histogram": {
+      "3": 72,
+      "15": 6
+    },
+    "split_ell2_product_kernels": 180,
+    "jacobian_asymptotic_main_term": "3282/3",
+    "seconds": 0.192,
+    "component_sizes": [
+      26
+    ]
+  },
+  {
+    "p": 613,
+    "bits": 10,
+    "p_mod_8": 5,
+    "h_quadratic_field": 10,
+    "s": 5,
+    "t": 51,
+    "split_vertices": 55,
+    "restriction_vertices": 28,
+    "directed_kernels": 112,
+    "loops": 22,
+    "split_ell2_degree_histogram": {
+      "3": 55
+    },
+    "split_ell2_product_kernels": 55,
+    "jacobian_asymptotic_main_term": "3065/3",
+    "seconds": 0.25,
+    "component_sizes": [
+      28
+    ]
+  },
+  {
+    "p": 619,
+    "bits": 10,
+    "p_mod_8": 3,
+    "h_quadratic_field": 5,
+    "s": 10,
+    "t": 52,
+    "split_vertices": 210,
+    "restriction_vertices": 31,
+    "directed_kernels": 124,
+    "loops": 5,
+    "split_ell2_degree_histogram": {
+      "3": 195,
+      "15": 15
+    },
+    "split_ell2_product_kernels": 480,
+    "jacobian_asymptotic_main_term": "6190/3",
+    "seconds": 0.241,
+    "component_sizes": [
+      31
+    ]
+  },
+  {
+    "p": 631,
+    "bits": 10,
+    "p_mod_8": 7,
+    "h_quadratic_field": 13,
+    "s": 13,
+    "t": 53,
+    "split_vertices": 351,
+    "restriction_vertices": 33,
+    "directed_kernels": 132,
+    "loops": 6,
+    "split_ell2_degree_histogram": {
+      "3": 260,
+      "15": 91
+    },
+    "split_ell2_product_kernels": 1417,
+    "jacobian_asymptotic_main_term": "8203/3",
+    "seconds": 0.237,
+    "component_sizes": [
+      33
+    ]
+  },
+  {
+    "p": 661,
+    "bits": 10,
+    "p_mod_8": 5,
+    "h_quadratic_field": 18,
+    "s": 9,
+    "t": 55,
+    "split_vertices": 171,
+    "restriction_vertices": 32,
+    "directed_kernels": 128,
+    "loops": 9,
+    "split_ell2_degree_histogram": {
+      "3": 171
+    },
+    "split_ell2_product_kernels": 171,
+    "jacobian_asymptotic_main_term": "5949/3",
+    "seconds": 0.296,
+    "component_sizes": [
+      32
+    ]
+  },
+  {
+    "p": 673,
+    "bits": 10,
+    "p_mod_8": 1,
+    "h_quadratic_field": 12,
+    "s": 6,
+    "t": 56,
+    "split_vertices": 78,
+    "restriction_vertices": 31,
+    "directed_kernels": 124,
+    "loops": 17,
+    "split_ell2_degree_histogram": {
+      "3": 78
+    },
+    "split_ell2_product_kernels": 78,
+    "jacobian_asymptotic_main_term": "4038/3",
+    "seconds": 0.307,
+    "component_sizes": [
+      31
+    ]
+  },
+  {
+    "p": 751,
+    "bits": 10,
+    "p_mod_8": 7,
+    "h_quadratic_field": 15,
+    "s": 15,
+    "t": 63,
+    "split_vertices": 465,
+    "restriction_vertices": 39,
+    "directed_kernels": 156,
+    "loops": 10,
+    "split_ell2_degree_histogram": {
+      "3": 345,
+      "15": 120
+    },
+    "split_ell2_product_kernels": 1875,
+    "jacobian_asymptotic_main_term": "11265/3",
+    "seconds": 0.294,
+    "component_sizes": [
+      39
+    ]
+  },
+  {
+    "p": 823,
+    "bits": 10,
+    "p_mod_8": 7,
+    "h_quadratic_field": 9,
+    "s": 9,
+    "t": 69,
+    "split_vertices": 171,
+    "restriction_vertices": 39,
+    "directed_kernels": 156,
+    "loops": 14,
+    "split_ell2_degree_histogram": {
+      "3": 126,
+      "15": 45
+    },
+    "split_ell2_product_kernels": 693,
+    "jacobian_asymptotic_main_term": "7407/3",
+    "seconds": 0.31,
+    "component_sizes": [
+      39
+    ]
+  },
+  {
+    "p": 991,
+    "bits": 10,
+    "p_mod_8": 7,
+    "h_quadratic_field": 17,
+    "s": 17,
+    "t": 83,
+    "split_vertices": 595,
+    "restriction_vertices": 50,
+    "directed_kernels": 200,
+    "loops": 8,
+    "split_ell2_degree_histogram": {
+      "15": 153,
+      "3": 442
+    },
+    "split_ell2_product_kernels": 2397,
+    "jacobian_asymptotic_main_term": "16847/3",
+    "seconds": 0.403,
+    "component_sizes": [
+      50
+    ]
+  }
+]

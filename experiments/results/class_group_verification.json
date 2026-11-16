@@ -1,0 +1,82 @@
+{
+  "arithmetic": [
+    {
+      "p": 7,
+      "hK": 1,
+      "hR": 1,
+      "split": 3,
+      "restriction": 1,
+      "Jacobian_trace_term_before_exceptional_correction": 1,
+      "total": 6,
+      "Jacobian": 2,
+      "exceptional_correction": 1,
+      "quadratic_class_group_orbits_from_freeness": 6
+    },
+    {
+      "p": 11,
+      "hK": 1,
+      "hR": 3,
+      "split": 10,
+      "restriction": 2,
+      "Jacobian_trace_term_before_exceptional_correction": 3,
+      "total": 20,
+      "Jacobian": 8,
+      "exceptional_correction": 5
+    },
+    {
+      "p": 13,
+      "hK": 2,
+      "hR": 2,
+      "split": 3,
+      "restriction": 1,
+      "Jacobian_trace_term_before_exceptional_correction": 4,
+      "total": 8,
+      "Jacobian": 4,
+      "exceptional_correction": 0
+    },
+    {
+      "p": 31,
+      "hK": 3,
+      "hR": 3,
+      "split": 21,
+      "restriction": 3,
+      "Jacobian_trace_term_before_exceptional_correction": 20,
+      "total": 60,
+      "Jacobian": 36,
+      "exceptional_correction": 16,
+      "quadratic_class_group_orbits_from_freeness": 20
+    },
+    {
+      "p": 431,
+      "hK": 21,
+      "hR": 21,
+      "split": 903,
+      "restriction": 29,
+      "Jacobian_trace_term_before_exceptional_correction": 2556,
+      "Jacobian_residue_mod_hK": 13,
+      "exceptional_correction_residue_mod_hK": 19,
+      "exact_Jacobian_not_evaluated": true
+    }
+  ],
+  "independent_p7_descent": {
+    "p": 7,
+    "geometric_group_order": 48,
+    "rational_group_order": 8,
+    "exceptional_Jacobian_correction": 1,
+    "maximal": {
+      "forms": 2,
+      "twist_elements": 18,
+      "orbit_sizes": [
+        6,
+        12
+      ]
+    },
+    "minimal": {
+      "forms": 1,
+      "twist_elements": 2,
+      "orbit_sizes": [
+        2
+      ]
+    }
+  }
+}

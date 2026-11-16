@@ -1,0 +1,551 @@
+{
+  "p": 823,
+  "bits": 10,
+  "source_parameter_a": 17,
+  "source_elliptic_quotients": [
+    [
+      1,
+      0
+    ],
+    [
+      563,
+      589
+    ]
+  ],
+  "extension_nonresidue": 3,
+  "roots": [
+    200812,
+    288339,
+    288584,
+    389568,
+    389813,
+    476517
+  ],
+  "frobenius_permutation": [
+    5,
+    3,
+    4,
+    1,
+    2,
+    0
+  ],
+  "vertices": [
+    {
+      "label": "J0",
+      "type": "Jacobian",
+      "coefficients": [
+        8,
+        0,
+        45,
+        0,
+        772,
+        0,
+        1
+      ],
+      "n1": 824,
+      "n2": 680622,
+      "cartier_manin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "weil_polynomial": [
+        677329,
+        0,
+        1646,
+        0,
+        1
+      ],
+      "aut": 4,
+      "rational_outdegree": 7
+    },
+    {
+      "label": "J1",
+      "type": "Jacobian",
+      "coefficients": [
+        730,
+        695,
+        752,
+        279,
+        482,
+        22,
+        124
+      ],
+      "n1": 824,
+      "n2": 680622,
+      "cartier_manin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "weil_polynomial": [
+        677329,
+        0,
+        1646,
+        0,
+        1
+      ],
+      "aut": 2,
+      "rational_outdegree": 3
+    },
+    {
+      "label": "J2",
+      "type": "Jacobian",
+      "coefficients": [
+        199,
+        575,
+        480,
+        356,
+        476,
+        393,
+        600
+      ],
+      "n1": 824,
+      "n2": 680622,
+      "cartier_manin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "weil_polynomial": [
+        677329,
+        0,
+        1646,
+        0,
+        1
+      ],
+      "aut": 2,
+      "rational_outdegree": 7
+    },
+    {
+      "label": "J3",
+      "type": "Jacobian",
+      "coefficients": [
+        81,
+        0,
+        92,
+        0,
+        559,
+        0,
+        2
+      ],
+      "n1": 824,
+      "n2": 680622,
+      "cartier_manin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "weil_polynomial": [
+        677329,
+        0,
+        1646,
+        0,
+        1
+      ],
+      "aut": 4,
+      "rational_outdegree": 7
+    },
+    {
+      "label": "J4",
+      "type": "Jacobian",
+      "coefficients": [
+        742,
+        0,
+        92,
+        0,
+        264,
+        0,
+        2
+      ],
+      "n1": 824,
+      "n2": 680622,
+      "cartier_manin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "weil_polynomial": [
+        677329,
+        0,
+        1646,
+        0,
+        1
+      ],
+      "aut": 4,
+      "rational_outdegree": 15
+    },
+    {
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          443
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4,
+      "label": "S0"
+    }
+  ],
+  "kernels": [
+    {
+      "matching": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "delta": 49380,
+      "quadratics": [
+        [
+          461950,
+          189001,
+          1
+        ],
+        [
+          779,
+          578,
+          1
+        ],
+        [
+          215873,
+          489396,
+          1
+        ]
+      ],
+      "quotient_coefficients": [
+        730,
+        695,
+        752,
+        279,
+        482,
+        22,
+        124
+      ],
+      "source": 0,
+      "target": 1
+    },
+    {
+      "matching": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "delta": 49380,
+      "quadratics": [
+        [
+          215873,
+          188756,
+          1
+        ],
+        [
+          779,
+          245,
+          1
+        ],
+        [
+          461950,
+          489151,
+          1
+        ]
+      ],
+      "quotient_coefficients": [
+        730,
+        128,
+        752,
+        544,
+        482,
+        801,
+        124
+      ],
+      "source": 0,
+      "target": 1
+    },
+    {
+      "matching": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "delta": 469933,
+      "quadratics": [
+        [
+          462279,
+          87772,
+          1
+        ],
+        [
+          216202,
+          590625,
+          1
+        ],
+        [
+          779,
+          578,
+          1
+        ]
+      ],
+      "quotient_coefficients": [
+        199,
+        575,
+        480,
+        356,
+        476,
+        393,
+        600
+      ],
+      "source": 0,
+      "target": 2
+    },
+    {
+      "matching": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          5
+        ]
+      ],
+      "delta": 207396,
+      "quadratics": [
+        [
+          216202,
+          87527,
+          1
+        ],
+        [
+          779,
+          245,
+          1
+        ],
+        [
+          462279,
+          590380,
+          1
+        ]
+      ],
+      "quotient_coefficients": [
+        199,
+        248,
+        480,
+        467,
+        476,
+        430,
+        600
+      ],
+      "source": 0,
+      "target": 2
+    },
+    {
+      "matching": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "delta": 158016,
+      "quadratics": [
+        [
+          806,
+          0,
+          1
+        ],
+        [
+          44,
+          101229,
+          1
+        ],
+        [
+          44,
+          576100,
+          1
+        ]
+      ],
+      "quotient_coefficients": [
+        81,
+        0,
+        92,
+        0,
+        559,
+        0,
+        2
+      ],
+      "source": 0,
+      "target": 3
+    },
+    {
+      "matching": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "delta": 761,
+      "quadratics": [
+        [
+          806,
+          0,
+          1
+        ],
+        [
+          779,
+          245,
+          1
+        ],
+        [
+          779,
+          578,
+          1
+        ]
+      ],
+      "quotient_coefficients": [
+        742,
+        0,
+        92,
+        0,
+        264,
+        0,
+        2
+      ],
+      "source": 0,
+      "target": 4
+    },
+    {
+      "matching": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "delta": 0,
+      "quadratics": [
+        [
+          806,
+          0,
+          1
+        ],
+        [
+          130840,
+          0,
+          1
+        ],
+        [
+          548101,
+          0,
+          1
+        ]
+      ],
+      "source": 0,
+      "target": 5
+    }
+  ],
+  "edges": [
+    {
+      "source": 0,
+      "target": 1,
+      "forward_kernels": 2,
+      "reverse_kernels_by_duality": 1,
+      "reverse_kernels_directly_verified": 1
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "forward_kernels": 2,
+      "reverse_kernels_by_duality": 1,
+      "reverse_kernels_directly_verified": 1
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "forward_kernels": 1,
+      "reverse_kernels_by_duality": 1,
+      "reverse_kernels_directly_verified": 1
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "forward_kernels": 1,
+      "reverse_kernels_by_duality": 1,
+      "reverse_kernels_directly_verified": 1
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "forward_kernels": 1,
+      "reverse_kernels_by_duality": 1
+    }
+  ],
+  "source_outdegree": 7,
+  "scope": "All rational (2,2) kernels from one specified Jacobian, with reverse multiplicities from polarized duality; other outgoing rows are not enumerated.",
+  "isomorphism_test": "All 120 branch-triple maps, rational matrix and square scalar in Fp",
+  "seconds": 1.458
+}

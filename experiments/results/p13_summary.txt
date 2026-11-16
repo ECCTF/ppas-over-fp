@@ -1,0 +1,9 @@
+p=13
+non_square=2
+normalized_models=10396204
+smooth_models=9596496
+isomorphism_classes=4589
+p_rank=0,a_number=1,count=34
+p_rank=0,a_number=2,count=13
+p_rank=1,a_number=1,count=320
+p_rank=2,a_number=0,count=4222

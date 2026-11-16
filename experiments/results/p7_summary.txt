@@ -1,0 +1,9 @@
+p=7
+non_square=3
+normalized_models=268912
+smooth_models=230496
+isomorphism_classes=749
+p_rank=0,a_number=1,count=12
+p_rank=0,a_number=2,count=6
+p_rank=1,a_number=1,count=92
+p_rank=2,a_number=0,count=639

@@ -1,0 +1,19 @@
+{
+  "p": 47,
+  "input_file": "p47_rational_census.json",
+  "input_sha256": "ce3d2da6e31fbe8bb4b567a32d2fb6e8e1bb5e343d23a2b7d3a17ca1fcb51dfd",
+  "Jacobian_equations_verified": 100,
+  "points_fp": 48,
+  "points_fp2": 2398,
+  "zero_Cartier_Manin_matrices": 100,
+  "degree_histogram": {
+    "3": 70,
+    "7": 20,
+    "15": 10
+  },
+  "total_Jacobian_kernel_edges": 500,
+  "weighted_duality_on_all_Jacobian_pairs": true,
+  "integral_reverse_decomposed_multiplicities": true,
+  "seconds": 0.043,
+  "scope": "Independent point counts, Cartier-Manin, stable matchings and saved-edge consistency. Completeness and rational-isomorphism distinctness use the separately audited census."
+}

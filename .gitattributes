@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.sh text eol=lf
+*.py text eol=lf
+*.sage text eol=lf
+*.cpp text eol=lf
+*.json -text whitespace=cr-at-eol
+*.csv -text whitespace=cr-at-eol
+*.png binary

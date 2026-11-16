@@ -1,0 +1,147 @@
+{
+  "p": 11,
+  "field_modulus": [
+    2,
+    7,
+    1
+  ],
+  "geometric_j": 2,
+  "rational_j": 2,
+  "elliptic_forms_over_fp2": 10,
+  "fixed_forms": 4,
+  "restriction_classes": 7,
+  "blocks_b_over_p": {
+    "2": 2,
+    "1": 1,
+    "-1": 1,
+    "-2": 2,
+    "0": 1
+  },
+  "elliptic_curves": [
+    {
+      "id": 0,
+      "a4": [],
+      "a6": [
+        1
+      ],
+      "trace": -22,
+      "conjugate": 0
+    },
+    {
+      "id": 1,
+      "a4": [],
+      "a6": [
+        0,
+        1
+      ],
+      "trace": -11,
+      "conjugate": 5
+    },
+    {
+      "id": 2,
+      "a4": [],
+      "a6": [
+        9,
+        4
+      ],
+      "trace": 11,
+      "conjugate": 4
+    },
+    {
+      "id": 3,
+      "a4": [],
+      "a6": [
+        3,
+        3
+      ],
+      "trace": 22,
+      "conjugate": 3
+    },
+    {
+      "id": 4,
+      "a4": [],
+      "a6": [
+        5,
+        4
+      ],
+      "trace": 11,
+      "conjugate": 2
+    },
+    {
+      "id": 5,
+      "a4": [],
+      "a6": [
+        3,
+        10
+      ],
+      "trace": -11,
+      "conjugate": 1
+    },
+    {
+      "id": 6,
+      "a4": [
+        1
+      ],
+      "a6": [],
+      "trace": -22,
+      "conjugate": 6
+    },
+    {
+      "id": 7,
+      "a4": [
+        0,
+        1
+      ],
+      "a6": [],
+      "trace": 0,
+      "conjugate": 9
+    },
+    {
+      "id": 8,
+      "a4": [
+        9,
+        4
+      ],
+      "a6": [],
+      "trace": 22,
+      "conjugate": 8
+    },
+    {
+      "id": 9,
+      "a4": [
+        3,
+        3
+      ],
+      "a6": [],
+      "trace": 0,
+      "conjugate": 7
+    }
+  ],
+  "galois_orbits": [
+    [
+      0
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      3
+    ],
+    [
+      6
+    ],
+    [
+      7,
+      9
+    ],
+    [
+      8
+    ]
+  ],
+  "sage_version": "SageMath version 10.8, Release Date: 2025-12-18"
+}

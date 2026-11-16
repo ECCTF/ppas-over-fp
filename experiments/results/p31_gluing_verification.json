@@ -1,0 +1,387 @@
+{
+  "p": 31,
+  "field": {
+    "p": 31,
+    "nu": 3
+  },
+  "split_Jacobian_kernels": 38,
+  "restriction_Jacobian_kernels": 8,
+  "split_boundary_ordered_pairs": 35,
+  "restriction_boundary_ordered_pairs": 6,
+  "recovered_elliptic_quotient_pairs": 38,
+  "vanishing_Cartier_Manin_matrices": 46,
+  "split_decomposed_graph_kernels": [
+    {
+      "source_split_ids": [
+        0,
+        0
+      ],
+      "x_scalar": 1,
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "type": "split",
+      "target_split_ids": [
+        0,
+        0
+      ]
+    },
+    {
+      "source_split_ids": [
+        0,
+        1
+      ],
+      "x_scalar": 12,
+      "root_permutation": [
+        2,
+        0,
+        1
+      ],
+      "type": "restriction",
+      "j_orbit": [
+        2
+      ]
+    },
+    {
+      "source_split_ids": [
+        1,
+        1
+      ],
+      "x_scalar": 1,
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "type": "split",
+      "target_split_ids": [
+        1,
+        1
+      ]
+    },
+    {
+      "source_split_ids": [
+        2,
+        2
+      ],
+      "x_scalar": 1,
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "type": "split",
+      "target_split_ids": [
+        2,
+        2
+      ]
+    },
+    {
+      "source_split_ids": [
+        2,
+        3
+      ],
+      "x_scalar": 13,
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "type": "restriction",
+      "j_orbit": [
+        4
+      ]
+    },
+    {
+      "source_split_ids": [
+        3,
+        3
+      ],
+      "x_scalar": 1,
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "type": "split",
+      "target_split_ids": [
+        3,
+        3
+      ]
+    },
+    {
+      "source_split_ids": [
+        4,
+        4
+      ],
+      "x_scalar": 1,
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "type": "split",
+      "target_split_ids": [
+        4,
+        4
+      ]
+    },
+    {
+      "source_split_ids": [
+        4,
+        4
+      ],
+      "x_scalar": 30,
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "type": "restriction",
+      "j_orbit": [
+        23
+      ]
+    },
+    {
+      "source_split_ids": [
+        5,
+        5
+      ],
+      "x_scalar": 1,
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "type": "split",
+      "target_split_ids": [
+        5,
+        5
+      ]
+    },
+    {
+      "source_split_ids": [
+        5,
+        5
+      ],
+      "x_scalar": 30,
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "type": "restriction",
+      "j_orbit": [
+        23
+      ]
+    }
+  ],
+  "restriction_reverse_split_totals": {
+    "2": 1,
+    "4": 1,
+    "23": 2
+  },
+  "independent_point_counts": [
+    {
+      "source_type": "split",
+      "kernel_index": 0,
+      "n1": 32,
+      "n2": 1086,
+      "cartier_manin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "weil_polynomial": [
+        961,
+        0,
+        62,
+        0,
+        1
+      ]
+    },
+    {
+      "source_type": "split",
+      "kernel_index": 9,
+      "n1": 32,
+      "n2": 1086,
+      "cartier_manin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "weil_polynomial": [
+        961,
+        0,
+        62,
+        0,
+        1
+      ]
+    },
+    {
+      "source_type": "split",
+      "kernel_index": 19,
+      "n1": 32,
+      "n2": 1086,
+      "cartier_manin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "weil_polynomial": [
+        961,
+        0,
+        62,
+        0,
+        1
+      ]
+    },
+    {
+      "source_type": "split",
+      "kernel_index": 28,
+      "n1": 32,
+      "n2": 1086,
+      "cartier_manin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "weil_polynomial": [
+        961,
+        0,
+        62,
+        0,
+        1
+      ]
+    },
+    {
+      "source_type": "split",
+      "kernel_index": 37,
+      "n1": 32,
+      "n2": 1086,
+      "cartier_manin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "weil_polynomial": [
+        961,
+        0,
+        62,
+        0,
+        1
+      ]
+    },
+    {
+      "source_type": "restriction",
+      "kernel_index": 0,
+      "n1": 32,
+      "n2": 1086,
+      "cartier_manin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "weil_polynomial": [
+        961,
+        0,
+        62,
+        0,
+        1
+      ]
+    },
+    {
+      "source_type": "restriction",
+      "kernel_index": 2,
+      "n1": 32,
+      "n2": 1086,
+      "cartier_manin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "weil_polynomial": [
+        961,
+        0,
+        62,
+        0,
+        1
+      ]
+    },
+    {
+      "source_type": "restriction",
+      "kernel_index": 4,
+      "n1": 32,
+      "n2": 1086,
+      "cartier_manin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "weil_polynomial": [
+        961,
+        0,
+        62,
+        0,
+        1
+      ]
+    },
+    {
+      "source_type": "restriction",
+      "kernel_index": 6,
+      "n1": 32,
+      "n2": 1086,
+      "cartier_manin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "weil_polynomial": [
+        961,
+        0,
+        62,
+        0,
+        1
+      ]
+    },
+    {
+      "source_type": "restriction",
+      "kernel_index": 7,
+      "n1": 32,
+      "n2": 1086,
+      "cartier_manin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "weil_polynomial": [
+        961,
+        0,
+        62,
+        0,
+        1
+      ]
+    }
+  ],
+  "checks": [
+    "exact Fp elliptic quotients of every split gluing",
+    "every split and restriction HLP kernel matched by exact Fp curve isomorphism",
+    "every explicit boundary entry agrees with reversed Richelot quotients",
+    "all affine split graph kernels classified by the rational square test",
+    "all seed Cartier-Manin matrices vanish",
+    "sample Fp and Fp2 point counts are maximal"
+  ],
+  "seconds": 0.247
+}

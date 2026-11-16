@@ -1,0 +1,910 @@
+{
+  "method": "Standard Python; point counts, polynomial arithmetic and projective-line sets.",
+  "limitations": [
+    "Reuses the stored vertex census; does not independently prove exhaustiveness.",
+    "Direct Richelot identification is restricted to nondegenerate p=7 quotients.",
+    "Decomposed p=7 Richelot kernels are counted but their individual targets are not recomputed.",
+    "Stored ell=3 graph is checked for invariants, not reconstructed by a general odd-isogeny algorithm."
+  ],
+  "graphs": [
+    {
+      "p": 7,
+      "ell": 2,
+      "vertices": 6,
+      "directed_kernels": 34,
+      "component_sizes": [
+        6
+      ],
+      "curves_checked": [
+        {
+          "label": "J0",
+          "points_Fp": 8,
+          "points_Fp2": 78,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J1",
+          "points_Fp": 8,
+          "points_Fp2": 78,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "stored_full_census_mass": "343"
+    },
+    {
+      "p": 11,
+      "ell": 2,
+      "vertices": 20,
+      "directed_kernels": 108,
+      "component_sizes": [
+        3,
+        17
+      ],
+      "curves_checked": [
+        {
+          "label": "J0",
+          "points_Fp": 12,
+          "points_Fp2": 166,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J1",
+          "points_Fp": 12,
+          "points_Fp2": 166,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J2",
+          "points_Fp": 12,
+          "points_Fp2": 166,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J3",
+          "points_Fp": 12,
+          "points_Fp2": 166,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J4",
+          "points_Fp": 12,
+          "points_Fp2": 166,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J5",
+          "points_Fp": 12,
+          "points_Fp2": 166,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J6",
+          "points_Fp": 12,
+          "points_Fp2": 166,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J7",
+          "points_Fp": 12,
+          "points_Fp2": 166,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "stored_full_census_mass": "1331"
+    },
+    {
+      "p": 13,
+      "ell": 2,
+      "vertices": 8,
+      "directed_kernels": 32,
+      "component_sizes": [
+        1,
+        3,
+        4
+      ],
+      "curves_checked": [
+        {
+          "label": "J0",
+          "points_Fp": 14,
+          "points_Fp2": 222,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J1",
+          "points_Fp": 14,
+          "points_Fp2": 222,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J2",
+          "points_Fp": 14,
+          "points_Fp2": 222,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J3",
+          "points_Fp": 14,
+          "points_Fp2": 222,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "stored_full_census_mass": "2197"
+    },
+    {
+      "p": 31,
+      "ell": 2,
+      "vertices": 60,
+      "directed_kernels": 324,
+      "component_sizes": [
+        60
+      ],
+      "curves_checked": [
+        {
+          "label": "J0",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J1",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J2",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J3",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J4",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J5",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J6",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J7",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J8",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J9",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J10",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J11",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J12",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J13",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J14",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J15",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J16",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J17",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J18",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J19",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J20",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J21",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J22",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J23",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J24",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J25",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J26",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J27",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J28",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J29",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J30",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J31",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J32",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J33",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J34",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "label": "J35",
+          "points_Fp": 32,
+          "points_Fp2": 1086,
+          "Cartier_Manin": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "ell3_graph": {
+    "p": 7,
+    "ell": 3,
+    "vertices": 6,
+    "directed_kernels": 24,
+    "component_sizes": [
+      1,
+      1,
+      2,
+      2
+    ],
+    "curves_checked": []
+  },
+  "kernel_families": [
+    {
+      "p": 7,
+      "ell": 2,
+      "type": "II",
+      "product": 9,
+      "nonproduct": 6
+    },
+    {
+      "p": 7,
+      "ell": 2,
+      "type": "IU",
+      "product": 3,
+      "nonproduct": 0
+    },
+    {
+      "p": 7,
+      "ell": 2,
+      "type": "UU",
+      "product": 1,
+      "nonproduct": 2
+    },
+    {
+      "p": 7,
+      "ell": 2,
+      "type": "restriction",
+      "product": 3,
+      "nonproduct": 4
+    },
+    {
+      "p": 11,
+      "ell": 2,
+      "type": "II",
+      "product": 9,
+      "nonproduct": 6
+    },
+    {
+      "p": 11,
+      "ell": 2,
+      "type": "IU",
+      "product": 3,
+      "nonproduct": 0
+    },
+    {
+      "p": 11,
+      "ell": 2,
+      "type": "UU",
+      "product": 1,
+      "nonproduct": 2
+    },
+    {
+      "p": 11,
+      "ell": 2,
+      "type": "restriction",
+      "product": 3,
+      "nonproduct": 4
+    },
+    {
+      "p": 13,
+      "ell": 2,
+      "type": "II",
+      "product": 9,
+      "nonproduct": 6
+    },
+    {
+      "p": 13,
+      "ell": 2,
+      "type": "IU",
+      "product": 3,
+      "nonproduct": 0
+    },
+    {
+      "p": 13,
+      "ell": 2,
+      "type": "UU",
+      "product": 1,
+      "nonproduct": 2
+    },
+    {
+      "p": 13,
+      "ell": 2,
+      "type": "restriction",
+      "product": 3,
+      "nonproduct": 4
+    },
+    {
+      "p": 31,
+      "ell": 2,
+      "type": "II",
+      "product": 9,
+      "nonproduct": 6
+    },
+    {
+      "p": 31,
+      "ell": 2,
+      "type": "IU",
+      "product": 3,
+      "nonproduct": 0
+    },
+    {
+      "p": 31,
+      "ell": 2,
+      "type": "UU",
+      "product": 1,
+      "nonproduct": 2
+    },
+    {
+      "p": 31,
+      "ell": 2,
+      "type": "restriction",
+      "product": 3,
+      "nonproduct": 4
+    },
+    {
+      "p": 7,
+      "ell": 3,
+      "type": "split",
+      "product": 0,
+      "nonproduct": 4
+    },
+    {
+      "p": 7,
+      "ell": 3,
+      "type": "restriction",
+      "product": 4,
+      "nonproduct": 0
+    },
+    {
+      "p": 11,
+      "ell": 3,
+      "type": "split",
+      "product": 4,
+      "nonproduct": 2
+    },
+    {
+      "p": 11,
+      "ell": 3,
+      "type": "restriction",
+      "product": 4,
+      "nonproduct": 2
+    },
+    {
+      "p": 13,
+      "ell": 3,
+      "type": "split",
+      "product": 0,
+      "nonproduct": 4
+    },
+    {
+      "p": 13,
+      "ell": 3,
+      "type": "restriction",
+      "product": 4,
+      "nonproduct": 0
+    },
+    {
+      "p": 31,
+      "ell": 3,
+      "type": "split",
+      "product": 0,
+      "nonproduct": 4
+    },
+    {
+      "p": 31,
+      "ell": 3,
+      "type": "restriction",
+      "product": 4,
+      "nonproduct": 0
+    },
+    {
+      "p": 7,
+      "ell": 5,
+      "type": "split",
+      "product": 0,
+      "nonproduct": 6
+    },
+    {
+      "p": 7,
+      "ell": 5,
+      "type": "restriction",
+      "product": 6,
+      "nonproduct": 0
+    },
+    {
+      "p": 11,
+      "ell": 5,
+      "type": "split",
+      "product": 4,
+      "nonproduct": 4
+    },
+    {
+      "p": 11,
+      "ell": 5,
+      "type": "restriction",
+      "product": 6,
+      "nonproduct": 2
+    },
+    {
+      "p": 13,
+      "ell": 5,
+      "type": "split",
+      "product": 0,
+      "nonproduct": 6
+    },
+    {
+      "p": 13,
+      "ell": 5,
+      "type": "restriction",
+      "product": 6,
+      "nonproduct": 0
+    },
+    {
+      "p": 31,
+      "ell": 5,
+      "type": "split",
+      "product": 4,
+      "nonproduct": 4
+    },
+    {
+      "p": 31,
+      "ell": 5,
+      "type": "restriction",
+      "product": 6,
+      "nonproduct": 2
+    },
+    {
+      "p": 11,
+      "ell": 7,
+      "type": "split",
+      "product": 0,
+      "nonproduct": 8
+    },
+    {
+      "p": 11,
+      "ell": 7,
+      "type": "restriction",
+      "product": 8,
+      "nonproduct": 0
+    },
+    {
+      "p": 13,
+      "ell": 7,
+      "type": "split",
+      "product": 4,
+      "nonproduct": 6
+    },
+    {
+      "p": 13,
+      "ell": 7,
+      "type": "restriction",
+      "product": 8,
+      "nonproduct": 2
+    },
+    {
+      "p": 31,
+      "ell": 7,
+      "type": "split",
+      "product": 4,
+      "nonproduct": 6
+    },
+    {
+      "p": 31,
+      "ell": 7,
+      "type": "restriction",
+      "product": 8,
+      "nonproduct": 2
+    }
+  ],
+  "direct_Richelot_p7": [
+    {
+      "source": "J0",
+      "stable_matchings": 3,
+      "Jacobian_targets": {
+        "J0": 1
+      },
+      "decomposed_kernels": 2
+    },
+    {
+      "source": "J1",
+      "stable_matchings": 3,
+      "Jacobian_targets": {
+        "J1": 1
+      },
+      "decomposed_kernels": 2
+    }
+  ]
+}

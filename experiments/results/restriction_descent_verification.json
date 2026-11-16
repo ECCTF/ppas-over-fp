@@ -1,0 +1,130 @@
+{
+  "method": "Exact anti-isometry and exchanged graph enumeration",
+  "equation": "psi*v*psi=u",
+  "cases": [
+    {
+      "p": 7,
+      "ell": 2,
+      "anti_isometries": 6,
+      "stable_graph_kernels": 4,
+      "product_kernels": 3,
+      "total_rational_kernels": 7,
+      "naive_separate_factor_equivariance_count": 6
+    },
+    {
+      "p": 7,
+      "ell": 3,
+      "anti_isometries": 24,
+      "stable_graph_kernels": 0,
+      "product_kernels": 4,
+      "total_rational_kernels": 4
+    },
+    {
+      "p": 7,
+      "ell": 5,
+      "anti_isometries": 120,
+      "stable_graph_kernels": 0,
+      "product_kernels": 6,
+      "total_rational_kernels": 6
+    },
+    {
+      "p": 11,
+      "ell": 2,
+      "anti_isometries": 6,
+      "stable_graph_kernels": 4,
+      "product_kernels": 3,
+      "total_rational_kernels": 7,
+      "naive_separate_factor_equivariance_count": 6
+    },
+    {
+      "p": 11,
+      "ell": 3,
+      "anti_isometries": 24,
+      "stable_graph_kernels": 2,
+      "product_kernels": 4,
+      "total_rational_kernels": 6
+    },
+    {
+      "p": 11,
+      "ell": 5,
+      "anti_isometries": 120,
+      "stable_graph_kernels": 2,
+      "product_kernels": 6,
+      "total_rational_kernels": 8
+    },
+    {
+      "p": 11,
+      "ell": 7,
+      "anti_isometries": 336,
+      "stable_graph_kernels": 0,
+      "product_kernels": 8,
+      "total_rational_kernels": 8
+    },
+    {
+      "p": 13,
+      "ell": 2,
+      "anti_isometries": 6,
+      "stable_graph_kernels": 4,
+      "product_kernels": 3,
+      "total_rational_kernels": 7,
+      "naive_separate_factor_equivariance_count": 6
+    },
+    {
+      "p": 13,
+      "ell": 3,
+      "anti_isometries": 24,
+      "stable_graph_kernels": 0,
+      "product_kernels": 4,
+      "total_rational_kernels": 4
+    },
+    {
+      "p": 13,
+      "ell": 5,
+      "anti_isometries": 120,
+      "stable_graph_kernels": 0,
+      "product_kernels": 6,
+      "total_rational_kernels": 6
+    },
+    {
+      "p": 13,
+      "ell": 7,
+      "anti_isometries": 336,
+      "stable_graph_kernels": 2,
+      "product_kernels": 8,
+      "total_rational_kernels": 10
+    },
+    {
+      "p": 31,
+      "ell": 2,
+      "anti_isometries": 6,
+      "stable_graph_kernels": 4,
+      "product_kernels": 3,
+      "total_rational_kernels": 7,
+      "naive_separate_factor_equivariance_count": 6
+    },
+    {
+      "p": 31,
+      "ell": 3,
+      "anti_isometries": 24,
+      "stable_graph_kernels": 0,
+      "product_kernels": 4,
+      "total_rational_kernels": 4
+    },
+    {
+      "p": 31,
+      "ell": 5,
+      "anti_isometries": 120,
+      "stable_graph_kernels": 2,
+      "product_kernels": 6,
+      "total_rational_kernels": 8
+    },
+    {
+      "p": 31,
+      "ell": 7,
+      "anti_isometries": 336,
+      "stable_graph_kernels": 2,
+      "product_kernels": 8,
+      "total_rational_kernels": 10
+    }
+  ]
+}

@@ -1,0 +1,7132 @@
+{
+  "p": 47,
+  "richelot_sign": -1,
+  "field": {
+    "p": 47,
+    "nu": 5,
+    "encoding": "a+p*b with u^2=nu"
+  },
+  "complete_jacobian_closure": true,
+  "processed": 100,
+  "elapsed_seconds": 0.8324692249298096,
+  "vertices": [
+    {
+      "id": 0,
+      "label": "J0",
+      "type": "Jacobian",
+      "coefficients": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "roots": [
+        611,
+        805,
+        840,
+        1416,
+        1451,
+        1598
+      ],
+      "aut": 8,
+      "Frobenius2type": "1^02^3",
+      "frobenius_permutation": [
+        5,
+        3,
+        4,
+        1,
+        2,
+        0
+      ],
+      "geometric_reduced_aut": 12,
+      "degree": 7
+    },
+    {
+      "id": 1,
+      "label": "J1",
+      "type": "Jacobian",
+      "coefficients": [
+        19,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "roots": [
+        10,
+        37,
+        898,
+        935,
+        1321,
+        1358
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        4,
+        5,
+        2,
+        3
+      ],
+      "geometric_reduced_aut": 12,
+      "degree": 3
+    },
+    {
+      "id": 2,
+      "label": "J2",
+      "type": "Jacobian",
+      "coefficients": [
+        18,
+        0,
+        28,
+        0,
+        18,
+        0,
+        1
+      ],
+      "roots": [
+        388,
+        411,
+        517,
+        1692,
+        1845,
+        1868
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^02^3",
+      "frobenius_permutation": [
+        4,
+        5,
+        3,
+        2,
+        0,
+        1
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 7
+    },
+    {
+      "id": 3,
+      "label": "J3",
+      "type": "Jacobian",
+      "coefficients": [
+        29,
+        0,
+        28,
+        0,
+        29,
+        0,
+        1
+      ],
+      "roots": [
+        10,
+        37,
+        708,
+        749,
+        1507,
+        1548
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        4,
+        5,
+        2,
+        3
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 4,
+      "label": "J4",
+      "type": "Jacobian",
+      "coefficients": [
+        38,
+        0,
+        2,
+        0,
+        19,
+        0,
+        1
+      ],
+      "roots": [
+        13,
+        34,
+        105,
+        130,
+        2126,
+        2151
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        4,
+        5,
+        2,
+        3
+      ],
+      "geometric_reduced_aut": 6,
+      "degree": 3
+    },
+    {
+      "id": 5,
+      "label": "J5",
+      "type": "Jacobian",
+      "coefficients": [
+        9,
+        0,
+        4,
+        0,
+        18,
+        0,
+        1
+      ],
+      "roots": [
+        621,
+        648,
+        893,
+        1316,
+        1608,
+        1635
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^02^3",
+      "frobenius_permutation": [
+        4,
+        5,
+        3,
+        2,
+        0,
+        1
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 7
+    },
+    {
+      "id": 6,
+      "label": "J6",
+      "type": "Jacobian",
+      "coefficients": [
+        38,
+        0,
+        4,
+        0,
+        29,
+        0,
+        1
+      ],
+      "roots": [
+        13,
+        34,
+        518,
+        563,
+        1693,
+        1738
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        4,
+        5,
+        2,
+        3
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 7,
+      "label": "J7",
+      "type": "Jacobian",
+      "coefficients": [
+        9,
+        0,
+        2,
+        0,
+        28,
+        0,
+        1
+      ],
+      "roots": [
+        105,
+        130,
+        893,
+        1316,
+        2126,
+        2151
+      ],
+      "aut": 12,
+      "Frobenius2type": "1^02^3",
+      "frobenius_permutation": [
+        4,
+        5,
+        3,
+        2,
+        0,
+        1
+      ],
+      "geometric_reduced_aut": 6,
+      "degree": 7
+    },
+    {
+      "id": 8,
+      "label": "J8",
+      "type": "Jacobian",
+      "coefficients": [
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5
+      ],
+      "roots": [
+        611,
+        805,
+        840,
+        1416,
+        1451,
+        1598
+      ],
+      "aut": 8,
+      "Frobenius2type": "1^02^3",
+      "frobenius_permutation": [
+        5,
+        3,
+        4,
+        1,
+        2,
+        0
+      ],
+      "geometric_reduced_aut": 12,
+      "degree": 7
+    },
+    {
+      "id": 9,
+      "label": "J9",
+      "type": "Jacobian",
+      "coefficients": [
+        27,
+        0,
+        30,
+        0,
+        32,
+        0,
+        5
+      ],
+      "roots": [
+        1,
+        46,
+        1039,
+        1076,
+        1180,
+        1217
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        4,
+        5,
+        2,
+        3
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 10,
+      "label": "J10",
+      "type": "Jacobian",
+      "coefficients": [
+        20,
+        0,
+        30,
+        0,
+        15,
+        0,
+        5
+      ],
+      "roots": [
+        611,
+        866,
+        873,
+        1383,
+        1390,
+        1598
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^02^3",
+      "frobenius_permutation": [
+        5,
+        3,
+        4,
+        1,
+        2,
+        0
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 7
+    },
+    {
+      "id": 11,
+      "label": "J11",
+      "type": "Jacobian",
+      "coefficients": [
+        10,
+        0,
+        29,
+        0,
+        39,
+        0,
+        5
+      ],
+      "roots": [
+        752,
+        906,
+        927,
+        1329,
+        1350,
+        1457
+      ],
+      "aut": 12,
+      "Frobenius2type": "1^02^3",
+      "frobenius_permutation": [
+        5,
+        3,
+        4,
+        1,
+        2,
+        0
+      ],
+      "geometric_reduced_aut": 6,
+      "degree": 7
+    },
+    {
+      "id": 12,
+      "label": "J12",
+      "type": "Jacobian",
+      "coefficients": [
+        37,
+        0,
+        11,
+        0,
+        32,
+        0,
+        5
+      ],
+      "roots": [
+        6,
+        41,
+        625,
+        644,
+        1612,
+        1631
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        4,
+        5,
+        2,
+        3
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 13,
+      "label": "J13",
+      "type": "Jacobian",
+      "coefficients": [
+        10,
+        0,
+        11,
+        0,
+        15,
+        0,
+        5
+      ],
+      "roots": [
+        283,
+        328,
+        752,
+        1457,
+        1928,
+        1973
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^02^3",
+      "frobenius_permutation": [
+        4,
+        5,
+        3,
+        2,
+        0,
+        1
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 7
+    },
+    {
+      "id": 14,
+      "label": "J14",
+      "type": "Jacobian",
+      "coefficients": [
+        37,
+        0,
+        29,
+        0,
+        8,
+        0,
+        5
+      ],
+      "roots": [
+        6,
+        41,
+        906,
+        927,
+        1329,
+        1350
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        4,
+        5,
+        2,
+        3
+      ],
+      "geometric_reduced_aut": 6,
+      "degree": 3
+    },
+    {
+      "id": 15,
+      "label": "J15",
+      "type": "Jacobian",
+      "coefficients": [
+        26,
+        0,
+        10,
+        0,
+        27,
+        0,
+        5
+      ],
+      "roots": [
+        752,
+        1007,
+        1014,
+        1242,
+        1249,
+        1457
+      ],
+      "aut": 12,
+      "Frobenius2type": "1^02^3",
+      "frobenius_permutation": [
+        5,
+        3,
+        4,
+        1,
+        2,
+        0
+      ],
+      "geometric_reduced_aut": 6,
+      "degree": 7
+    },
+    {
+      "id": 16,
+      "label": "J16",
+      "type": "Jacobian",
+      "coefficients": [
+        23,
+        0,
+        2,
+        0,
+        4,
+        0,
+        1
+      ],
+      "roots": [
+        6,
+        41,
+        1036,
+        1079,
+        1177,
+        1220
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        4,
+        5,
+        2,
+        3
+      ],
+      "geometric_reduced_aut": 6,
+      "degree": 3
+    },
+    {
+      "id": 17,
+      "label": "J17",
+      "type": "Jacobian",
+      "coefficients": [
+        24,
+        0,
+        2,
+        0,
+        43,
+        0,
+        1
+      ],
+      "roots": [
+        752,
+        1007,
+        1014,
+        1242,
+        1249,
+        1457
+      ],
+      "aut": 12,
+      "Frobenius2type": "1^02^3",
+      "frobenius_permutation": [
+        5,
+        3,
+        4,
+        1,
+        2,
+        0
+      ],
+      "geometric_reduced_aut": 6,
+      "degree": 7
+    },
+    {
+      "id": 18,
+      "label": "J18",
+      "type": "Jacobian",
+      "coefficients": [
+        21,
+        0,
+        10,
+        0,
+        20,
+        0,
+        5
+      ],
+      "roots": [
+        6,
+        41,
+        1036,
+        1079,
+        1177,
+        1220
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        4,
+        5,
+        2,
+        3
+      ],
+      "geometric_reduced_aut": 6,
+      "degree": 3
+    },
+    {
+      "id": 19,
+      "label": "J19",
+      "type": "Jacobian",
+      "coefficients": [
+        5,
+        0,
+        10,
+        0,
+        10,
+        0,
+        5
+      ],
+      "roots": [
+        611,
+        775,
+        776,
+        1480,
+        1481,
+        1598
+      ],
+      "aut": 8,
+      "Frobenius2type": "1^02^3",
+      "frobenius_permutation": [
+        5,
+        3,
+        4,
+        1,
+        2,
+        0
+      ],
+      "geometric_reduced_aut": 4,
+      "degree": 7
+    },
+    {
+      "id": 20,
+      "label": "J20",
+      "type": "Jacobian",
+      "coefficients": [
+        42,
+        0,
+        10,
+        0,
+        37,
+        0,
+        5
+      ],
+      "roots": [
+        1,
+        46,
+        805,
+        840,
+        1416,
+        1451
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        4,
+        5,
+        2,
+        3
+      ],
+      "geometric_reduced_aut": 4,
+      "degree": 3
+    },
+    {
+      "id": 21,
+      "label": "J21",
+      "type": "Jacobian",
+      "coefficients": [
+        5,
+        0,
+        19,
+        0,
+        19,
+        0,
+        5
+      ],
+      "roots": [
+        2,
+        23,
+        24,
+        45,
+        611,
+        1598
+      ],
+      "aut": 8,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 4,
+      "degree": 3
+    },
+    {
+      "id": 22,
+      "label": "J22",
+      "type": "Jacobian",
+      "coefficients": [
+        5,
+        0,
+        22,
+        0,
+        22,
+        0,
+        5
+      ],
+      "roots": [
+        6,
+        8,
+        39,
+        41,
+        611,
+        1598
+      ],
+      "aut": 8,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 24,
+      "degree": 3
+    },
+    {
+      "id": 23,
+      "label": "J23",
+      "type": "Jacobian",
+      "coefficients": [
+        46,
+        0,
+        21,
+        0,
+        24,
+        0,
+        1
+      ],
+      "roots": [
+        4,
+        43,
+        752,
+        987,
+        1222,
+        1457
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 24,
+      "label": "J24",
+      "type": "Jacobian",
+      "coefficients": [
+        4,
+        0,
+        6,
+        0,
+        10,
+        0,
+        5
+      ],
+      "roots": [
+        19,
+        28,
+        517,
+        893,
+        1316,
+        1692
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 25,
+      "label": "J25",
+      "type": "Jacobian",
+      "coefficients": [
+        43,
+        0,
+        19,
+        0,
+        33,
+        0,
+        5
+      ],
+      "roots": [
+        564,
+        658,
+        1034,
+        1175,
+        1551,
+        1645
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^02^3",
+      "frobenius_permutation": [
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "geometric_reduced_aut": 6,
+      "degree": 7
+    },
+    {
+      "id": 26,
+      "label": "J26",
+      "type": "Jacobian",
+      "coefficients": [
+        18,
+        0,
+        33,
+        0,
+        35,
+        0,
+        1
+      ],
+      "roots": [
+        10,
+        11,
+        36,
+        37,
+        940,
+        1269
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 27,
+      "label": "J27",
+      "type": "Jacobian",
+      "coefficients": [
+        29,
+        0,
+        44,
+        0,
+        7,
+        0,
+        1
+      ],
+      "roots": [
+        16,
+        18,
+        20,
+        27,
+        29,
+        31
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^62^0",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 15
+    },
+    {
+      "id": 28,
+      "label": "J28",
+      "type": "Jacobian",
+      "coefficients": [
+        4,
+        0,
+        9,
+        0,
+        2,
+        0,
+        5
+      ],
+      "roots": [
+        17,
+        30,
+        94,
+        423,
+        1786,
+        2115
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 29,
+      "label": "J29",
+      "type": "Jacobian",
+      "coefficients": [
+        18,
+        0,
+        29,
+        0,
+        43,
+        0,
+        1
+      ],
+      "roots": [
+        13,
+        21,
+        26,
+        34,
+        47,
+        2162
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 30,
+      "label": "J30",
+      "type": "Jacobian",
+      "coefficients": [
+        29,
+        0,
+        29,
+        0,
+        4,
+        0,
+        1
+      ],
+      "roots": [
+        18,
+        29,
+        423,
+        893,
+        1316,
+        1786
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 31,
+      "label": "J31",
+      "type": "Jacobian",
+      "coefficients": [
+        43,
+        0,
+        9,
+        0,
+        45,
+        0,
+        5
+      ],
+      "roots": [
+        11,
+        21,
+        26,
+        36,
+        658,
+        1551
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 32,
+      "label": "J32",
+      "type": "Jacobian",
+      "coefficients": [
+        18,
+        0,
+        44,
+        0,
+        40,
+        0,
+        1
+      ],
+      "roots": [
+        47,
+        940,
+        1034,
+        1175,
+        1269,
+        2162
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^02^3",
+      "frobenius_permutation": [
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 7
+    },
+    {
+      "id": 33,
+      "label": "J33",
+      "type": "Jacobian",
+      "coefficients": [
+        29,
+        0,
+        33,
+        0,
+        12,
+        0,
+        1
+      ],
+      "roots": [
+        16,
+        31,
+        94,
+        517,
+        1692,
+        2115
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 34,
+      "label": "J34",
+      "type": "Jacobian",
+      "coefficients": [
+        4,
+        0,
+        19,
+        0,
+        14,
+        0,
+        5
+      ],
+      "roots": [
+        17,
+        19,
+        20,
+        27,
+        28,
+        30
+      ],
+      "aut": 12,
+      "Frobenius2type": "1^62^0",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "geometric_reduced_aut": 6,
+      "degree": 15
+    },
+    {
+      "id": 35,
+      "label": "J35",
+      "type": "Jacobian",
+      "coefficients": [
+        43,
+        0,
+        6,
+        0,
+        37,
+        0,
+        5
+      ],
+      "roots": [
+        10,
+        13,
+        34,
+        37,
+        564,
+        1645
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 36,
+      "label": "J36",
+      "type": "Jacobian",
+      "coefficients": [
+        42,
+        0,
+        6,
+        0,
+        41,
+        0,
+        5
+      ],
+      "roots": [
+        1,
+        4,
+        12,
+        35,
+        43,
+        46
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^62^0",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "geometric_reduced_aut": 4,
+      "degree": 15
+    },
+    {
+      "id": 37,
+      "label": "J37",
+      "type": "Jacobian",
+      "coefficients": [
+        5,
+        0,
+        21,
+        0,
+        11,
+        0,
+        5
+      ],
+      "roots": [
+        8,
+        23,
+        24,
+        39,
+        705,
+        1504
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 38,
+      "label": "J38",
+      "type": "Jacobian",
+      "coefficients": [
+        1,
+        0,
+        21,
+        0,
+        23,
+        0,
+        1
+      ],
+      "roots": [
+        2,
+        6,
+        41,
+        45,
+        235,
+        1974
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 39,
+      "label": "J39",
+      "type": "Jacobian",
+      "coefficients": [
+        42,
+        0,
+        22,
+        0,
+        25,
+        0,
+        5
+      ],
+      "roots": [
+        1,
+        46,
+        470,
+        752,
+        1457,
+        1739
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 24,
+      "degree": 3
+    },
+    {
+      "id": 40,
+      "label": "J40",
+      "type": "Jacobian",
+      "coefficients": [
+        42,
+        0,
+        19,
+        0,
+        28,
+        0,
+        5
+      ],
+      "roots": [
+        1,
+        46,
+        799,
+        987,
+        1222,
+        1410
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 4,
+      "degree": 3
+    },
+    {
+      "id": 41,
+      "label": "J41",
+      "type": "Jacobian",
+      "coefficients": [
+        33,
+        0,
+        4,
+        0,
+        16,
+        0,
+        1
+      ],
+      "roots": [
+        22,
+        25,
+        376,
+        940,
+        1269,
+        1833
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 42,
+      "label": "J42",
+      "type": "Jacobian",
+      "coefficients": [
+        14,
+        0,
+        4,
+        0,
+        31,
+        0,
+        1
+      ],
+      "roots": [
+        3,
+        16,
+        31,
+        44,
+        188,
+        2021
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 43,
+      "label": "J43",
+      "type": "Jacobian",
+      "coefficients": [
+        23,
+        0,
+        17,
+        0,
+        44,
+        0,
+        5
+      ],
+      "roots": [
+        47,
+        188,
+        893,
+        1316,
+        2021,
+        2162
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^02^3",
+      "frobenius_permutation": [
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "geometric_reduced_aut": 6,
+      "degree": 7
+    },
+    {
+      "id": 44,
+      "label": "J44",
+      "type": "Jacobian",
+      "coefficients": [
+        33,
+        0,
+        2,
+        0,
+        21,
+        0,
+        1
+      ],
+      "roots": [
+        18,
+        29,
+        376,
+        658,
+        1551,
+        1833
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 45,
+      "label": "J45",
+      "type": "Jacobian",
+      "coefficients": [
+        24,
+        0,
+        17,
+        0,
+        3,
+        0,
+        5
+      ],
+      "roots": [
+        13,
+        18,
+        22,
+        25,
+        29,
+        34
+      ],
+      "aut": 12,
+      "Frobenius2type": "1^62^0",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "geometric_reduced_aut": 6,
+      "degree": 15
+    },
+    {
+      "id": 46,
+      "label": "J46",
+      "type": "Jacobian",
+      "coefficients": [
+        14,
+        0,
+        2,
+        0,
+        26,
+        0,
+        1
+      ],
+      "roots": [
+        3,
+        17,
+        30,
+        44,
+        47,
+        2162
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 47,
+      "label": "J47",
+      "type": "Jacobian",
+      "coefficients": [
+        46,
+        0,
+        17,
+        0,
+        20,
+        0,
+        1
+      ],
+      "roots": [
+        14,
+        33,
+        658,
+        940,
+        1269,
+        1551
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 48,
+      "label": "J48",
+      "type": "Jacobian",
+      "coefficients": [
+        1,
+        0,
+        14,
+        0,
+        14,
+        0,
+        1
+      ],
+      "roots": [
+        11,
+        17,
+        30,
+        36,
+        611,
+        1598
+      ],
+      "aut": 8,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 4,
+      "degree": 3
+    },
+    {
+      "id": 49,
+      "label": "J49",
+      "type": "Jacobian",
+      "coefficients": [
+        46,
+        0,
+        14,
+        0,
+        33,
+        0,
+        1
+      ],
+      "roots": [
+        1,
+        46,
+        94,
+        658,
+        1551,
+        2115
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 4,
+      "degree": 3
+    },
+    {
+      "id": 50,
+      "label": "J50",
+      "type": "Jacobian",
+      "coefficients": [
+        5,
+        0,
+        41,
+        0,
+        38,
+        0,
+        5
+      ],
+      "roots": [
+        3,
+        11,
+        36,
+        44,
+        517,
+        1692
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 51,
+      "label": "J51",
+      "type": "Jacobian",
+      "coefficients": [
+        1,
+        0,
+        17,
+        0,
+        27,
+        0,
+        1
+      ],
+      "roots": [
+        16,
+        17,
+        30,
+        31,
+        282,
+        1927
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 52,
+      "label": "J52",
+      "type": "Jacobian",
+      "coefficients": [
+        46,
+        0,
+        15,
+        0,
+        32,
+        0,
+        1
+      ],
+      "roots": [
+        1,
+        10,
+        14,
+        33,
+        37,
+        46
+      ],
+      "aut": 12,
+      "Frobenius2type": "1^62^0",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "geometric_reduced_aut": 12,
+      "degree": 15
+    },
+    {
+      "id": 53,
+      "label": "J53",
+      "type": "Jacobian",
+      "coefficients": [
+        46,
+        0,
+        18,
+        0,
+        29,
+        0,
+        1
+      ],
+      "roots": [
+        1,
+        46,
+        376,
+        940,
+        1269,
+        1833
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 4,
+      "degree": 3
+    },
+    {
+      "id": 54,
+      "label": "J54",
+      "type": "Jacobian",
+      "coefficients": [
+        13,
+        0,
+        5,
+        0,
+        1,
+        0,
+        1
+      ],
+      "roots": [
+        13,
+        34,
+        47,
+        1081,
+        1128,
+        2162
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 55,
+      "label": "J55",
+      "type": "Jacobian",
+      "coefficients": [
+        29,
+        0,
+        32,
+        0,
+        7,
+        0,
+        5
+      ],
+      "roots": [
+        141,
+        376,
+        893,
+        1316,
+        1833,
+        2068
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^02^3",
+      "frobenius_permutation": [
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 7
+    },
+    {
+      "id": 56,
+      "label": "J56",
+      "type": "Jacobian",
+      "coefficients": [
+        34,
+        0,
+        24,
+        0,
+        33,
+        0,
+        1
+      ],
+      "roots": [
+        9,
+        17,
+        30,
+        38,
+        94,
+        2115
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 57,
+      "label": "J57",
+      "type": "Jacobian",
+      "coefficients": [
+        13,
+        0,
+        15,
+        0,
+        6,
+        0,
+        1
+      ],
+      "roots": [
+        3,
+        44,
+        282,
+        658,
+        1551,
+        1927
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 58,
+      "label": "J58",
+      "type": "Jacobian",
+      "coefficients": [
+        18,
+        0,
+        41,
+        0,
+        12,
+        0,
+        5
+      ],
+      "roots": [
+        5,
+        7,
+        11,
+        36,
+        40,
+        42
+      ],
+      "aut": 12,
+      "Frobenius2type": "1^62^0",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "geometric_reduced_aut": 6,
+      "degree": 15
+    },
+    {
+      "id": 59,
+      "label": "J59",
+      "type": "Jacobian",
+      "coefficients": [
+        34,
+        0,
+        26,
+        0,
+        22,
+        0,
+        1
+      ],
+      "roots": [
+        14,
+        18,
+        29,
+        33,
+        846,
+        1363
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 60,
+      "label": "J60",
+      "type": "Jacobian",
+      "coefficients": [
+        17,
+        0,
+        37,
+        0,
+        26,
+        0,
+        5
+      ],
+      "roots": [
+        7,
+        40,
+        282,
+        423,
+        1786,
+        1927
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 61,
+      "label": "J61",
+      "type": "Jacobian",
+      "coefficients": [
+        30,
+        0,
+        37,
+        0,
+        21,
+        0,
+        5
+      ],
+      "roots": [
+        14,
+        21,
+        26,
+        33,
+        141,
+        2068
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 62,
+      "label": "J62",
+      "type": "Jacobian",
+      "coefficients": [
+        30,
+        0,
+        27,
+        0,
+        32,
+        0,
+        5
+      ],
+      "roots": [
+        1,
+        21,
+        26,
+        46,
+        235,
+        1974
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 63,
+      "label": "J63",
+      "type": "Jacobian",
+      "coefficients": [
+        41,
+        0,
+        6,
+        0,
+        20,
+        0,
+        1
+      ],
+      "roots": [
+        3,
+        4,
+        7,
+        40,
+        43,
+        44
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^62^0",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 15
+    },
+    {
+      "id": 64,
+      "label": "J64",
+      "type": "Jacobian",
+      "coefficients": [
+        17,
+        0,
+        27,
+        0,
+        15,
+        0,
+        5
+      ],
+      "roots": [
+        4,
+        43,
+        423,
+        611,
+        1598,
+        1786
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 65,
+      "label": "J65",
+      "type": "Jacobian",
+      "coefficients": [
+        6,
+        0,
+        6,
+        0,
+        27,
+        0,
+        1
+      ],
+      "roots": [
+        141,
+        235,
+        376,
+        1833,
+        1974,
+        2068
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^02^3",
+      "frobenius_permutation": [
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 7
+    },
+    {
+      "id": 66,
+      "label": "J66",
+      "type": "Jacobian",
+      "coefficients": [
+        5,
+        0,
+        43,
+        0,
+        43,
+        0,
+        5
+      ],
+      "roots": [
+        3,
+        16,
+        31,
+        44,
+        611,
+        1598
+      ],
+      "aut": 8,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 4,
+      "degree": 3
+    },
+    {
+      "id": 67,
+      "label": "J67",
+      "type": "Jacobian",
+      "coefficients": [
+        46,
+        0,
+        27,
+        0,
+        30,
+        0,
+        1
+      ],
+      "roots": [
+        10,
+        37,
+        94,
+        376,
+        1833,
+        2115
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 68,
+      "label": "J68",
+      "type": "Jacobian",
+      "coefficients": [
+        5,
+        0,
+        23,
+        0,
+        23,
+        0,
+        5
+      ],
+      "roots": [
+        11,
+        17,
+        30,
+        36,
+        611,
+        1598
+      ],
+      "aut": 8,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 4,
+      "degree": 3
+    },
+    {
+      "id": 69,
+      "label": "J69",
+      "type": "Jacobian",
+      "coefficients": [
+        18,
+        0,
+        36,
+        0,
+        31,
+        0,
+        5
+      ],
+      "roots": [
+        5,
+        42,
+        47,
+        282,
+        1927,
+        2162
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 70,
+      "label": "J70",
+      "type": "Jacobian",
+      "coefficients": [
+        29,
+        0,
+        28,
+        0,
+        17,
+        0,
+        5
+      ],
+      "roots": [
+        14,
+        17,
+        30,
+        33,
+        376,
+        1833
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 71,
+      "label": "J71",
+      "type": "Jacobian",
+      "coefficients": [
+        34,
+        0,
+        27,
+        0,
+        7,
+        0,
+        1
+      ],
+      "roots": [
+        94,
+        141,
+        846,
+        1363,
+        2068,
+        2115
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^02^3",
+      "frobenius_permutation": [
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "geometric_reduced_aut": 6,
+      "degree": 7
+    },
+    {
+      "id": 72,
+      "label": "J72",
+      "type": "Jacobian",
+      "coefficients": [
+        13,
+        0,
+        44,
+        0,
+        8,
+        0,
+        1
+      ],
+      "roots": [
+        3,
+        7,
+        13,
+        34,
+        40,
+        44
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^62^0",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 15
+    },
+    {
+      "id": 73,
+      "label": "J73",
+      "type": "Jacobian",
+      "coefficients": [
+        18,
+        0,
+        26,
+        0,
+        23,
+        0,
+        5
+      ],
+      "roots": [
+        11,
+        36,
+        658,
+        1081,
+        1128,
+        1551
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 74,
+      "label": "J74",
+      "type": "Jacobian",
+      "coefficients": [
+        29,
+        0,
+        25,
+        0,
+        42,
+        0,
+        5
+      ],
+      "roots": [
+        9,
+        18,
+        29,
+        38,
+        893,
+        1316
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 75,
+      "label": "J75",
+      "type": "Jacobian",
+      "coefficients": [
+        17,
+        0,
+        30,
+        0,
+        6,
+        0,
+        5
+      ],
+      "roots": [
+        3,
+        4,
+        7,
+        40,
+        43,
+        44
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^62^0",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 15
+    },
+    {
+      "id": 76,
+      "label": "J76",
+      "type": "Jacobian",
+      "coefficients": [
+        30,
+        0,
+        30,
+        0,
+        41,
+        0,
+        5
+      ],
+      "roots": [
+        141,
+        235,
+        376,
+        1833,
+        1974,
+        2068
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^02^3",
+      "frobenius_permutation": [
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 7
+    },
+    {
+      "id": 77,
+      "label": "J77",
+      "type": "Jacobian",
+      "coefficients": [
+        6,
+        0,
+        43,
+        0,
+        44,
+        0,
+        1
+      ],
+      "roots": [
+        1,
+        21,
+        26,
+        46,
+        235,
+        1974
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 78,
+      "label": "J78",
+      "type": "Jacobian",
+      "coefficients": [
+        41,
+        0,
+        45,
+        0,
+        24,
+        0,
+        1
+      ],
+      "roots": [
+        7,
+        40,
+        282,
+        423,
+        1786,
+        1927
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 79,
+      "label": "J79",
+      "type": "Jacobian",
+      "coefficients": [
+        41,
+        0,
+        43,
+        0,
+        3,
+        0,
+        1
+      ],
+      "roots": [
+        4,
+        43,
+        423,
+        611,
+        1598,
+        1786
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 80,
+      "label": "J80",
+      "type": "Jacobian",
+      "coefficients": [
+        6,
+        0,
+        45,
+        0,
+        23,
+        0,
+        1
+      ],
+      "roots": [
+        14,
+        21,
+        26,
+        33,
+        141,
+        2068
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 81,
+      "label": "J81",
+      "type": "Jacobian",
+      "coefficients": [
+        46,
+        0,
+        23,
+        0,
+        26,
+        0,
+        1
+      ],
+      "roots": [
+        12,
+        35,
+        470,
+        799,
+        1410,
+        1739
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 82,
+      "label": "J82",
+      "type": "Jacobian",
+      "coefficients": [
+        1,
+        0,
+        20,
+        0,
+        20,
+        0,
+        1
+      ],
+      "roots": [
+        235,
+        611,
+        705,
+        1504,
+        1598,
+        1974
+      ],
+      "aut": 8,
+      "Frobenius2type": "1^02^3",
+      "frobenius_permutation": [
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "geometric_reduced_aut": 4,
+      "degree": 7
+    },
+    {
+      "id": 83,
+      "label": "J83",
+      "type": "Jacobian",
+      "coefficients": [
+        24,
+        0,
+        10,
+        0,
+        11,
+        0,
+        5
+      ],
+      "roots": [
+        18,
+        29,
+        376,
+        658,
+        1551,
+        1833
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 84,
+      "label": "J84",
+      "type": "Jacobian",
+      "coefficients": [
+        23,
+        0,
+        10,
+        0,
+        36,
+        0,
+        5
+      ],
+      "roots": [
+        3,
+        17,
+        30,
+        44,
+        47,
+        2162
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 85,
+      "label": "J85",
+      "type": "Jacobian",
+      "coefficients": [
+        14,
+        0,
+        41,
+        0,
+        37,
+        0,
+        1
+      ],
+      "roots": [
+        47,
+        188,
+        893,
+        1316,
+        2021,
+        2162
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^02^3",
+      "frobenius_permutation": [
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "geometric_reduced_aut": 6,
+      "degree": 7
+    },
+    {
+      "id": 86,
+      "label": "J86",
+      "type": "Jacobian",
+      "coefficients": [
+        24,
+        0,
+        20,
+        0,
+        33,
+        0,
+        5
+      ],
+      "roots": [
+        22,
+        25,
+        376,
+        940,
+        1269,
+        1833
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 87,
+      "label": "J87",
+      "type": "Jacobian",
+      "coefficients": [
+        33,
+        0,
+        41,
+        0,
+        10,
+        0,
+        1
+      ],
+      "roots": [
+        13,
+        18,
+        22,
+        25,
+        29,
+        34
+      ],
+      "aut": 12,
+      "Frobenius2type": "1^62^0",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "geometric_reduced_aut": 6,
+      "degree": 15
+    },
+    {
+      "id": 88,
+      "label": "J88",
+      "type": "Jacobian",
+      "coefficients": [
+        23,
+        0,
+        20,
+        0,
+        14,
+        0,
+        5
+      ],
+      "roots": [
+        3,
+        16,
+        31,
+        44,
+        188,
+        2021
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 89,
+      "label": "J89",
+      "type": "Jacobian",
+      "coefficients": [
+        42,
+        0,
+        16,
+        0,
+        31,
+        0,
+        5
+      ],
+      "roots": [
+        1,
+        46,
+        141,
+        1034,
+        1175,
+        2068
+      ],
+      "aut": 4,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 4,
+      "degree": 3
+    },
+    {
+      "id": 90,
+      "label": "J90",
+      "type": "Jacobian",
+      "coefficients": [
+        46,
+        4,
+        2,
+        10,
+        5,
+        39,
+        1
+      ],
+      "roots": [
+        10,
+        31,
+        662,
+        896,
+        1319,
+        1555
+      ],
+      "aut": 2,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 1,
+      "degree": 3
+    },
+    {
+      "id": 91,
+      "label": "J91",
+      "type": "Jacobian",
+      "coefficients": [
+        11,
+        7,
+        42,
+        46,
+        23,
+        3,
+        1
+      ],
+      "roots": [
+        10,
+        22,
+        119,
+        1062,
+        1203,
+        2140
+      ],
+      "aut": 2,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 1,
+      "degree": 3
+    },
+    {
+      "id": 92,
+      "label": "J92",
+      "type": "Jacobian",
+      "coefficients": [
+        25,
+        34,
+        29,
+        40,
+        12,
+        43,
+        5
+      ],
+      "roots": [
+        1,
+        36,
+        414,
+        757,
+        1462,
+        1871
+      ],
+      "aut": 2,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 1,
+      "degree": 3
+    },
+    {
+      "id": 93,
+      "label": "J93",
+      "type": "Jacobian",
+      "coefficients": [
+        7,
+        36,
+        45,
+        43,
+        27,
+        25,
+        5
+      ],
+      "roots": [
+        1,
+        21,
+        919,
+        1018,
+        1253,
+        1342
+      ],
+      "aut": 2,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 1,
+      "degree": 3
+    },
+    {
+      "id": 94,
+      "label": "J94",
+      "type": "Jacobian",
+      "coefficients": [
+        26,
+        22,
+        30,
+        44,
+        21,
+        12,
+        1
+      ],
+      "roots": [
+        26,
+        32,
+        38,
+        46,
+        628,
+        1615
+      ],
+      "aut": 2,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 1,
+      "degree": 3
+    },
+    {
+      "id": 95,
+      "label": "J95",
+      "type": "Jacobian",
+      "coefficients": [
+        0,
+        32,
+        31,
+        11,
+        2,
+        14,
+        5
+      ],
+      "roots": [
+        0,
+        12,
+        25,
+        28,
+        563,
+        1738
+      ],
+      "aut": 2,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 1,
+      "degree": 3
+    },
+    {
+      "id": 96,
+      "label": "J96",
+      "type": "Jacobian",
+      "coefficients": [
+        23,
+        43,
+        44,
+        21,
+        37,
+        24,
+        1
+      ],
+      "roots": [
+        17,
+        26,
+        34,
+        43,
+        398,
+        1855
+      ],
+      "aut": 2,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 1,
+      "degree": 3
+    },
+    {
+      "id": 97,
+      "label": "J97",
+      "type": "Jacobian",
+      "coefficients": [
+        42,
+        9,
+        14,
+        27,
+        33,
+        9,
+        5
+      ],
+      "roots": [
+        11,
+        17,
+        619,
+        903,
+        1326,
+        1606
+      ],
+      "aut": 2,
+      "Frobenius2type": "1^22^2",
+      "frobenius_permutation": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "geometric_reduced_aut": 2,
+      "degree": 3
+    },
+    {
+      "id": 98,
+      "label": "J98",
+      "type": "Jacobian",
+      "coefficients": [
+        33,
+        7,
+        38,
+        12,
+        21,
+        26,
+        1
+      ],
+      "roots": [
+        5,
+        8,
+        14,
+        35,
+        1037,
+        1178
+      ],
+      "aut": 2,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 4,
+      "degree": 3
+    },
+    {
+      "id": 99,
+      "label": "J99",
+      "type": "Jacobian",
+      "coefficients": [
+        38,
+        33,
+        46,
+        27,
+        12,
+        37,
+        1
+      ],
+      "roots": [
+        25,
+        26,
+        38,
+        46,
+        760,
+        1465
+      ],
+      "aut": 2,
+      "Frobenius2type": "1^42^1",
+      "frobenius_permutation": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "geometric_reduced_aut": 1,
+      "degree": 3
+    }
+  ],
+  "edges": [
+    {
+      "source": 0,
+      "target": 0,
+      "multiplicity": 1
+    },
+    {
+      "source": 0,
+      "target": 43,
+      "multiplicity": 2
+    },
+    {
+      "source": 0,
+      "target": 44,
+      "multiplicity": 2
+    },
+    {
+      "source": 1,
+      "target": 52,
+      "multiplicity": 1
+    },
+    {
+      "source": 2,
+      "target": 2,
+      "multiplicity": 2
+    },
+    {
+      "source": 2,
+      "target": 63,
+      "multiplicity": 1
+    },
+    {
+      "source": 2,
+      "target": 65,
+      "multiplicity": 1
+    },
+    {
+      "source": 2,
+      "target": 90,
+      "multiplicity": 2
+    },
+    {
+      "source": 3,
+      "target": 63,
+      "multiplicity": 1
+    },
+    {
+      "source": 3,
+      "target": 65,
+      "multiplicity": 1
+    },
+    {
+      "source": 4,
+      "target": 25,
+      "multiplicity": 1
+    },
+    {
+      "source": 4,
+      "target": 27,
+      "multiplicity": 1
+    },
+    {
+      "source": 5,
+      "target": 5,
+      "multiplicity": 2
+    },
+    {
+      "source": 5,
+      "target": 25,
+      "multiplicity": 1
+    },
+    {
+      "source": 5,
+      "target": 27,
+      "multiplicity": 1
+    },
+    {
+      "source": 5,
+      "target": 91,
+      "multiplicity": 2
+    },
+    {
+      "source": 6,
+      "target": 55,
+      "multiplicity": 1
+    },
+    {
+      "source": 6,
+      "target": 58,
+      "multiplicity": 1
+    },
+    {
+      "source": 7,
+      "target": 55,
+      "multiplicity": 3
+    },
+    {
+      "source": 7,
+      "target": 58,
+      "multiplicity": 1
+    },
+    {
+      "source": 8,
+      "target": 8,
+      "multiplicity": 1
+    },
+    {
+      "source": 8,
+      "target": 83,
+      "multiplicity": 2
+    },
+    {
+      "source": 8,
+      "target": 85,
+      "multiplicity": 2
+    },
+    {
+      "source": 9,
+      "target": 75,
+      "multiplicity": 1
+    },
+    {
+      "source": 9,
+      "target": 76,
+      "multiplicity": 1
+    },
+    {
+      "source": 10,
+      "target": 10,
+      "multiplicity": 2
+    },
+    {
+      "source": 10,
+      "target": 75,
+      "multiplicity": 1
+    },
+    {
+      "source": 10,
+      "target": 76,
+      "multiplicity": 1
+    },
+    {
+      "source": 10,
+      "target": 92,
+      "multiplicity": 2
+    },
+    {
+      "source": 11,
+      "target": 32,
+      "multiplicity": 3
+    },
+    {
+      "source": 11,
+      "target": 34,
+      "multiplicity": 1
+    },
+    {
+      "source": 12,
+      "target": 32,
+      "multiplicity": 1
+    },
+    {
+      "source": 12,
+      "target": 34,
+      "multiplicity": 1
+    },
+    {
+      "source": 13,
+      "target": 13,
+      "multiplicity": 2
+    },
+    {
+      "source": 13,
+      "target": 71,
+      "multiplicity": 1
+    },
+    {
+      "source": 13,
+      "target": 72,
+      "multiplicity": 1
+    },
+    {
+      "source": 13,
+      "target": 93,
+      "multiplicity": 2
+    },
+    {
+      "source": 14,
+      "target": 71,
+      "multiplicity": 1
+    },
+    {
+      "source": 14,
+      "target": 72,
+      "multiplicity": 1
+    },
+    {
+      "source": 15,
+      "target": 43,
+      "multiplicity": 3
+    },
+    {
+      "source": 15,
+      "target": 45,
+      "multiplicity": 1
+    },
+    {
+      "source": 16,
+      "target": 43,
+      "multiplicity": 1
+    },
+    {
+      "source": 16,
+      "target": 45,
+      "multiplicity": 1
+    },
+    {
+      "source": 17,
+      "target": 85,
+      "multiplicity": 3
+    },
+    {
+      "source": 17,
+      "target": 87,
+      "multiplicity": 1
+    },
+    {
+      "source": 18,
+      "target": 85,
+      "multiplicity": 1
+    },
+    {
+      "source": 18,
+      "target": 87,
+      "multiplicity": 1
+    },
+    {
+      "source": 19,
+      "target": 19,
+      "multiplicity": 1
+    },
+    {
+      "source": 19,
+      "target": 54,
+      "multiplicity": 2
+    },
+    {
+      "source": 19,
+      "target": 55,
+      "multiplicity": 2
+    },
+    {
+      "source": 20,
+      "target": 36,
+      "multiplicity": 1
+    },
+    {
+      "source": 21,
+      "target": 21,
+      "multiplicity": 1
+    },
+    {
+      "source": 22,
+      "target": 22,
+      "multiplicity": 1
+    },
+    {
+      "source": 23,
+      "target": 54,
+      "multiplicity": 1
+    },
+    {
+      "source": 23,
+      "target": 55,
+      "multiplicity": 1
+    },
+    {
+      "source": 24,
+      "target": 24,
+      "multiplicity": 1
+    },
+    {
+      "source": 24,
+      "target": 25,
+      "multiplicity": 1
+    },
+    {
+      "source": 25,
+      "target": 4,
+      "multiplicity": 1
+    },
+    {
+      "source": 25,
+      "target": 5,
+      "multiplicity": 1
+    },
+    {
+      "source": 25,
+      "target": 24,
+      "multiplicity": 1
+    },
+    {
+      "source": 25,
+      "target": 25,
+      "multiplicity": 1
+    },
+    {
+      "source": 25,
+      "target": 85,
+      "multiplicity": 1
+    },
+    {
+      "source": 25,
+      "target": 86,
+      "multiplicity": 1
+    },
+    {
+      "source": 26,
+      "target": 62,
+      "multiplicity": 1
+    },
+    {
+      "source": 26,
+      "target": 63,
+      "multiplicity": 1
+    },
+    {
+      "source": 27,
+      "target": 4,
+      "multiplicity": 1
+    },
+    {
+      "source": 27,
+      "target": 5,
+      "multiplicity": 1
+    },
+    {
+      "source": 27,
+      "target": 27,
+      "multiplicity": 2
+    },
+    {
+      "source": 27,
+      "target": 36,
+      "multiplicity": 1
+    },
+    {
+      "source": 27,
+      "target": 37,
+      "multiplicity": 1
+    },
+    {
+      "source": 27,
+      "target": 62,
+      "multiplicity": 1
+    },
+    {
+      "source": 27,
+      "target": 63,
+      "multiplicity": 1
+    },
+    {
+      "source": 27,
+      "target": 91,
+      "multiplicity": 2
+    },
+    {
+      "source": 27,
+      "target": 94,
+      "multiplicity": 2
+    },
+    {
+      "source": 27,
+      "target": 95,
+      "multiplicity": 2
+    },
+    {
+      "source": 28,
+      "target": 85,
+      "multiplicity": 1
+    },
+    {
+      "source": 28,
+      "target": 86,
+      "multiplicity": 1
+    },
+    {
+      "source": 29,
+      "target": 36,
+      "multiplicity": 1
+    },
+    {
+      "source": 29,
+      "target": 37,
+      "multiplicity": 1
+    },
+    {
+      "source": 30,
+      "target": 81,
+      "multiplicity": 1
+    },
+    {
+      "source": 30,
+      "target": 82,
+      "multiplicity": 1
+    },
+    {
+      "source": 31,
+      "target": 87,
+      "multiplicity": 1
+    },
+    {
+      "source": 31,
+      "target": 88,
+      "multiplicity": 1
+    },
+    {
+      "source": 32,
+      "target": 11,
+      "multiplicity": 1
+    },
+    {
+      "source": 32,
+      "target": 12,
+      "multiplicity": 1
+    },
+    {
+      "source": 32,
+      "target": 64,
+      "multiplicity": 1
+    },
+    {
+      "source": 32,
+      "target": 65,
+      "multiplicity": 1
+    },
+    {
+      "source": 32,
+      "target": 81,
+      "multiplicity": 1
+    },
+    {
+      "source": 32,
+      "target": 82,
+      "multiplicity": 1
+    },
+    {
+      "source": 33,
+      "target": 64,
+      "multiplicity": 1
+    },
+    {
+      "source": 33,
+      "target": 65,
+      "multiplicity": 1
+    },
+    {
+      "source": 34,
+      "target": 11,
+      "multiplicity": 1
+    },
+    {
+      "source": 34,
+      "target": 12,
+      "multiplicity": 3
+    },
+    {
+      "source": 34,
+      "target": 58,
+      "multiplicity": 1
+    },
+    {
+      "source": 34,
+      "target": 59,
+      "multiplicity": 3
+    },
+    {
+      "source": 34,
+      "target": 87,
+      "multiplicity": 1
+    },
+    {
+      "source": 34,
+      "target": 88,
+      "multiplicity": 3
+    },
+    {
+      "source": 35,
+      "target": 58,
+      "multiplicity": 1
+    },
+    {
+      "source": 35,
+      "target": 59,
+      "multiplicity": 1
+    },
+    {
+      "source": 36,
+      "target": 20,
+      "multiplicity": 1
+    },
+    {
+      "source": 36,
+      "target": 27,
+      "multiplicity": 1
+    },
+    {
+      "source": 36,
+      "target": 29,
+      "multiplicity": 1
+    },
+    {
+      "source": 36,
+      "target": 36,
+      "multiplicity": 2
+    },
+    {
+      "source": 36,
+      "target": 72,
+      "multiplicity": 1
+    },
+    {
+      "source": 36,
+      "target": 74,
+      "multiplicity": 1
+    },
+    {
+      "source": 36,
+      "target": 95,
+      "multiplicity": 2
+    },
+    {
+      "source": 36,
+      "target": 96,
+      "multiplicity": 2
+    },
+    {
+      "source": 36,
+      "target": 97,
+      "multiplicity": 2
+    },
+    {
+      "source": 37,
+      "target": 27,
+      "multiplicity": 1
+    },
+    {
+      "source": 37,
+      "target": 29,
+      "multiplicity": 1
+    },
+    {
+      "source": 38,
+      "target": 72,
+      "multiplicity": 1
+    },
+    {
+      "source": 38,
+      "target": 74,
+      "multiplicity": 1
+    },
+    {
+      "source": 39,
+      "target": 39,
+      "multiplicity": 1
+    },
+    {
+      "source": 40,
+      "target": 53,
+      "multiplicity": 1
+    },
+    {
+      "source": 41,
+      "target": 71,
+      "multiplicity": 1
+    },
+    {
+      "source": 41,
+      "target": 73,
+      "multiplicity": 1
+    },
+    {
+      "source": 42,
+      "target": 56,
+      "multiplicity": 1
+    },
+    {
+      "source": 42,
+      "target": 58,
+      "multiplicity": 1
+    },
+    {
+      "source": 43,
+      "target": 0,
+      "multiplicity": 1
+    },
+    {
+      "source": 43,
+      "target": 15,
+      "multiplicity": 1
+    },
+    {
+      "source": 43,
+      "target": 16,
+      "multiplicity": 1
+    },
+    {
+      "source": 43,
+      "target": 47,
+      "multiplicity": 1
+    },
+    {
+      "source": 43,
+      "target": 71,
+      "multiplicity": 1
+    },
+    {
+      "source": 43,
+      "target": 73,
+      "multiplicity": 1
+    },
+    {
+      "source": 44,
+      "target": 0,
+      "multiplicity": 1
+    },
+    {
+      "source": 44,
+      "target": 47,
+      "multiplicity": 1
+    },
+    {
+      "source": 45,
+      "target": 15,
+      "multiplicity": 1
+    },
+    {
+      "source": 45,
+      "target": 16,
+      "multiplicity": 3
+    },
+    {
+      "source": 45,
+      "target": 51,
+      "multiplicity": 3
+    },
+    {
+      "source": 45,
+      "target": 52,
+      "multiplicity": 1
+    },
+    {
+      "source": 45,
+      "target": 56,
+      "multiplicity": 3
+    },
+    {
+      "source": 45,
+      "target": 58,
+      "multiplicity": 1
+    },
+    {
+      "source": 46,
+      "target": 51,
+      "multiplicity": 1
+    },
+    {
+      "source": 46,
+      "target": 52,
+      "multiplicity": 1
+    },
+    {
+      "source": 47,
+      "target": 43,
+      "multiplicity": 1
+    },
+    {
+      "source": 47,
+      "target": 44,
+      "multiplicity": 1
+    },
+    {
+      "source": 48,
+      "target": 48,
+      "multiplicity": 1
+    },
+    {
+      "source": 49,
+      "target": 89,
+      "multiplicity": 1
+    },
+    {
+      "source": 50,
+      "target": 84,
+      "multiplicity": 1
+    },
+    {
+      "source": 50,
+      "target": 87,
+      "multiplicity": 1
+    },
+    {
+      "source": 51,
+      "target": 45,
+      "multiplicity": 1
+    },
+    {
+      "source": 51,
+      "target": 46,
+      "multiplicity": 1
+    },
+    {
+      "source": 52,
+      "target": 1,
+      "multiplicity": 3
+    },
+    {
+      "source": 52,
+      "target": 45,
+      "multiplicity": 1
+    },
+    {
+      "source": 52,
+      "target": 46,
+      "multiplicity": 3
+    },
+    {
+      "source": 52,
+      "target": 84,
+      "multiplicity": 3
+    },
+    {
+      "source": 52,
+      "target": 87,
+      "multiplicity": 1
+    },
+    {
+      "source": 53,
+      "target": 40,
+      "multiplicity": 1
+    },
+    {
+      "source": 54,
+      "target": 19,
+      "multiplicity": 1
+    },
+    {
+      "source": 54,
+      "target": 23,
+      "multiplicity": 1
+    },
+    {
+      "source": 55,
+      "target": 6,
+      "multiplicity": 1
+    },
+    {
+      "source": 55,
+      "target": 7,
+      "multiplicity": 1
+    },
+    {
+      "source": 55,
+      "target": 19,
+      "multiplicity": 1
+    },
+    {
+      "source": 55,
+      "target": 23,
+      "multiplicity": 1
+    },
+    {
+      "source": 55,
+      "target": 76,
+      "multiplicity": 1
+    },
+    {
+      "source": 55,
+      "target": 79,
+      "multiplicity": 1
+    },
+    {
+      "source": 56,
+      "target": 42,
+      "multiplicity": 1
+    },
+    {
+      "source": 56,
+      "target": 45,
+      "multiplicity": 1
+    },
+    {
+      "source": 57,
+      "target": 76,
+      "multiplicity": 1
+    },
+    {
+      "source": 57,
+      "target": 79,
+      "multiplicity": 1
+    },
+    {
+      "source": 58,
+      "target": 6,
+      "multiplicity": 3
+    },
+    {
+      "source": 58,
+      "target": 7,
+      "multiplicity": 1
+    },
+    {
+      "source": 58,
+      "target": 34,
+      "multiplicity": 1
+    },
+    {
+      "source": 58,
+      "target": 35,
+      "multiplicity": 3
+    },
+    {
+      "source": 58,
+      "target": 42,
+      "multiplicity": 3
+    },
+    {
+      "source": 58,
+      "target": 45,
+      "multiplicity": 1
+    },
+    {
+      "source": 59,
+      "target": 34,
+      "multiplicity": 1
+    },
+    {
+      "source": 59,
+      "target": 35,
+      "multiplicity": 1
+    },
+    {
+      "source": 60,
+      "target": 60,
+      "multiplicity": 1
+    },
+    {
+      "source": 60,
+      "target": 65,
+      "multiplicity": 1
+    },
+    {
+      "source": 61,
+      "target": 75,
+      "multiplicity": 1
+    },
+    {
+      "source": 61,
+      "target": 80,
+      "multiplicity": 1
+    },
+    {
+      "source": 62,
+      "target": 26,
+      "multiplicity": 1
+    },
+    {
+      "source": 62,
+      "target": 27,
+      "multiplicity": 1
+    },
+    {
+      "source": 63,
+      "target": 2,
+      "multiplicity": 1
+    },
+    {
+      "source": 63,
+      "target": 3,
+      "multiplicity": 1
+    },
+    {
+      "source": 63,
+      "target": 26,
+      "multiplicity": 1
+    },
+    {
+      "source": 63,
+      "target": 27,
+      "multiplicity": 1
+    },
+    {
+      "source": 63,
+      "target": 63,
+      "multiplicity": 2
+    },
+    {
+      "source": 63,
+      "target": 75,
+      "multiplicity": 1
+    },
+    {
+      "source": 63,
+      "target": 80,
+      "multiplicity": 1
+    },
+    {
+      "source": 63,
+      "target": 90,
+      "multiplicity": 2
+    },
+    {
+      "source": 63,
+      "target": 94,
+      "multiplicity": 2
+    },
+    {
+      "source": 63,
+      "target": 98,
+      "multiplicity": 2
+    },
+    {
+      "source": 64,
+      "target": 32,
+      "multiplicity": 1
+    },
+    {
+      "source": 64,
+      "target": 33,
+      "multiplicity": 1
+    },
+    {
+      "source": 65,
+      "target": 2,
+      "multiplicity": 1
+    },
+    {
+      "source": 65,
+      "target": 3,
+      "multiplicity": 1
+    },
+    {
+      "source": 65,
+      "target": 32,
+      "multiplicity": 1
+    },
+    {
+      "source": 65,
+      "target": 33,
+      "multiplicity": 1
+    },
+    {
+      "source": 65,
+      "target": 60,
+      "multiplicity": 1
+    },
+    {
+      "source": 65,
+      "target": 65,
+      "multiplicity": 1
+    },
+    {
+      "source": 66,
+      "target": 66,
+      "multiplicity": 1
+    },
+    {
+      "source": 67,
+      "target": 83,
+      "multiplicity": 1
+    },
+    {
+      "source": 67,
+      "target": 85,
+      "multiplicity": 1
+    },
+    {
+      "source": 68,
+      "target": 68,
+      "multiplicity": 1
+    },
+    {
+      "source": 69,
+      "target": 69,
+      "multiplicity": 1
+    },
+    {
+      "source": 69,
+      "target": 71,
+      "multiplicity": 1
+    },
+    {
+      "source": 70,
+      "target": 75,
+      "multiplicity": 1
+    },
+    {
+      "source": 70,
+      "target": 77,
+      "multiplicity": 1
+    },
+    {
+      "source": 71,
+      "target": 13,
+      "multiplicity": 1
+    },
+    {
+      "source": 71,
+      "target": 14,
+      "multiplicity": 1
+    },
+    {
+      "source": 71,
+      "target": 41,
+      "multiplicity": 1
+    },
+    {
+      "source": 71,
+      "target": 43,
+      "multiplicity": 1
+    },
+    {
+      "source": 71,
+      "target": 69,
+      "multiplicity": 1
+    },
+    {
+      "source": 71,
+      "target": 71,
+      "multiplicity": 1
+    },
+    {
+      "source": 72,
+      "target": 13,
+      "multiplicity": 1
+    },
+    {
+      "source": 72,
+      "target": 14,
+      "multiplicity": 1
+    },
+    {
+      "source": 72,
+      "target": 36,
+      "multiplicity": 1
+    },
+    {
+      "source": 72,
+      "target": 38,
+      "multiplicity": 1
+    },
+    {
+      "source": 72,
+      "target": 72,
+      "multiplicity": 2
+    },
+    {
+      "source": 72,
+      "target": 75,
+      "multiplicity": 1
+    },
+    {
+      "source": 72,
+      "target": 77,
+      "multiplicity": 1
+    },
+    {
+      "source": 72,
+      "target": 93,
+      "multiplicity": 2
+    },
+    {
+      "source": 72,
+      "target": 96,
+      "multiplicity": 2
+    },
+    {
+      "source": 72,
+      "target": 99,
+      "multiplicity": 2
+    },
+    {
+      "source": 73,
+      "target": 41,
+      "multiplicity": 1
+    },
+    {
+      "source": 73,
+      "target": 43,
+      "multiplicity": 1
+    },
+    {
+      "source": 74,
+      "target": 36,
+      "multiplicity": 1
+    },
+    {
+      "source": 74,
+      "target": 38,
+      "multiplicity": 1
+    },
+    {
+      "source": 75,
+      "target": 9,
+      "multiplicity": 1
+    },
+    {
+      "source": 75,
+      "target": 10,
+      "multiplicity": 1
+    },
+    {
+      "source": 75,
+      "target": 61,
+      "multiplicity": 1
+    },
+    {
+      "source": 75,
+      "target": 63,
+      "multiplicity": 1
+    },
+    {
+      "source": 75,
+      "target": 70,
+      "multiplicity": 1
+    },
+    {
+      "source": 75,
+      "target": 72,
+      "multiplicity": 1
+    },
+    {
+      "source": 75,
+      "target": 75,
+      "multiplicity": 2
+    },
+    {
+      "source": 75,
+      "target": 92,
+      "multiplicity": 2
+    },
+    {
+      "source": 75,
+      "target": 98,
+      "multiplicity": 2
+    },
+    {
+      "source": 75,
+      "target": 99,
+      "multiplicity": 2
+    },
+    {
+      "source": 76,
+      "target": 9,
+      "multiplicity": 1
+    },
+    {
+      "source": 76,
+      "target": 10,
+      "multiplicity": 1
+    },
+    {
+      "source": 76,
+      "target": 55,
+      "multiplicity": 1
+    },
+    {
+      "source": 76,
+      "target": 57,
+      "multiplicity": 1
+    },
+    {
+      "source": 76,
+      "target": 76,
+      "multiplicity": 1
+    },
+    {
+      "source": 76,
+      "target": 78,
+      "multiplicity": 1
+    },
+    {
+      "source": 77,
+      "target": 70,
+      "multiplicity": 1
+    },
+    {
+      "source": 77,
+      "target": 72,
+      "multiplicity": 1
+    },
+    {
+      "source": 78,
+      "target": 76,
+      "multiplicity": 1
+    },
+    {
+      "source": 78,
+      "target": 78,
+      "multiplicity": 1
+    },
+    {
+      "source": 79,
+      "target": 55,
+      "multiplicity": 1
+    },
+    {
+      "source": 79,
+      "target": 57,
+      "multiplicity": 1
+    },
+    {
+      "source": 80,
+      "target": 61,
+      "multiplicity": 1
+    },
+    {
+      "source": 80,
+      "target": 63,
+      "multiplicity": 1
+    },
+    {
+      "source": 81,
+      "target": 30,
+      "multiplicity": 1
+    },
+    {
+      "source": 81,
+      "target": 32,
+      "multiplicity": 1
+    },
+    {
+      "source": 82,
+      "target": 30,
+      "multiplicity": 2
+    },
+    {
+      "source": 82,
+      "target": 32,
+      "multiplicity": 2
+    },
+    {
+      "source": 82,
+      "target": 82,
+      "multiplicity": 1
+    },
+    {
+      "source": 83,
+      "target": 8,
+      "multiplicity": 1
+    },
+    {
+      "source": 83,
+      "target": 67,
+      "multiplicity": 1
+    },
+    {
+      "source": 84,
+      "target": 50,
+      "multiplicity": 1
+    },
+    {
+      "source": 84,
+      "target": 52,
+      "multiplicity": 1
+    },
+    {
+      "source": 85,
+      "target": 8,
+      "multiplicity": 1
+    },
+    {
+      "source": 85,
+      "target": 17,
+      "multiplicity": 1
+    },
+    {
+      "source": 85,
+      "target": 18,
+      "multiplicity": 1
+    },
+    {
+      "source": 85,
+      "target": 25,
+      "multiplicity": 1
+    },
+    {
+      "source": 85,
+      "target": 28,
+      "multiplicity": 1
+    },
+    {
+      "source": 85,
+      "target": 67,
+      "multiplicity": 1
+    },
+    {
+      "source": 86,
+      "target": 25,
+      "multiplicity": 1
+    },
+    {
+      "source": 86,
+      "target": 28,
+      "multiplicity": 1
+    },
+    {
+      "source": 87,
+      "target": 17,
+      "multiplicity": 1
+    },
+    {
+      "source": 87,
+      "target": 18,
+      "multiplicity": 3
+    },
+    {
+      "source": 87,
+      "target": 31,
+      "multiplicity": 3
+    },
+    {
+      "source": 87,
+      "target": 34,
+      "multiplicity": 1
+    },
+    {
+      "source": 87,
+      "target": 50,
+      "multiplicity": 3
+    },
+    {
+      "source": 87,
+      "target": 52,
+      "multiplicity": 1
+    },
+    {
+      "source": 88,
+      "target": 31,
+      "multiplicity": 1
+    },
+    {
+      "source": 88,
+      "target": 34,
+      "multiplicity": 1
+    },
+    {
+      "source": 89,
+      "target": 49,
+      "multiplicity": 1
+    },
+    {
+      "source": 90,
+      "target": 2,
+      "multiplicity": 1
+    },
+    {
+      "source": 90,
+      "target": 63,
+      "multiplicity": 1
+    },
+    {
+      "source": 90,
+      "target": 90,
+      "multiplicity": 1
+    },
+    {
+      "source": 91,
+      "target": 5,
+      "multiplicity": 1
+    },
+    {
+      "source": 91,
+      "target": 27,
+      "multiplicity": 1
+    },
+    {
+      "source": 91,
+      "target": 91,
+      "multiplicity": 1
+    },
+    {
+      "source": 92,
+      "target": 10,
+      "multiplicity": 1
+    },
+    {
+      "source": 92,
+      "target": 75,
+      "multiplicity": 1
+    },
+    {
+      "source": 92,
+      "target": 92,
+      "multiplicity": 1
+    },
+    {
+      "source": 93,
+      "target": 13,
+      "multiplicity": 1
+    },
+    {
+      "source": 93,
+      "target": 72,
+      "multiplicity": 1
+    },
+    {
+      "source": 93,
+      "target": 93,
+      "multiplicity": 1
+    },
+    {
+      "source": 94,
+      "target": 27,
+      "multiplicity": 1
+    },
+    {
+      "source": 94,
+      "target": 63,
+      "multiplicity": 1
+    },
+    {
+      "source": 94,
+      "target": 94,
+      "multiplicity": 1
+    },
+    {
+      "source": 95,
+      "target": 27,
+      "multiplicity": 1
+    },
+    {
+      "source": 95,
+      "target": 36,
+      "multiplicity": 1
+    },
+    {
+      "source": 95,
+      "target": 95,
+      "multiplicity": 1
+    },
+    {
+      "source": 96,
+      "target": 36,
+      "multiplicity": 1
+    },
+    {
+      "source": 96,
+      "target": 72,
+      "multiplicity": 1
+    },
+    {
+      "source": 96,
+      "target": 96,
+      "multiplicity": 1
+    },
+    {
+      "source": 97,
+      "target": 36,
+      "multiplicity": 1
+    },
+    {
+      "source": 97,
+      "target": 97,
+      "multiplicity": 1
+    },
+    {
+      "source": 98,
+      "target": 63,
+      "multiplicity": 1
+    },
+    {
+      "source": 98,
+      "target": 75,
+      "multiplicity": 1
+    },
+    {
+      "source": 98,
+      "target": 98,
+      "multiplicity": 1
+    },
+    {
+      "source": 99,
+      "target": 72,
+      "multiplicity": 1
+    },
+    {
+      "source": 99,
+      "target": 75,
+      "multiplicity": 1
+    },
+    {
+      "source": 99,
+      "target": 99,
+      "multiplicity": 1
+    }
+  ],
+  "decomposed_edges": [
+    {
+      "source": 0,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          23
+        ],
+        [
+          1,
+          23
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 0,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 1,
+      "multiplicity": 1,
+      "type": "restriction",
+      "j_orbit": [
+        44
+      ],
+      "auxiliary_elliptic_model": [
+        36,
+        33
+      ],
+      "aut": 4
+    },
+    {
+      "source": 1,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          5
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 2,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 3,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 4,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          15
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 5,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          15
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 6,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          32
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 7,
+      "multiplicity": 3,
+      "type": "split",
+      "elliptic_models": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          32
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 8,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          24
+        ],
+        [
+          1,
+          24
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 8,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          5
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 9,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 10,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 11,
+      "multiplicity": 3,
+      "type": "split",
+      "elliptic_models": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          15
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 12,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          15
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 13,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          32
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 14,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          32
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 15,
+      "multiplicity": 3,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          15
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 16,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          15
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 17,
+      "multiplicity": 3,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          32
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 18,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          32
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 19,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          1,
+          17
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 19,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          15
+        ],
+        [
+          1,
+          15
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 20,
+      "multiplicity": 1,
+      "type": "restriction",
+      "j_orbit": [
+        10
+      ],
+      "auxiliary_elliptic_model": [
+        6,
+        14
+      ],
+      "aut": 4
+    },
+    {
+      "source": 20,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          15
+        ],
+        [
+          1,
+          32
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 21,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          23
+        ],
+        [
+          1,
+          23
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 21,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          1,
+          17
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 22,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          30
+        ],
+        [
+          1,
+          30
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 22,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          1,
+          17
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 23,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          1,
+          17
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 24,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          1,
+          23
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 25,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          1,
+          23
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 26,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          1,
+          23
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 27,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          1,
+          23
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 28,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          1,
+          23
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 29,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          1,
+          23
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 30,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          1,
+          24
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 31,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          1,
+          24
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 32,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          1,
+          24
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 33,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          1,
+          24
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 34,
+      "multiplicity": 3,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          1,
+          24
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 35,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          1,
+          24
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 36,
+      "multiplicity": 1,
+      "type": "restriction",
+      "j_orbit": [
+        9
+      ],
+      "auxiliary_elliptic_model": [
+        674,
+        1119
+      ],
+      "aut": 4
+    },
+    {
+      "source": 36,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          1,
+          30
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 37,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          1,
+          30
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 38,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          1,
+          30
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 39,
+      "multiplicity": 1,
+      "type": "restriction",
+      "j_orbit": [
+        10
+      ],
+      "auxiliary_elliptic_model": [
+        6,
+        14
+      ],
+      "aut": 4
+    },
+    {
+      "source": 39,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          1,
+          30
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 40,
+      "multiplicity": 1,
+      "type": "restriction",
+      "j_orbit": [
+        44
+      ],
+      "auxiliary_elliptic_model": [
+        36,
+        33
+      ],
+      "aut": 4
+    },
+    {
+      "source": 40,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          1,
+          30
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 41,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 42,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 43,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 44,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 45,
+      "multiplicity": 3,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 46,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          17
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 47,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          23
+        ],
+        [
+          1,
+          23
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 48,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 48,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          23
+        ],
+        [
+          1,
+          23
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 49,
+      "multiplicity": 1,
+      "type": "restriction",
+      "j_orbit": [
+        36
+      ],
+      "auxiliary_elliptic_model": [
+        33,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 49,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          23
+        ],
+        [
+          1,
+          24
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 50,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          23
+        ],
+        [
+          1,
+          24
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 51,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          23
+        ],
+        [
+          1,
+          24
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 52,
+      "multiplicity": 3,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          23
+        ],
+        [
+          1,
+          24
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 52,
+      "multiplicity": 1,
+      "type": "restriction",
+      "j_orbit": [
+        0
+      ],
+      "auxiliary_elliptic_model": [
+        0,
+        6
+      ],
+      "aut": 12
+    },
+    {
+      "source": 53,
+      "multiplicity": 1,
+      "type": "restriction",
+      "j_orbit": [
+        10
+      ],
+      "auxiliary_elliptic_model": [
+        6,
+        14
+      ],
+      "aut": 4
+    },
+    {
+      "source": 53,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          23
+        ],
+        [
+          1,
+          24
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 54,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          23
+        ],
+        [
+          1,
+          30
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 55,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          23
+        ],
+        [
+          1,
+          30
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 56,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          23
+        ],
+        [
+          1,
+          30
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 57,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          23
+        ],
+        [
+          1,
+          30
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 58,
+      "multiplicity": 3,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          23
+        ],
+        [
+          1,
+          30
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 59,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          23
+        ],
+        [
+          1,
+          30
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 60,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          23
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 61,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          23
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 62,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          23
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 63,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          23
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 64,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          23
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 65,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          23
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 66,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          30
+        ],
+        [
+          1,
+          30
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 66,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          24
+        ],
+        [
+          1,
+          24
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 67,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          24
+        ],
+        [
+          1,
+          24
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 68,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 68,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          24
+        ],
+        [
+          1,
+          24
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 69,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          24
+        ],
+        [
+          1,
+          30
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 70,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          24
+        ],
+        [
+          1,
+          30
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 71,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          24
+        ],
+        [
+          1,
+          30
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 72,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          24
+        ],
+        [
+          1,
+          30
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 73,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          24
+        ],
+        [
+          1,
+          30
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 74,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          24
+        ],
+        [
+          1,
+          30
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 75,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          24
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 76,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          24
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 77,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          24
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 78,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          24
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 79,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          24
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 80,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          24
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 81,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          30
+        ],
+        [
+          1,
+          30
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 82,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          32
+        ],
+        [
+          1,
+          32
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 82,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          30
+        ],
+        [
+          1,
+          30
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 83,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          30
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 84,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          30
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 85,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          30
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 86,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          30
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 87,
+      "multiplicity": 3,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          30
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 88,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          1,
+          30
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 4
+    },
+    {
+      "source": 89,
+      "multiplicity": 1,
+      "type": "restriction",
+      "j_orbit": [
+        44
+      ],
+      "auxiliary_elliptic_model": [
+        36,
+        33
+      ],
+      "aut": 4
+    },
+    {
+      "source": 89,
+      "multiplicity": 1,
+      "type": "split",
+      "elliptic_models": [
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "elliptic_traces": [
+        0,
+        0
+      ],
+      "aut": 8
+    },
+    {
+      "source": 97,
+      "multiplicity": 1,
+      "type": "restriction",
+      "j_orbit": [
+        9
+      ],
+      "auxiliary_elliptic_model": [
+        674,
+        1119
+      ],
+      "aut": 4
+    }
+  ],
+  "seed_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    23,
+    19,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    21,
+    0,
+    47,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    8,
+    66,
+    67,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    22,
+    66,
+    81,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    82,
+    68,
+    89,
+    89,
+    48
+  ],
+  "geometric_jacobian_classes": 29,
+  "rational_jacobian_classes": 100,
+  "jacobian_kernel_count": 500
+}

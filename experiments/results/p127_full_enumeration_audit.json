@@ -1,0 +1,29 @@
+{
+  "p": 127,
+  "counts": {
+    "split": 55,
+    "restriction": 8,
+    "Jacobian": 227
+  },
+  "vertices": 290,
+  "directed_kernels": 1510,
+  "adjacency_nonzero_entries": 1410,
+  "self_loop_kernels": 100,
+  "degree_histogram": {
+    "3": 210,
+    "15": 40,
+    "7": 40
+  },
+  "exhaustive_model_rows": 4536,
+  "exhaustive_Jacobian_classes": 227,
+  "every_exhaustive_model_has_explicit_Fp_isomorphism": true,
+  "every_graph_Jacobian_reached_by_exhaustive_census": true,
+  "all_automorphism_orders_rechecked_by_120_triples": true,
+  "restriction_forms_independently_enumerated": 8,
+  "bfs_components": 1,
+  "spanning_tree_edges": 289,
+  "max_distance_from_S0": 8,
+  "graph_sha256": "ffa40af226e7d003e158327bdea6d3828d396ca53b93b413c0fa28ef7d4ef42e",
+  "exhaustive_csv_sha256": "efc8e2312eab1149d0decc54ec52711007bf76a5e3828fca537b01854c346187",
+  "elapsed_seconds": 26.042
+}

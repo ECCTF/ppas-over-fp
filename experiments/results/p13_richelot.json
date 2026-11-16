@@ -1,0 +1,3974 @@
+{
+  "p": 13,
+  "vertices": [
+    {
+      "class_id": 5,
+      "c0": 0,
+      "c1": 1,
+      "c2": 0,
+      "c3": 0,
+      "c4": 0,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 170,
+      "weil_a1": 0,
+      "weil_a2": 0
+    },
+    {
+      "class_id": 184,
+      "c0": 2,
+      "c1": 0,
+      "c2": 0,
+      "c3": 1,
+      "c4": 0,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 2,
+      "aut_order": 6,
+      "orbit_size": 728,
+      "n1": 14,
+      "n2": 196,
+      "weil_a1": 0,
+      "weil_a2": 13
+    },
+    {
+      "class_id": 189,
+      "c0": 7,
+      "c1": 0,
+      "c2": 0,
+      "c3": 1,
+      "c4": 0,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 2,
+      "aut_order": 6,
+      "orbit_size": 728,
+      "n1": 14,
+      "n2": 196,
+      "weil_a1": 0,
+      "weil_a2": 13
+    },
+    {
+      "class_id": 210,
+      "c0": 4,
+      "c1": 2,
+      "c2": 0,
+      "c3": 1,
+      "c4": 0,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 196,
+      "weil_a1": 0,
+      "weil_a2": 13
+    },
+    {
+      "class_id": 431,
+      "c0": 0,
+      "c1": 4,
+      "c2": 2,
+      "c3": 1,
+      "c4": 0,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 170,
+      "weil_a1": 0,
+      "weil_a2": 0
+    },
+    {
+      "class_id": 514,
+      "c0": 10,
+      "c1": 11,
+      "c2": 2,
+      "c3": 1,
+      "c4": 0,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 170,
+      "weil_a1": 0,
+      "weil_a2": 0
+    },
+    {
+      "class_id": 661,
+      "c0": 12,
+      "c1": 11,
+      "c2": 4,
+      "c3": 1,
+      "c4": 0,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 196,
+      "weil_a1": 0,
+      "weil_a2": 13
+    },
+    {
+      "class_id": 776,
+      "c0": 1,
+      "c1": 10,
+      "c2": 7,
+      "c3": 1,
+      "c4": 0,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 170,
+      "weil_a1": 0,
+      "weil_a2": 0
+    },
+    {
+      "class_id": 806,
+      "c0": 2,
+      "c1": 0,
+      "c2": 0,
+      "c3": 2,
+      "c4": 0,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 2,
+      "aut_order": 6,
+      "orbit_size": 728,
+      "n1": 14,
+      "n2": 196,
+      "weil_a1": 0,
+      "weil_a2": 13
+    },
+    {
+      "class_id": 810,
+      "c0": 8,
+      "c1": 0,
+      "c2": 0,
+      "c3": 2,
+      "c4": 0,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 2,
+      "aut_order": 6,
+      "orbit_size": 728,
+      "n1": 14,
+      "n2": 118,
+      "weil_a1": 0,
+      "weil_a2": -26
+    },
+    {
+      "class_id": 814,
+      "c0": 3,
+      "c1": 1,
+      "c2": 0,
+      "c3": 2,
+      "c4": 0,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 196,
+      "weil_a1": 0,
+      "weil_a2": 13
+    },
+    {
+      "class_id": 839,
+      "c0": 0,
+      "c1": 7,
+      "c2": 0,
+      "c3": 2,
+      "c4": 0,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 170,
+      "weil_a1": 0,
+      "weil_a2": 0
+    },
+    {
+      "class_id": 846,
+      "c0": 8,
+      "c1": 7,
+      "c2": 0,
+      "c3": 2,
+      "c4": 0,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 170,
+      "weil_a1": 0,
+      "weil_a2": 0
+    },
+    {
+      "class_id": 899,
+      "c0": 11,
+      "c1": 4,
+      "c2": 1,
+      "c3": 2,
+      "c4": 0,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 196,
+      "weil_a1": 0,
+      "weil_a2": 13
+    },
+    {
+      "class_id": 1114,
+      "c0": 10,
+      "c1": 0,
+      "c2": 4,
+      "c3": 2,
+      "c4": 0,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 170,
+      "weil_a1": 0,
+      "weil_a2": 0
+    },
+    {
+      "class_id": 1198,
+      "c0": 9,
+      "c1": 10,
+      "c2": 4,
+      "c3": 2,
+      "c4": 0,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 2,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 222,
+      "weil_a1": 0,
+      "weil_a2": 26
+    },
+    {
+      "class_id": 1249,
+      "c0": 2,
+      "c1": 3,
+      "c2": 7,
+      "c3": 2,
+      "c4": 0,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 196,
+      "weil_a1": 0,
+      "weil_a2": 13
+    },
+    {
+      "class_id": 1264,
+      "c0": 10,
+      "c1": 4,
+      "c2": 7,
+      "c3": 2,
+      "c4": 0,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 170,
+      "weil_a1": 0,
+      "weil_a2": 0
+    },
+    {
+      "class_id": 1308,
+      "c0": 10,
+      "c1": 9,
+      "c2": 7,
+      "c3": 2,
+      "c4": 0,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 196,
+      "weil_a1": 0,
+      "weil_a2": 13
+    },
+    {
+      "class_id": 1339,
+      "c0": 6,
+      "c1": 0,
+      "c2": 0,
+      "c3": 4,
+      "c4": 0,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 2,
+      "aut_order": 6,
+      "orbit_size": 728,
+      "n1": 14,
+      "n2": 196,
+      "weil_a1": 0,
+      "weil_a2": 13
+    },
+    {
+      "class_id": 1341,
+      "c0": 8,
+      "c1": 0,
+      "c2": 0,
+      "c3": 4,
+      "c4": 0,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 2,
+      "aut_order": 24,
+      "orbit_size": 182,
+      "n1": 14,
+      "n2": 118,
+      "weil_a1": 0,
+      "weil_a2": -26
+    },
+    {
+      "class_id": 1454,
+      "c0": 5,
+      "c1": 6,
+      "c2": 1,
+      "c3": 4,
+      "c4": 0,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 170,
+      "weil_a1": 0,
+      "weil_a2": 0
+    },
+    {
+      "class_id": 1514,
+      "c0": 11,
+      "c1": 12,
+      "c2": 1,
+      "c3": 4,
+      "c4": 0,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 196,
+      "weil_a1": 0,
+      "weil_a2": 13
+    },
+    {
+      "class_id": 1866,
+      "c0": 3,
+      "c1": 6,
+      "c2": 0,
+      "c3": 0,
+      "c4": 1,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 196,
+      "weil_a1": 0,
+      "weil_a2": 13
+    },
+    {
+      "class_id": 2106,
+      "c0": 8,
+      "c1": 0,
+      "c2": 5,
+      "c3": 0,
+      "c4": 1,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 2,
+      "aut_order": 4,
+      "orbit_size": 1092,
+      "n1": 14,
+      "n2": 222,
+      "weil_a1": 0,
+      "weil_a2": 26
+    },
+    {
+      "class_id": 2170,
+      "c0": 11,
+      "c1": 1,
+      "c2": 6,
+      "c3": 0,
+      "c4": 1,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 170,
+      "weil_a1": 0,
+      "weil_a2": 0
+    },
+    {
+      "class_id": 2263,
+      "c0": 9,
+      "c1": 1,
+      "c2": 8,
+      "c3": 0,
+      "c4": 1,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 170,
+      "weil_a1": 0,
+      "weil_a2": 0
+    },
+    {
+      "class_id": 2320,
+      "c0": 11,
+      "c1": 2,
+      "c2": 9,
+      "c3": 0,
+      "c4": 1,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 196,
+      "weil_a1": 0,
+      "weil_a2": 13
+    },
+    {
+      "class_id": 2646,
+      "c0": 12,
+      "c1": 8,
+      "c2": 2,
+      "c3": 1,
+      "c4": 1,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 196,
+      "weil_a1": 0,
+      "weil_a2": 13
+    },
+    {
+      "class_id": 2833,
+      "c0": 1,
+      "c1": 3,
+      "c2": 5,
+      "c3": 1,
+      "c4": 1,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 196,
+      "weil_a1": 0,
+      "weil_a2": 13
+    },
+    {
+      "class_id": 2847,
+      "c0": 4,
+      "c1": 5,
+      "c2": 5,
+      "c3": 1,
+      "c4": 1,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 196,
+      "weil_a1": 0,
+      "weil_a2": 13
+    },
+    {
+      "class_id": 2972,
+      "c0": 12,
+      "c1": 0,
+      "c2": 7,
+      "c3": 1,
+      "c4": 1,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 170,
+      "weil_a1": 0,
+      "weil_a2": 0
+    },
+    {
+      "class_id": 3046,
+      "c0": 6,
+      "c1": 8,
+      "c2": 8,
+      "c3": 1,
+      "c4": 1,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 196,
+      "weil_a1": 0,
+      "weil_a2": 13
+    },
+    {
+      "class_id": 3079,
+      "c0": 4,
+      "c1": 4,
+      "c2": 9,
+      "c3": 1,
+      "c4": 1,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 170,
+      "weil_a1": 0,
+      "weil_a2": 0
+    },
+    {
+      "class_id": 3342,
+      "c0": 0,
+      "c1": 3,
+      "c2": 1,
+      "c3": 2,
+      "c4": 1,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 170,
+      "weil_a1": 0,
+      "weil_a2": 0
+    },
+    {
+      "class_id": 3347,
+      "c0": 1,
+      "c1": 4,
+      "c2": 1,
+      "c3": 2,
+      "c4": 1,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 170,
+      "weil_a1": 0,
+      "weil_a2": 0
+    },
+    {
+      "class_id": 3357,
+      "c0": 7,
+      "c1": 5,
+      "c2": 1,
+      "c3": 2,
+      "c4": 1,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 2,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 222,
+      "weil_a1": 0,
+      "weil_a2": 26
+    },
+    {
+      "class_id": 3437,
+      "c0": 11,
+      "c1": 8,
+      "c2": 3,
+      "c3": 2,
+      "c4": 1,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 2,
+      "aut_order": 4,
+      "orbit_size": 1092,
+      "n1": 14,
+      "n2": 170,
+      "weil_a1": 0,
+      "weil_a2": 0
+    },
+    {
+      "class_id": 3499,
+      "c0": 10,
+      "c1": 2,
+      "c2": 5,
+      "c3": 2,
+      "c4": 1,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 2,
+      "aut_order": 8,
+      "orbit_size": 546,
+      "n1": 14,
+      "n2": 222,
+      "weil_a1": 0,
+      "weil_a2": 26
+    },
+    {
+      "class_id": 3684,
+      "c0": 12,
+      "c1": 8,
+      "c2": 10,
+      "c3": 2,
+      "c4": 1,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 196,
+      "weil_a1": 0,
+      "weil_a2": 13
+    },
+    {
+      "class_id": 3974,
+      "c0": 0,
+      "c1": 11,
+      "c2": 6,
+      "c3": 3,
+      "c4": 1,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 170,
+      "weil_a1": 0,
+      "weil_a2": 0
+    },
+    {
+      "class_id": 4034,
+      "c0": 11,
+      "c1": 8,
+      "c2": 9,
+      "c3": 3,
+      "c4": 1,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 196,
+      "weil_a1": 0,
+      "weil_a2": 13
+    },
+    {
+      "class_id": 4128,
+      "c0": 7,
+      "c1": 6,
+      "c2": 1,
+      "c3": 4,
+      "c4": 1,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 2,
+      "aut_order": 4,
+      "orbit_size": 1092,
+      "n1": 14,
+      "n2": 170,
+      "weil_a1": 0,
+      "weil_a2": 0
+    },
+    {
+      "class_id": 4183,
+      "c0": 3,
+      "c1": 4,
+      "c2": 5,
+      "c3": 4,
+      "c4": 1,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 2,
+      "aut_order": 4,
+      "orbit_size": 1092,
+      "n1": 14,
+      "n2": 170,
+      "weil_a1": 0,
+      "weil_a2": 0
+    },
+    {
+      "class_id": 4194,
+      "c0": 0,
+      "c1": 12,
+      "c2": 5,
+      "c3": 4,
+      "c4": 1,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 170,
+      "weil_a1": 0,
+      "weil_a2": 0
+    },
+    {
+      "class_id": 4361,
+      "c0": 1,
+      "c1": 4,
+      "c2": 5,
+      "c3": 5,
+      "c4": 1,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 196,
+      "weil_a1": 0,
+      "weil_a2": 13
+    },
+    {
+      "class_id": 4402,
+      "c0": 7,
+      "c1": 6,
+      "c2": 10,
+      "c3": 5,
+      "c4": 1,
+      "c5": 0,
+      "c6": 1,
+      "p_rank": 0,
+      "a_number": 1,
+      "aut_order": 2,
+      "orbit_size": 2184,
+      "n1": 14,
+      "n2": 170,
+      "weil_a1": 0,
+      "weil_a2": 0
+    }
+  ],
+  "edges": [
+    [
+      5,
+      3347,
+      1
+    ],
+    [
+      184,
+      189,
+      1
+    ],
+    [
+      189,
+      184,
+      1
+    ],
+    [
+      189,
+      806,
+      2
+    ],
+    [
+      210,
+      2320,
+      1
+    ],
+    [
+      210,
+      2833,
+      1
+    ],
+    [
+      210,
+      4361,
+      1
+    ],
+    [
+      431,
+      4402,
+      1
+    ],
+    [
+      514,
+      3342,
+      1
+    ],
+    [
+      661,
+      1866,
+      1
+    ],
+    [
+      776,
+      3974,
+      1
+    ],
+    [
+      806,
+      189,
+      2
+    ],
+    [
+      806,
+      1339,
+      1
+    ],
+    [
+      810,
+      810,
+      3
+    ],
+    [
+      810,
+      1341,
+      1
+    ],
+    [
+      814,
+      2320,
+      1
+    ],
+    [
+      814,
+      2833,
+      1
+    ],
+    [
+      814,
+      2847,
+      1
+    ],
+    [
+      839,
+      2170,
+      1
+    ],
+    [
+      846,
+      1114,
+      1
+    ],
+    [
+      899,
+      1514,
+      1
+    ],
+    [
+      899,
+      1866,
+      1
+    ],
+    [
+      899,
+      4034,
+      1
+    ],
+    [
+      1114,
+      846,
+      1
+    ],
+    [
+      1198,
+      1198,
+      1
+    ],
+    [
+      1198,
+      2106,
+      1
+    ],
+    [
+      1249,
+      3046,
+      1
+    ],
+    [
+      1264,
+      1454,
+      1
+    ],
+    [
+      1308,
+      2320,
+      1
+    ],
+    [
+      1339,
+      806,
+      1
+    ],
+    [
+      1341,
+      810,
+      4
+    ],
+    [
+      1341,
+      1341,
+      5
+    ],
+    [
+      1454,
+      1264,
+      1
+    ],
+    [
+      1514,
+      899,
+      1
+    ],
+    [
+      1514,
+      3046,
+      1
+    ],
+    [
+      1514,
+      3684,
+      1
+    ],
+    [
+      1866,
+      661,
+      1
+    ],
+    [
+      1866,
+      899,
+      1
+    ],
+    [
+      1866,
+      3046,
+      1
+    ],
+    [
+      2106,
+      1198,
+      2
+    ],
+    [
+      2106,
+      2106,
+      3
+    ],
+    [
+      2170,
+      839,
+      1
+    ],
+    [
+      2263,
+      4194,
+      1
+    ],
+    [
+      2320,
+      210,
+      1
+    ],
+    [
+      2320,
+      814,
+      1
+    ],
+    [
+      2320,
+      1308,
+      1
+    ],
+    [
+      2646,
+      2833,
+      1
+    ],
+    [
+      2833,
+      210,
+      1
+    ],
+    [
+      2833,
+      814,
+      1
+    ],
+    [
+      2833,
+      2646,
+      1
+    ],
+    [
+      2847,
+      814,
+      1
+    ],
+    [
+      2972,
+      3079,
+      1
+    ],
+    [
+      3046,
+      1249,
+      1
+    ],
+    [
+      3046,
+      1514,
+      1
+    ],
+    [
+      3046,
+      1866,
+      1
+    ],
+    [
+      3079,
+      2972,
+      1
+    ],
+    [
+      3342,
+      514,
+      1
+    ],
+    [
+      3347,
+      5,
+      1
+    ],
+    [
+      3357,
+      3357,
+      3
+    ],
+    [
+      3437,
+      3437,
+      1
+    ],
+    [
+      3499,
+      3499,
+      1
+    ],
+    [
+      3684,
+      1514,
+      1
+    ],
+    [
+      3974,
+      776,
+      1
+    ],
+    [
+      4034,
+      899,
+      1
+    ],
+    [
+      4128,
+      4128,
+      1
+    ],
+    [
+      4183,
+      4183,
+      1
+    ],
+    [
+      4194,
+      2263,
+      1
+    ],
+    [
+      4361,
+      210,
+      1
+    ],
+    [
+      4402,
+      431,
+      1
+    ]
+  ],
+  "geometrically_decomposed_kernel_frontier": [
+    {
+      "source": 810,
+      "matching": 4,
+      "extension_degree": 2,
+      "pairs": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ]
+    },
+    {
+      "source": 810,
+      "matching": 11,
+      "extension_degree": 2,
+      "pairs": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ]
+    },
+    {
+      "source": 810,
+      "matching": 12,
+      "extension_degree": 2,
+      "pairs": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ]
+      ]
+    },
+    {
+      "source": 1198,
+      "matching": 0,
+      "extension_degree": 2,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ]
+    },
+    {
+      "source": 1341,
+      "matching": 0,
+      "extension_degree": 1,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ]
+    },
+    {
+      "source": 1341,
+      "matching": 4,
+      "extension_degree": 1,
+      "pairs": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ]
+    },
+    {
+      "source": 1341,
+      "matching": 5,
+      "extension_degree": 1,
+      "pairs": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ]
+    },
+    {
+      "source": 1341,
+      "matching": 6,
+      "extension_degree": 1,
+      "pairs": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          4,
+          5
+        ]
+      ]
+    },
+    {
+      "source": 1341,
+      "matching": 10,
+      "extension_degree": 1,
+      "pairs": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          5
+        ]
+      ]
+    },
+    {
+      "source": 1341,
+      "matching": 13,
+      "extension_degree": 1,
+      "pairs": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ]
+    },
+    {
+      "source": 2106,
+      "matching": 13,
+      "extension_degree": 2,
+      "pairs": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ]
+    },
+    {
+      "source": 2106,
+      "matching": 14,
+      "extension_degree": 2,
+      "pairs": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ]
+    },
+    {
+      "source": 3499,
+      "matching": 0,
+      "extension_degree": 2,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ]
+    },
+    {
+      "source": 3499,
+      "matching": 1,
+      "extension_degree": 2,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ]
+    }
+  ],
+  "degrees": {
+    "5": 1,
+    "184": 1,
+    "189": 3,
+    "210": 3,
+    "431": 1,
+    "514": 1,
+    "661": 1,
+    "776": 1,
+    "806": 3,
+    "810": 7,
+    "814": 3,
+    "839": 1,
+    "846": 1,
+    "899": 3,
+    "1114": 1,
+    "1198": 3,
+    "1249": 1,
+    "1264": 1,
+    "1308": 1,
+    "1339": 1,
+    "1341": 15,
+    "1454": 1,
+    "1514": 3,
+    "1866": 3,
+    "2106": 7,
+    "2170": 1,
+    "2263": 1,
+    "2320": 3,
+    "2646": 1,
+    "2833": 3,
+    "2847": 1,
+    "2972": 1,
+    "3046": 3,
+    "3079": 1,
+    "3342": 1,
+    "3347": 1,
+    "3357": 3,
+    "3437": 1,
+    "3499": 3,
+    "3684": 1,
+    "3974": 1,
+    "4034": 1,
+    "4128": 1,
+    "4183": 1,
+    "4194": 1,
+    "4361": 1,
+    "4402": 1
+  },
+  "quotients": [
+    {
+      "source": 5,
+      "matching": 2,
+      "extension_degree": 4,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "target": 3347,
+      "quotient_coefficients": [
+        1,
+        4,
+        0,
+        3,
+        0,
+        6,
+        12
+      ]
+    },
+    {
+      "source": 184,
+      "matching": 11,
+      "extension_degree": 6,
+      "pairs": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "target": 189,
+      "quotient_coefficients": [
+        10,
+        0,
+        0,
+        10,
+        0,
+        0,
+        5
+      ]
+    },
+    {
+      "source": 189,
+      "matching": 1,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "target": 806,
+      "quotient_coefficients": [
+        12,
+        0,
+        0,
+        11,
+        0,
+        0,
+        11
+      ]
+    },
+    {
+      "source": 189,
+      "matching": 10,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          5
+        ]
+      ],
+      "target": 806,
+      "quotient_coefficients": [
+        1,
+        0,
+        0,
+        11,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "source": 189,
+      "matching": 12,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "target": 184,
+      "quotient_coefficients": [
+        3,
+        0,
+        0,
+        3,
+        0,
+        0,
+        6
+      ]
+    },
+    {
+      "source": 210,
+      "matching": 1,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "target": 2320,
+      "quotient_coefficients": [
+        10,
+        9,
+        2,
+        9,
+        3,
+        10,
+        4
+      ]
+    },
+    {
+      "source": 210,
+      "matching": 6,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "target": 4361,
+      "quotient_coefficients": [
+        2,
+        1,
+        1,
+        12,
+        1,
+        4,
+        9
+      ]
+    },
+    {
+      "source": 210,
+      "matching": 11,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "target": 2833,
+      "quotient_coefficients": [
+        10,
+        0,
+        2,
+        6,
+        10,
+        11,
+        1
+      ]
+    },
+    {
+      "source": 431,
+      "matching": 0,
+      "extension_degree": 4,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "target": 4402,
+      "quotient_coefficients": [
+        0,
+        5,
+        7,
+        1,
+        8,
+        9,
+        9
+      ]
+    },
+    {
+      "source": 514,
+      "matching": 0,
+      "extension_degree": 4,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "target": 3342,
+      "quotient_coefficients": [
+        8,
+        7,
+        1,
+        12,
+        12,
+        7,
+        3
+      ]
+    },
+    {
+      "source": 661,
+      "matching": 7,
+      "extension_degree": 6,
+      "pairs": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          5
+        ]
+      ],
+      "target": 1866,
+      "quotient_coefficients": [
+        2,
+        12,
+        10,
+        5,
+        9,
+        3,
+        4
+      ]
+    },
+    {
+      "source": 776,
+      "matching": 2,
+      "extension_degree": 4,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "target": 3974,
+      "quotient_coefficients": [
+        6,
+        10,
+        2,
+        3,
+        11,
+        2,
+        5
+      ]
+    },
+    {
+      "source": 806,
+      "matching": 1,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "target": 189,
+      "quotient_coefficients": [
+        9,
+        0,
+        0,
+        9,
+        0,
+        0,
+        11
+      ]
+    },
+    {
+      "source": 806,
+      "matching": 10,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          5
+        ]
+      ],
+      "target": 189,
+      "quotient_coefficients": [
+        4,
+        0,
+        0,
+        9,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "source": 806,
+      "matching": 12,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "target": 1339,
+      "quotient_coefficients": [
+        12,
+        0,
+        0,
+        6,
+        0,
+        0,
+        6
+      ]
+    },
+    {
+      "source": 810,
+      "matching": 0,
+      "extension_degree": 2,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "target": 810,
+      "quotient_coefficients": [
+        7,
+        7,
+        0,
+        12,
+        0,
+        6,
+        9
+      ]
+    },
+    {
+      "source": 810,
+      "matching": 7,
+      "extension_degree": 2,
+      "pairs": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          5
+        ]
+      ],
+      "target": 810,
+      "quotient_coefficients": [
+        7,
+        8,
+        0,
+        12,
+        0,
+        2,
+        9
+      ]
+    },
+    {
+      "source": 810,
+      "matching": 13,
+      "extension_degree": 2,
+      "pairs": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "target": 810,
+      "quotient_coefficients": [
+        7,
+        11,
+        0,
+        12,
+        0,
+        5,
+        9
+      ]
+    },
+    {
+      "source": 810,
+      "matching": 14,
+      "extension_degree": 2,
+      "pairs": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "target": 1341,
+      "quotient_coefficients": [
+        1,
+        0,
+        0,
+        7,
+        0,
+        0,
+        5
+      ]
+    },
+    {
+      "source": 814,
+      "matching": 8,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "target": 2847,
+      "quotient_coefficients": [
+        9,
+        0,
+        6,
+        6,
+        5,
+        12,
+        8
+      ]
+    },
+    {
+      "source": 814,
+      "matching": 10,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          5
+        ]
+      ],
+      "target": 2833,
+      "quotient_coefficients": [
+        5,
+        3,
+        10,
+        11,
+        4,
+        9,
+        6
+      ]
+    },
+    {
+      "source": 814,
+      "matching": 14,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "target": 2320,
+      "quotient_coefficients": [
+        10,
+        1,
+        0,
+        8,
+        4,
+        4,
+        2
+      ]
+    },
+    {
+      "source": 839,
+      "matching": 0,
+      "extension_degree": 4,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "target": 2170,
+      "quotient_coefficients": [
+        4,
+        9,
+        2,
+        10,
+        4,
+        2,
+        11
+      ]
+    },
+    {
+      "source": 846,
+      "matching": 2,
+      "extension_degree": 4,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "target": 1114,
+      "quotient_coefficients": [
+        11,
+        3,
+        0,
+        11,
+        0,
+        2
+      ]
+    },
+    {
+      "source": 899,
+      "matching": 0,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "target": 1866,
+      "quotient_coefficients": [
+        3,
+        0,
+        10,
+        0,
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "source": 899,
+      "matching": 8,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "target": 4034,
+      "quotient_coefficients": [
+        9,
+        5,
+        4,
+        3,
+        4,
+        10,
+        2
+      ]
+    },
+    {
+      "source": 899,
+      "matching": 9,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "target": 1514,
+      "quotient_coefficients": [
+        8,
+        5,
+        10,
+        8,
+        8,
+        12,
+        11
+      ]
+    },
+    {
+      "source": 1114,
+      "matching": 0,
+      "extension_degree": 4,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "target": 846,
+      "quotient_coefficients": [
+        1,
+        3,
+        10,
+        4,
+        0,
+        2
+      ]
+    },
+    {
+      "source": 1198,
+      "matching": 1,
+      "extension_degree": 2,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "target": 2106,
+      "quotient_coefficients": [
+        5,
+        6,
+        10,
+        8,
+        6,
+        6,
+        10
+      ]
+    },
+    {
+      "source": 1198,
+      "matching": 2,
+      "extension_degree": 2,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "target": 1198,
+      "quotient_coefficients": [
+        9,
+        12,
+        3,
+        2,
+        11,
+        2,
+        2
+      ]
+    },
+    {
+      "source": 1249,
+      "matching": 7,
+      "extension_degree": 6,
+      "pairs": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          5
+        ]
+      ],
+      "target": 3046,
+      "quotient_coefficients": [
+        4,
+        9,
+        11,
+        5,
+        10,
+        7,
+        12
+      ]
+    },
+    {
+      "source": 1264,
+      "matching": 1,
+      "extension_degree": 4,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "target": 1454,
+      "quotient_coefficients": [
+        10,
+        6,
+        2,
+        8,
+        12,
+        9,
+        2
+      ]
+    },
+    {
+      "source": 1308,
+      "matching": 14,
+      "extension_degree": 6,
+      "pairs": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "target": 2320,
+      "quotient_coefficients": [
+        1,
+        12,
+        3,
+        0,
+        6,
+        6,
+        12
+      ]
+    },
+    {
+      "source": 1339,
+      "matching": 10,
+      "extension_degree": 6,
+      "pairs": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          5
+        ]
+      ],
+      "target": 806,
+      "quotient_coefficients": [
+        4,
+        0,
+        0,
+        1,
+        0,
+        0,
+        5
+      ]
+    },
+    {
+      "source": 1341,
+      "matching": 1,
+      "extension_degree": 1,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "target": 810,
+      "quotient_coefficients": [
+        10,
+        12,
+        4,
+        9,
+        2,
+        3,
+        11
+      ]
+    },
+    {
+      "source": 1341,
+      "matching": 2,
+      "extension_degree": 1,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "target": 1341,
+      "quotient_coefficients": [
+        3,
+        0,
+        0,
+        5,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "source": 1341,
+      "matching": 3,
+      "extension_degree": 1,
+      "pairs": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "target": 1341,
+      "quotient_coefficients": [
+        10,
+        0,
+        0,
+        5,
+        0,
+        0,
+        11
+      ]
+    },
+    {
+      "source": 1341,
+      "matching": 7,
+      "extension_degree": 1,
+      "pairs": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          5
+        ]
+      ],
+      "target": 810,
+      "quotient_coefficients": [
+        10,
+        4,
+        12,
+        9,
+        5,
+        9,
+        11
+      ]
+    },
+    {
+      "source": 1341,
+      "matching": 8,
+      "extension_degree": 1,
+      "pairs": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "target": 1341,
+      "quotient_coefficients": [
+        0,
+        9,
+        9,
+        1,
+        8,
+        10
+      ]
+    },
+    {
+      "source": 1341,
+      "matching": 9,
+      "extension_degree": 1,
+      "pairs": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "target": 1341,
+      "quotient_coefficients": [
+        0,
+        1,
+        3,
+        1,
+        11,
+        12
+      ]
+    },
+    {
+      "source": 1341,
+      "matching": 11,
+      "extension_degree": 1,
+      "pairs": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "target": 810,
+      "quotient_coefficients": [
+        9,
+        0,
+        0,
+        12,
+        0,
+        0,
+        6
+      ]
+    },
+    {
+      "source": 1341,
+      "matching": 12,
+      "extension_degree": 1,
+      "pairs": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "target": 810,
+      "quotient_coefficients": [
+        10,
+        10,
+        10,
+        9,
+        6,
+        1,
+        11
+      ]
+    },
+    {
+      "source": 1341,
+      "matching": 14,
+      "extension_degree": 1,
+      "pairs": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "target": 1341,
+      "quotient_coefficients": [
+        0,
+        3,
+        1,
+        1,
+        7,
+        4
+      ]
+    },
+    {
+      "source": 1454,
+      "matching": 0,
+      "extension_degree": 4,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "target": 1264,
+      "quotient_coefficients": [
+        0,
+        10,
+        10,
+        4,
+        4,
+        8,
+        9
+      ]
+    },
+    {
+      "source": 1514,
+      "matching": 5,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "target": 899,
+      "quotient_coefficients": [
+        2,
+        0,
+        0,
+        8,
+        5,
+        7,
+        9
+      ]
+    },
+    {
+      "source": 1514,
+      "matching": 9,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "target": 3046,
+      "quotient_coefficients": [
+        1,
+        10,
+        0,
+        3,
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "source": 1514,
+      "matching": 14,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "target": 3684,
+      "quotient_coefficients": [
+        12,
+        6,
+        4,
+        10,
+        5,
+        12,
+        2
+      ]
+    },
+    {
+      "source": 1866,
+      "matching": 1,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "target": 3046,
+      "quotient_coefficients": [
+        6,
+        4,
+        7,
+        7,
+        4,
+        4,
+        9
+      ]
+    },
+    {
+      "source": 1866,
+      "matching": 6,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "target": 899,
+      "quotient_coefficients": [
+        3,
+        0,
+        0,
+        4,
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "source": 1866,
+      "matching": 11,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "target": 661,
+      "quotient_coefficients": [
+        9,
+        3,
+        4,
+        10,
+        11,
+        9,
+        1
+      ]
+    },
+    {
+      "source": 2106,
+      "matching": 1,
+      "extension_degree": 2,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "target": 1198,
+      "quotient_coefficients": [
+        6,
+        9,
+        1,
+        4,
+        8,
+        4,
+        4
+      ]
+    },
+    {
+      "source": 2106,
+      "matching": 3,
+      "extension_degree": 2,
+      "pairs": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "target": 1198,
+      "quotient_coefficients": [
+        6,
+        4,
+        1,
+        9,
+        8,
+        9,
+        4
+      ]
+    },
+    {
+      "source": 2106,
+      "matching": 8,
+      "extension_degree": 2,
+      "pairs": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "target": 2106,
+      "quotient_coefficients": [
+        12,
+        1,
+        6,
+        12,
+        9,
+        12,
+        8
+      ]
+    },
+    {
+      "source": 2106,
+      "matching": 10,
+      "extension_degree": 2,
+      "pairs": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          5
+        ]
+      ],
+      "target": 2106,
+      "quotient_coefficients": [
+        12,
+        12,
+        6,
+        1,
+        9,
+        1,
+        8
+      ]
+    },
+    {
+      "source": 2106,
+      "matching": 12,
+      "extension_degree": 2,
+      "pairs": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "target": 2106,
+      "quotient_coefficients": [
+        10,
+        0,
+        3,
+        0,
+        11,
+        0,
+        11
+      ]
+    },
+    {
+      "source": 2170,
+      "matching": 0,
+      "extension_degree": 4,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "target": 839,
+      "quotient_coefficients": [
+        5,
+        5,
+        0,
+        6,
+        5,
+        4
+      ]
+    },
+    {
+      "source": 2263,
+      "matching": 1,
+      "extension_degree": 4,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "target": 4194,
+      "quotient_coefficients": [
+        1,
+        11,
+        8,
+        5,
+        1,
+        0,
+        3
+      ]
+    },
+    {
+      "source": 2320,
+      "matching": 1,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "target": 1308,
+      "quotient_coefficients": [
+        9,
+        10,
+        12,
+        6,
+        1,
+        2,
+        11
+      ]
+    },
+    {
+      "source": 2320,
+      "matching": 6,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "target": 210,
+      "quotient_coefficients": [
+        5,
+        11,
+        10,
+        0,
+        7,
+        12,
+        2
+      ]
+    },
+    {
+      "source": 2320,
+      "matching": 11,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "target": 814,
+      "quotient_coefficients": [
+        1,
+        4,
+        1,
+        2,
+        10,
+        0,
+        3
+      ]
+    },
+    {
+      "source": 2646,
+      "matching": 3,
+      "extension_degree": 6,
+      "pairs": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "target": 2833,
+      "quotient_coefficients": [
+        1,
+        5,
+        0,
+        5,
+        7,
+        11,
+        3
+      ]
+    },
+    {
+      "source": 2833,
+      "matching": 1,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "target": 2646,
+      "quotient_coefficients": [
+        10,
+        8,
+        8,
+        7,
+        2,
+        10,
+        2
+      ]
+    },
+    {
+      "source": 2833,
+      "matching": 10,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          5
+        ]
+      ],
+      "target": 210,
+      "quotient_coefficients": [
+        3,
+        8,
+        11,
+        2,
+        9,
+        3,
+        1
+      ]
+    },
+    {
+      "source": 2833,
+      "matching": 12,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "target": 814,
+      "quotient_coefficients": [
+        4,
+        4,
+        7,
+        8,
+        11,
+        1,
+        2
+      ]
+    },
+    {
+      "source": 2847,
+      "matching": 9,
+      "extension_degree": 6,
+      "pairs": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "target": 814,
+      "quotient_coefficients": [
+        2,
+        10,
+        7,
+        10,
+        10,
+        12,
+        2
+      ]
+    },
+    {
+      "source": 2972,
+      "matching": 2,
+      "extension_degree": 4,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "target": 3079,
+      "quotient_coefficients": [
+        7,
+        10,
+        6,
+        9,
+        4,
+        6
+      ]
+    },
+    {
+      "source": 3046,
+      "matching": 0,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "target": 1866,
+      "quotient_coefficients": [
+        1,
+        2,
+        4,
+        6,
+        4,
+        5,
+        5
+      ]
+    },
+    {
+      "source": 3046,
+      "matching": 4,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "target": 1514,
+      "quotient_coefficients": [
+        1,
+        9,
+        1,
+        11,
+        1,
+        12,
+        8
+      ]
+    },
+    {
+      "source": 3046,
+      "matching": 13,
+      "extension_degree": 3,
+      "pairs": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "target": 1249,
+      "quotient_coefficients": [
+        5,
+        11,
+        8,
+        0,
+        3,
+        8,
+        8
+      ]
+    },
+    {
+      "source": 3079,
+      "matching": 2,
+      "extension_degree": 4,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "target": 2972,
+      "quotient_coefficients": [
+        1,
+        8,
+        10,
+        4,
+        4,
+        8
+      ]
+    },
+    {
+      "source": 3342,
+      "matching": 1,
+      "extension_degree": 4,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "target": 514,
+      "quotient_coefficients": [
+        7,
+        0,
+        2,
+        8,
+        1,
+        2,
+        7
+      ]
+    },
+    {
+      "source": 3347,
+      "matching": 2,
+      "extension_degree": 4,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "target": 5,
+      "quotient_coefficients": [
+        2,
+        1,
+        0,
+        9,
+        9,
+        4,
+        4
+      ]
+    },
+    {
+      "source": 3357,
+      "matching": 0,
+      "extension_degree": 2,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "target": 3357,
+      "quotient_coefficients": [
+        3,
+        9,
+        6,
+        0,
+        8,
+        2,
+        2
+      ]
+    },
+    {
+      "source": 3357,
+      "matching": 1,
+      "extension_degree": 2,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "target": 3357,
+      "quotient_coefficients": [
+        0,
+        5,
+        7,
+        11,
+        2,
+        5,
+        2
+      ]
+    },
+    {
+      "source": 3357,
+      "matching": 2,
+      "extension_degree": 2,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "target": 3357,
+      "quotient_coefficients": [
+        8,
+        6,
+        4,
+        0,
+        6,
+        1,
+        2
+      ]
+    },
+    {
+      "source": 3437,
+      "matching": 2,
+      "extension_degree": 4,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "target": 3437,
+      "quotient_coefficients": [
+        11,
+        4,
+        3,
+        6,
+        12,
+        11,
+        5
+      ]
+    },
+    {
+      "source": 3499,
+      "matching": 2,
+      "extension_degree": 2,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "target": 3499,
+      "quotient_coefficients": [
+        6,
+        9,
+        3,
+        9,
+        11,
+        0,
+        11
+      ]
+    },
+    {
+      "source": 3684,
+      "matching": 4,
+      "extension_degree": 6,
+      "pairs": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "target": 1514,
+      "quotient_coefficients": [
+        11,
+        9,
+        6,
+        1,
+        4,
+        1,
+        11
+      ]
+    },
+    {
+      "source": 3974,
+      "matching": 2,
+      "extension_degree": 4,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "target": 776,
+      "quotient_coefficients": [
+        6,
+        0,
+        2,
+        5,
+        12,
+        1
+      ]
+    },
+    {
+      "source": 4034,
+      "matching": 14,
+      "extension_degree": 6,
+      "pairs": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "target": 899,
+      "quotient_coefficients": [
+        9,
+        1,
+        11,
+        8,
+        10,
+        10,
+        4
+      ]
+    },
+    {
+      "source": 4128,
+      "matching": 2,
+      "extension_degree": 4,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "target": 4128,
+      "quotient_coefficients": [
+        6,
+        11,
+        6,
+        6,
+        0,
+        12,
+        4
+      ]
+    },
+    {
+      "source": 4183,
+      "matching": 1,
+      "extension_degree": 4,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "target": 4183,
+      "quotient_coefficients": [
+        7,
+        5,
+        3,
+        5,
+        11,
+        0,
+        11
+      ]
+    },
+    {
+      "source": 4194,
+      "matching": 2,
+      "extension_degree": 4,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "target": 2263,
+      "quotient_coefficients": [
+        9,
+        1,
+        7,
+        9,
+        1,
+        2,
+        6
+      ]
+    },
+    {
+      "source": 4361,
+      "matching": 2,
+      "extension_degree": 6,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "target": 210,
+      "quotient_coefficients": [
+        11,
+        10,
+        10,
+        8,
+        9,
+        11,
+        11
+      ]
+    },
+    {
+      "source": 4402,
+      "matching": 0,
+      "extension_degree": 4,
+      "pairs": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "target": 431,
+      "quotient_coefficients": [
+        3,
+        6,
+        10,
+        8,
+        6,
+        3,
+        12
+      ]
+    }
+  ],
+  "rational_sign_corrected": true
+}

@@ -1,0 +1,530 @@
+{
+  "p": 71,
+  "extension_nonresidue": 7,
+  "kernels": [
+    {
+      "j_orbit": [
+        0
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "coefficients": [
+        59,
+        0,
+        25,
+        0,
+        34,
+        0,
+        1
+      ]
+    },
+    {
+      "j_orbit": [
+        17
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        59,
+        0,
+        61,
+        0,
+        29,
+        0,
+        1
+      ]
+    },
+    {
+      "j_orbit": [
+        17
+      ],
+      "root_permutation": [
+        1,
+        0,
+        2
+      ],
+      "coefficients": [
+        59,
+        0,
+        31,
+        0,
+        45,
+        0,
+        1
+      ]
+    },
+    {
+      "j_orbit": [
+        17
+      ],
+      "root_permutation": [
+        2,
+        1,
+        0
+      ],
+      "coefficients": [
+        58,
+        0,
+        18,
+        0,
+        33,
+        0,
+        7
+      ]
+    },
+    {
+      "j_orbit": [
+        24
+      ],
+      "root_permutation": [
+        1,
+        0,
+        2
+      ],
+      "coefficients": [
+        0,
+        49,
+        0,
+        3,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "j_orbit": [
+        24
+      ],
+      "root_permutation": [
+        2,
+        1,
+        0
+      ],
+      "coefficients": [
+        0,
+        59,
+        0,
+        21,
+        0,
+        7,
+        0
+      ]
+    },
+    {
+      "j_orbit": [
+        40
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        58,
+        0,
+        22,
+        0,
+        64,
+        0,
+        7
+      ]
+    },
+    {
+      "j_orbit": [
+        40
+      ],
+      "root_permutation": [
+        1,
+        0,
+        2
+      ],
+      "coefficients": [
+        58,
+        0,
+        36,
+        0,
+        66,
+        0,
+        7
+      ]
+    },
+    {
+      "j_orbit": [
+        40
+      ],
+      "root_permutation": [
+        2,
+        1,
+        0
+      ],
+      "coefficients": [
+        59,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "j_orbit": [
+        41
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "coefficients": [
+        58,
+        0,
+        8,
+        0,
+        62,
+        0,
+        7
+      ]
+    },
+    {
+      "j_orbit": [
+        41
+      ],
+      "root_permutation": [
+        1,
+        0,
+        2
+      ],
+      "coefficients": [
+        59,
+        15,
+        22,
+        27,
+        64,
+        9,
+        1
+      ]
+    },
+    {
+      "j_orbit": [
+        41
+      ],
+      "root_permutation": [
+        2,
+        1,
+        0
+      ],
+      "coefficients": [
+        59,
+        56,
+        22,
+        44,
+        64,
+        62,
+        1
+      ]
+    },
+    {
+      "j_orbit": [
+        48
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ],
+      "coefficients": [
+        58,
+        0,
+        37,
+        0,
+        56,
+        0,
+        7
+      ]
+    },
+    {
+      "j_orbit": [
+        48
+      ],
+      "root_permutation": [
+        1,
+        0,
+        2
+      ],
+      "coefficients": [
+        58,
+        0,
+        38,
+        0,
+        46,
+        0,
+        7
+      ]
+    },
+    {
+      "j_orbit": [
+        48
+      ],
+      "root_permutation": [
+        2,
+        1,
+        0
+      ],
+      "coefficients": [
+        59,
+        0,
+        39,
+        0,
+        36,
+        0,
+        1
+      ]
+    },
+    {
+      "j_orbit": [
+        66
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ],
+      "coefficients": [
+        58,
+        0,
+        46,
+        0,
+        37,
+        0,
+        7
+      ]
+    },
+    {
+      "j_orbit": [
+        66
+      ],
+      "root_permutation": [
+        1,
+        0,
+        2
+      ],
+      "coefficients": [
+        59,
+        21,
+        22,
+        52,
+        64,
+        41,
+        1
+      ]
+    },
+    {
+      "j_orbit": [
+        66
+      ],
+      "root_permutation": [
+        2,
+        1,
+        0
+      ],
+      "coefficients": [
+        59,
+        50,
+        22,
+        19,
+        64,
+        30,
+        1
+      ]
+    }
+  ],
+  "decomposed_graph_kernels": [
+    {
+      "j_orbit": [
+        0
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "j_orbit": [
+        0
+      ],
+      "root_permutation": [
+        1,
+        0,
+        2
+      ]
+    },
+    {
+      "j_orbit": [
+        0
+      ],
+      "root_permutation": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "j_orbit": [
+        17
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "j_orbit": [
+        24
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "j_orbit": [
+        24
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "j_orbit": [
+        40
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "j_orbit": [
+        41
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "j_orbit": [
+        48
+      ],
+      "root_permutation": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "j_orbit": [
+        66
+      ],
+      "root_permutation": [
+        0,
+        2,
+        1
+      ]
+    }
+  ],
+  "models": [
+    {
+      "elliptic_coefficients": [
+        0,
+        1
+      ],
+      "j_orbit": [
+        0
+      ],
+      "Jacobian_kernels": 1,
+      "decomposed_graph_kernels": 3
+    },
+    {
+      "elliptic_coefficients": [
+        2,
+        38
+      ],
+      "j_orbit": [
+        17
+      ],
+      "Jacobian_kernels": 3,
+      "decomposed_graph_kernels": 1
+    },
+    {
+      "elliptic_coefficients": [
+        1,
+        0
+      ],
+      "j_orbit": [
+        24
+      ],
+      "Jacobian_kernels": 2,
+      "decomposed_graph_kernels": 2
+    },
+    {
+      "elliptic_coefficients": [
+        68,
+        39
+      ],
+      "j_orbit": [
+        40
+      ],
+      "Jacobian_kernels": 3,
+      "decomposed_graph_kernels": 1
+    },
+    {
+      "elliptic_coefficients": [
+        39,
+        16
+      ],
+      "j_orbit": [
+        41
+      ],
+      "Jacobian_kernels": 3,
+      "decomposed_graph_kernels": 1
+    },
+    {
+      "elliptic_coefficients": [
+        23,
+        13
+      ],
+      "j_orbit": [
+        48
+      ],
+      "Jacobian_kernels": 3,
+      "decomposed_graph_kernels": 1
+    },
+    {
+      "elliptic_coefficients": [
+        62,
+        32
+      ],
+      "j_orbit": [
+        66
+      ],
+      "Jacobian_kernels": 3,
+      "decomposed_graph_kernels": 1
+    }
+  ],
+  "seconds": 0.037
+}

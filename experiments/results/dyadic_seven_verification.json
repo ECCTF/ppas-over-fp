@@ -1,0 +1,1042 @@
+{
+  "method": "Reduced primitive quadratic forms, Hensel ideal powers, independent norm equations, and finite symplectic enumeration; exact integers only.",
+  "scope": "Component counts evaluate the proved p=7 mod 8 theorem. No PPAS graph or new curve census is generated. Larger examples are class-arithmetic evaluations, not independent full-graph checks.",
+  "arithmetic_examples": [
+    {
+      "p": 7,
+      "fundamental_discriminant": -7,
+      "class_number": 1,
+      "prime_two_class_order": 1,
+      "component_count_by_theorem": 1,
+      "connected_by_theorem": true,
+      "reduced_forms": [
+        [
+          1,
+          1,
+          2
+        ]
+      ],
+      "prime_two_class_powers": [
+        {
+          "exponent": 1,
+          "ideal_norm": 2,
+          "hensel_root": 0,
+          "reduced_form": [
+            1,
+            1,
+            2
+          ]
+        }
+      ],
+      "independent_norm_search": {
+        "1": [
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            1
+          ]
+        ]
+      },
+      "norm_search_condition": "a even, b odd, (2*a+b)^2+p*b^2=4*2^n",
+      "full_PPAS_graph_enumerated_here": false
+    },
+    {
+      "p": 23,
+      "fundamental_discriminant": -23,
+      "class_number": 3,
+      "prime_two_class_order": 3,
+      "component_count_by_theorem": 1,
+      "connected_by_theorem": true,
+      "reduced_forms": [
+        [
+          1,
+          1,
+          6
+        ],
+        [
+          2,
+          -1,
+          3
+        ],
+        [
+          2,
+          1,
+          3
+        ]
+      ],
+      "prime_two_class_powers": [
+        {
+          "exponent": 1,
+          "ideal_norm": 2,
+          "hensel_root": 0,
+          "reduced_form": [
+            2,
+            1,
+            3
+          ]
+        },
+        {
+          "exponent": 2,
+          "ideal_norm": 4,
+          "hensel_root": 2,
+          "reduced_form": [
+            2,
+            -1,
+            3
+          ]
+        },
+        {
+          "exponent": 3,
+          "ideal_norm": 8,
+          "hensel_root": 2,
+          "reduced_form": [
+            1,
+            1,
+            6
+          ]
+        }
+      ],
+      "independent_norm_search": {
+        "1": [],
+        "2": [],
+        "3": [
+          [
+            -2,
+            1
+          ],
+          [
+            2,
+            -1
+          ]
+        ]
+      },
+      "norm_search_condition": "a even, b odd, (2*a+b)^2+p*b^2=4*2^n",
+      "full_PPAS_graph_enumerated_here": false
+    },
+    {
+      "p": 31,
+      "fundamental_discriminant": -31,
+      "class_number": 3,
+      "prime_two_class_order": 3,
+      "component_count_by_theorem": 1,
+      "connected_by_theorem": true,
+      "reduced_forms": [
+        [
+          1,
+          1,
+          8
+        ],
+        [
+          2,
+          -1,
+          4
+        ],
+        [
+          2,
+          1,
+          4
+        ]
+      ],
+      "prime_two_class_powers": [
+        {
+          "exponent": 1,
+          "ideal_norm": 2,
+          "hensel_root": 0,
+          "reduced_form": [
+            2,
+            1,
+            4
+          ]
+        },
+        {
+          "exponent": 2,
+          "ideal_norm": 4,
+          "hensel_root": 0,
+          "reduced_form": [
+            2,
+            -1,
+            4
+          ]
+        },
+        {
+          "exponent": 3,
+          "ideal_norm": 8,
+          "hensel_root": 0,
+          "reduced_form": [
+            1,
+            1,
+            8
+          ]
+        }
+      ],
+      "independent_norm_search": {
+        "1": [],
+        "2": [],
+        "3": [
+          [
+            0,
+            -1
+          ],
+          [
+            0,
+            1
+          ]
+        ]
+      },
+      "norm_search_condition": "a even, b odd, (2*a+b)^2+p*b^2=4*2^n",
+      "full_PPAS_graph_enumerated_here": false
+    },
+    {
+      "p": 431,
+      "fundamental_discriminant": -431,
+      "class_number": 21,
+      "prime_two_class_order": 7,
+      "component_count_by_theorem": 3,
+      "connected_by_theorem": false,
+      "reduced_forms": [
+        [
+          1,
+          1,
+          108
+        ],
+        [
+          2,
+          -1,
+          54
+        ],
+        [
+          2,
+          1,
+          54
+        ],
+        [
+          3,
+          -1,
+          36
+        ],
+        [
+          3,
+          1,
+          36
+        ],
+        [
+          4,
+          -1,
+          27
+        ],
+        [
+          4,
+          1,
+          27
+        ],
+        [
+          5,
+          -3,
+          22
+        ],
+        [
+          5,
+          3,
+          22
+        ],
+        [
+          6,
+          -5,
+          19
+        ],
+        [
+          6,
+          -1,
+          18
+        ],
+        [
+          6,
+          1,
+          18
+        ],
+        [
+          6,
+          5,
+          19
+        ],
+        [
+          8,
+          -7,
+          15
+        ],
+        [
+          8,
+          7,
+          15
+        ],
+        [
+          9,
+          -1,
+          12
+        ],
+        [
+          9,
+          1,
+          12
+        ],
+        [
+          10,
+          -7,
+          12
+        ],
+        [
+          10,
+          -3,
+          11
+        ],
+        [
+          10,
+          3,
+          11
+        ],
+        [
+          10,
+          7,
+          12
+        ]
+      ],
+      "prime_two_class_powers": [
+        {
+          "exponent": 1,
+          "ideal_norm": 2,
+          "hensel_root": 0,
+          "reduced_form": [
+            2,
+            1,
+            54
+          ]
+        },
+        {
+          "exponent": 2,
+          "ideal_norm": 4,
+          "hensel_root": 0,
+          "reduced_form": [
+            4,
+            1,
+            27
+          ]
+        },
+        {
+          "exponent": 3,
+          "ideal_norm": 8,
+          "hensel_root": 4,
+          "reduced_form": [
+            8,
+            -7,
+            15
+          ]
+        },
+        {
+          "exponent": 4,
+          "ideal_norm": 16,
+          "hensel_root": 12,
+          "reduced_form": [
+            8,
+            7,
+            15
+          ]
+        },
+        {
+          "exponent": 5,
+          "ideal_norm": 32,
+          "hensel_root": 28,
+          "reduced_form": [
+            4,
+            -1,
+            27
+          ]
+        },
+        {
+          "exponent": 6,
+          "ideal_norm": 64,
+          "hensel_root": 60,
+          "reduced_form": [
+            2,
+            -1,
+            54
+          ]
+        },
+        {
+          "exponent": 7,
+          "ideal_norm": 128,
+          "hensel_root": 124,
+          "reduced_form": [
+            1,
+            1,
+            108
+          ]
+        }
+      ],
+      "independent_norm_search": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [
+          [
+            -4,
+            -1
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      },
+      "norm_search_condition": "a even, b odd, (2*a+b)^2+p*b^2=4*2^n",
+      "full_PPAS_graph_enumerated_here": false
+    },
+    {
+      "p": 503,
+      "fundamental_discriminant": -503,
+      "class_number": 21,
+      "prime_two_class_order": 7,
+      "component_count_by_theorem": 3,
+      "connected_by_theorem": false,
+      "reduced_forms": [
+        [
+          1,
+          1,
+          126
+        ],
+        [
+          2,
+          -1,
+          63
+        ],
+        [
+          2,
+          1,
+          63
+        ],
+        [
+          3,
+          -1,
+          42
+        ],
+        [
+          3,
+          1,
+          42
+        ],
+        [
+          4,
+          -3,
+          32
+        ],
+        [
+          4,
+          3,
+          32
+        ],
+        [
+          6,
+          -5,
+          22
+        ],
+        [
+          6,
+          -1,
+          21
+        ],
+        [
+          6,
+          1,
+          21
+        ],
+        [
+          6,
+          5,
+          22
+        ],
+        [
+          7,
+          -1,
+          18
+        ],
+        [
+          7,
+          1,
+          18
+        ],
+        [
+          8,
+          -3,
+          16
+        ],
+        [
+          8,
+          3,
+          16
+        ],
+        [
+          9,
+          -1,
+          14
+        ],
+        [
+          9,
+          1,
+          14
+        ],
+        [
+          11,
+          -5,
+          12
+        ],
+        [
+          11,
+          5,
+          12
+        ],
+        [
+          12,
+          -11,
+          13
+        ],
+        [
+          12,
+          11,
+          13
+        ]
+      ],
+      "prime_two_class_powers": [
+        {
+          "exponent": 1,
+          "ideal_norm": 2,
+          "hensel_root": 0,
+          "reduced_form": [
+            2,
+            1,
+            63
+          ]
+        },
+        {
+          "exponent": 2,
+          "ideal_norm": 4,
+          "hensel_root": 2,
+          "reduced_form": [
+            4,
+            -3,
+            32
+          ]
+        },
+        {
+          "exponent": 3,
+          "ideal_norm": 8,
+          "hensel_root": 2,
+          "reduced_form": [
+            8,
+            -3,
+            16
+          ]
+        },
+        {
+          "exponent": 4,
+          "ideal_norm": 16,
+          "hensel_root": 2,
+          "reduced_form": [
+            8,
+            3,
+            16
+          ]
+        },
+        {
+          "exponent": 5,
+          "ideal_norm": 32,
+          "hensel_root": 2,
+          "reduced_form": [
+            4,
+            3,
+            32
+          ]
+        },
+        {
+          "exponent": 6,
+          "ideal_norm": 64,
+          "hensel_root": 2,
+          "reduced_form": [
+            2,
+            -1,
+            63
+          ]
+        },
+        {
+          "exponent": 7,
+          "ideal_norm": 128,
+          "hensel_root": 2,
+          "reduced_form": [
+            1,
+            1,
+            126
+          ]
+        }
+      ],
+      "independent_norm_search": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [
+          [
+            -2,
+            1
+          ],
+          [
+            2,
+            -1
+          ]
+        ]
+      },
+      "norm_search_condition": "a even, b odd, (2*a+b)^2+p*b^2=4*2^n",
+      "full_PPAS_graph_enumerated_here": false
+    },
+    {
+      "p": 1319,
+      "fundamental_discriminant": -1319,
+      "class_number": 45,
+      "prime_two_class_order": 9,
+      "component_count_by_theorem": 5,
+      "connected_by_theorem": false,
+      "reduced_forms": [
+        [
+          1,
+          1,
+          330
+        ],
+        [
+          2,
+          -1,
+          165
+        ],
+        [
+          2,
+          1,
+          165
+        ],
+        [
+          3,
+          -1,
+          110
+        ],
+        [
+          3,
+          1,
+          110
+        ],
+        [
+          4,
+          -3,
+          83
+        ],
+        [
+          4,
+          3,
+          83
+        ],
+        [
+          5,
+          -1,
+          66
+        ],
+        [
+          5,
+          1,
+          66
+        ],
+        [
+          6,
+          -5,
+          56
+        ],
+        [
+          6,
+          -1,
+          55
+        ],
+        [
+          6,
+          1,
+          55
+        ],
+        [
+          6,
+          5,
+          56
+        ],
+        [
+          7,
+          -5,
+          48
+        ],
+        [
+          7,
+          5,
+          48
+        ],
+        [
+          8,
+          -5,
+          42
+        ],
+        [
+          8,
+          5,
+          42
+        ],
+        [
+          9,
+          -7,
+          38
+        ],
+        [
+          9,
+          7,
+          38
+        ],
+        [
+          10,
+          -9,
+          35
+        ],
+        [
+          10,
+          -1,
+          33
+        ],
+        [
+          10,
+          1,
+          33
+        ],
+        [
+          10,
+          9,
+          35
+        ],
+        [
+          11,
+          -1,
+          30
+        ],
+        [
+          11,
+          1,
+          30
+        ],
+        [
+          12,
+          -11,
+          30
+        ],
+        [
+          12,
+          -5,
+          28
+        ],
+        [
+          12,
+          5,
+          28
+        ],
+        [
+          12,
+          11,
+          30
+        ],
+        [
+          14,
+          -9,
+          25
+        ],
+        [
+          14,
+          -5,
+          24
+        ],
+        [
+          14,
+          5,
+          24
+        ],
+        [
+          14,
+          9,
+          25
+        ],
+        [
+          15,
+          -11,
+          24
+        ],
+        [
+          15,
+          -1,
+          22
+        ],
+        [
+          15,
+          1,
+          22
+        ],
+        [
+          15,
+          11,
+          24
+        ],
+        [
+          16,
+          -5,
+          21
+        ],
+        [
+          16,
+          5,
+          21
+        ],
+        [
+          18,
+          -11,
+          20
+        ],
+        [
+          18,
+          -7,
+          19
+        ],
+        [
+          18,
+          7,
+          19
+        ],
+        [
+          18,
+          11,
+          20
+        ],
+        [
+          20,
+          -19,
+          21
+        ],
+        [
+          20,
+          19,
+          21
+        ]
+      ],
+      "prime_two_class_powers": [
+        {
+          "exponent": 1,
+          "ideal_norm": 2,
+          "hensel_root": 0,
+          "reduced_form": [
+            2,
+            1,
+            165
+          ]
+        },
+        {
+          "exponent": 2,
+          "ideal_norm": 4,
+          "hensel_root": 2,
+          "reduced_form": [
+            4,
+            -3,
+            83
+          ]
+        },
+        {
+          "exponent": 3,
+          "ideal_norm": 8,
+          "hensel_root": 6,
+          "reduced_form": [
+            8,
+            5,
+            42
+          ]
+        },
+        {
+          "exponent": 4,
+          "ideal_norm": 16,
+          "hensel_root": 14,
+          "reduced_form": [
+            16,
+            5,
+            21
+          ]
+        },
+        {
+          "exponent": 5,
+          "ideal_norm": 32,
+          "hensel_root": 14,
+          "reduced_form": [
+            16,
+            -5,
+            21
+          ]
+        },
+        {
+          "exponent": 6,
+          "ideal_norm": 64,
+          "hensel_root": 14,
+          "reduced_form": [
+            8,
+            -5,
+            42
+          ]
+        },
+        {
+          "exponent": 7,
+          "ideal_norm": 128,
+          "hensel_root": 14,
+          "reduced_form": [
+            4,
+            3,
+            83
+          ]
+        },
+        {
+          "exponent": 8,
+          "ideal_norm": 256,
+          "hensel_root": 14,
+          "reduced_form": [
+            2,
+            -1,
+            165
+          ]
+        },
+        {
+          "exponent": 9,
+          "ideal_norm": 512,
+          "hensel_root": 14,
+          "reduced_form": [
+            1,
+            1,
+            330
+          ]
+        }
+      ],
+      "independent_norm_search": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [
+          [
+            -14,
+            1
+          ],
+          [
+            14,
+            -1
+          ]
+        ]
+      },
+      "norm_search_condition": "a even, b odd, (2*a+b)^2+p*b^2=4*2^n",
+      "full_PPAS_graph_enumerated_here": false
+    }
+  ],
+  "p431_certificate": {
+    "w_equation": "w^2-w+108=0",
+    "q": "(2,w)",
+    "alpha": "w+4",
+    "norm_alpha": 128,
+    "residues_at_q_and_qbar": [
+      0,
+      1
+    ],
+    "principal_ideal": "(alpha)=q^7",
+    "q_class_order": 7,
+    "class_number": 21,
+    "component_count_by_theorem": 3
+  },
+  "complete_graph_comparisons": [
+    {
+      "p": 7,
+      "vertices": 6,
+      "component_sizes": [
+        6
+      ],
+      "theorem_index": 1,
+      "input": "p7_maximal_graph.json",
+      "input_sha256": "3a45b52c15353ee958b7ee2b5716c63d28aa321b1fef3f75340439125d00af72",
+      "scope": "Independent reachability on the previously computed complete adjacency matrix."
+    },
+    {
+      "p": 31,
+      "vertices": 60,
+      "component_sizes": [
+        60
+      ],
+      "theorem_index": 1,
+      "input": "p31_maximal_graph.json",
+      "input_sha256": "18bf42d4a62982e778e46d6c46660228040438373091f4213074cf2027fbd891",
+      "scope": "Independent reachability on the previously computed complete adjacency matrix."
+    }
+  ],
+  "factorization_local_check": {
+    "symplectic_group_order": 720,
+    "elements_with_square_identity": 76,
+    "coisotropic_spaces_by_dimension": {
+      "2": 15,
+      "3": 15,
+      "4": 1
+    },
+    "contained_lagrangians_by_dimension": {
+      "2": 1,
+      "3": 3,
+      "4": 15
+    },
+    "invariant_pairs_by_dimension_and_fixed_lagrangians": [
+      {
+        "dimension": 2,
+        "fixed_lagrangians": 1,
+        "number_of_pairs": 300
+      },
+      {
+        "dimension": 3,
+        "fixed_lagrangians": 1,
+        "number_of_pairs": 180
+      },
+      {
+        "dimension": 3,
+        "fixed_lagrangians": 3,
+        "number_of_pairs": 120
+      },
+      {
+        "dimension": 4,
+        "fixed_lagrangians": 3,
+        "number_of_pairs": 60
+      },
+      {
+        "dimension": 4,
+        "fixed_lagrangians": 7,
+        "number_of_pairs": 15
+      },
+      {
+        "dimension": 4,
+        "fixed_lagrangians": 15,
+        "number_of_pairs": 1
+      }
+    ],
+    "all_preserved_coisotropic_spaces_have_fixed_lagrangians": true,
+    "scope": "Checks the finite mod-two assertion, not the global Hermitian approximation theorem."
+  }
+}

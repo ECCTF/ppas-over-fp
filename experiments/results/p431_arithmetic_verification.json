@@ -1,0 +1,396 @@
+{
+  "p": 431,
+  "graph_file": "p431_rational_graph.json",
+  "graph_sha256": "586a159f8b4e2ec3b0d3664c0e8a1292693cba06509aa22a5ba5f0f667ae74d0",
+  "independent_arithmetic": {
+    "scope": "Computed without reading any census or prior arithmetic report.",
+    "field_class_numbers": {
+      "-431": 21,
+      "-3448": 8,
+      "-5172": 24
+    },
+    "reduced_forms": {
+      "-431": [
+        [
+          1,
+          1,
+          108
+        ],
+        [
+          2,
+          -1,
+          54
+        ],
+        [
+          2,
+          1,
+          54
+        ],
+        [
+          3,
+          -1,
+          36
+        ],
+        [
+          3,
+          1,
+          36
+        ],
+        [
+          4,
+          -1,
+          27
+        ],
+        [
+          4,
+          1,
+          27
+        ],
+        [
+          5,
+          -3,
+          22
+        ],
+        [
+          5,
+          3,
+          22
+        ],
+        [
+          6,
+          -5,
+          19
+        ],
+        [
+          6,
+          -1,
+          18
+        ],
+        [
+          6,
+          1,
+          18
+        ],
+        [
+          6,
+          5,
+          19
+        ],
+        [
+          8,
+          -7,
+          15
+        ],
+        [
+          8,
+          7,
+          15
+        ],
+        [
+          9,
+          -1,
+          12
+        ],
+        [
+          9,
+          1,
+          12
+        ],
+        [
+          10,
+          -7,
+          12
+        ],
+        [
+          10,
+          -3,
+          11
+        ],
+        [
+          10,
+          3,
+          11
+        ],
+        [
+          10,
+          7,
+          12
+        ]
+      ],
+      "-3448": [
+        [
+          1,
+          0,
+          862
+        ],
+        [
+          2,
+          0,
+          431
+        ],
+        [
+          13,
+          -6,
+          67
+        ],
+        [
+          13,
+          6,
+          67
+        ],
+        [
+          23,
+          -18,
+          41
+        ],
+        [
+          23,
+          18,
+          41
+        ],
+        [
+          26,
+          -20,
+          37
+        ],
+        [
+          26,
+          20,
+          37
+        ]
+      ],
+      "-5172": [
+        [
+          1,
+          0,
+          1293
+        ],
+        [
+          2,
+          2,
+          647
+        ],
+        [
+          3,
+          0,
+          431
+        ],
+        [
+          6,
+          6,
+          217
+        ],
+        [
+          7,
+          -6,
+          186
+        ],
+        [
+          7,
+          6,
+          186
+        ],
+        [
+          11,
+          -8,
+          119
+        ],
+        [
+          11,
+          8,
+          119
+        ],
+        [
+          14,
+          -6,
+          93
+        ],
+        [
+          14,
+          6,
+          93
+        ],
+        [
+          17,
+          -8,
+          77
+        ],
+        [
+          17,
+          8,
+          77
+        ],
+        [
+          21,
+          -6,
+          62
+        ],
+        [
+          21,
+          6,
+          62
+        ],
+        [
+          22,
+          -14,
+          61
+        ],
+        [
+          22,
+          14,
+          61
+        ],
+        [
+          23,
+          -16,
+          59
+        ],
+        [
+          23,
+          16,
+          59
+        ],
+        [
+          31,
+          -6,
+          42
+        ],
+        [
+          31,
+          6,
+          42
+        ],
+        [
+          33,
+          -30,
+          46
+        ],
+        [
+          33,
+          30,
+          46
+        ],
+        [
+          34,
+          -26,
+          43
+        ],
+        [
+          34,
+          26,
+          43
+        ]
+      ]
+    },
+    "real_discriminant": 1724,
+    "quadratic_character_square_sum": 11750784,
+    "generalized_B2": "6816",
+    "legendre_2_p": 1,
+    "legendre_p_3": -1,
+    "s": 21,
+    "t": 37,
+    "split_count": 903,
+    "restriction_count": 29,
+    "geometric_fixed_PPAS_tau": 1586,
+    "geometric_fixed_decomposed": 239,
+    "geometric_fixed_Jacobians": 1347,
+    "minimal_block_actual_PPAS_Nplus": 167,
+    "minimal_block_actual_Jacobians": 138,
+    "maximal_Jacobians_before_exceptional_correction": 2556,
+    "jacobian_asymptotic_main_term": "3017",
+    "maximal_order_genus_mass": "1505/8",
+    "conductor_two_local_mass_indices": {
+      "1^6": 1,
+      "2 1^4": 3,
+      "2^2 1^2": 3,
+      "2^3": 1
+    },
+    "expected_total_mass": "1505",
+    "order_R_class_number": 21,
+    "prime_above_two_order": 7,
+    "primitive_norm_power_of_two_witnesses": {
+      "1": [],
+      "2": [],
+      "3": [],
+      "4": [],
+      "5": [],
+      "6": [],
+      "7": [
+        [
+          9,
+          1
+        ]
+      ]
+    },
+    "expected_Steinitz_components": 3,
+    "required_total_count_divisor": 21,
+    "required_Jacobian_count_residue_mod_h": 13
+  },
+  "census_comparisons": {
+    "scope": "Types recomputed from equations. Automorphism orders and edges read from census.",
+    "counts": {
+      "split": 903,
+      "restriction": 29,
+      "Jacobian": 3436
+    },
+    "total_vertices": 4368,
+    "Frobenius_type_counts": {
+      "1^6": 609,
+      "2 1^4": 1575,
+      "2^2 1^2": 1575,
+      "2^3": 609
+    },
+    "Frobenius_type_masses": {
+      "1^6": "1505/8",
+      "2 1^4": "4515/8",
+      "2^2 1^2": "4515/8",
+      "2^3": "1505/8"
+    },
+    "type_masses": {
+      "split": "441/2",
+      "restriction": "215/24",
+      "Jacobian": "30613/24"
+    },
+    "Jacobian_automorphism_order_counts": {
+      "2": 1714,
+      "4": 1640,
+      "8": 41,
+      "12": 41
+    },
+    "total_mass": "1505",
+    "total_divided_by_h": 208,
+    "components_recomputed_from_edges": [
+      {
+        "vertices": 1456,
+        "counts": {
+          "split": 301,
+          "Jacobian": 1155
+        },
+        "directed_kernels": 7616,
+        "mass": "1505/3"
+      },
+      {
+        "vertices": 1456,
+        "counts": {
+          "split": 301,
+          "Jacobian": 1126,
+          "restriction": 29
+        },
+        "directed_kernels": 7616,
+        "mass": "1505/3"
+      },
+      {
+        "vertices": 1456,
+        "counts": {
+          "split": 301,
+          "Jacobian": 1155
+        },
+        "directed_kernels": 7616,
+        "mass": "1505/3"
+      }
+    ],
+    "directed_kernels": 22848,
+    "Jacobian_exceptional_correction": 880,
+    "checks_passed": true
+  }
+}

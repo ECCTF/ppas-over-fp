@@ -1,0 +1,54 @@
+{
+  "p": 47,
+  "field_modulus": [
+    5,
+    45,
+    1
+  ],
+  "geometric_j": 5,
+  "rational_j": 5,
+  "elliptic_curves": [
+    {
+      "a4": [],
+      "a6": [
+        1
+      ],
+      "trace": -94
+    },
+    {
+      "a4": [
+        24
+      ],
+      "a6": [
+        38
+      ],
+      "trace": -94
+    },
+    {
+      "a4": [
+        28
+      ],
+      "a6": [
+        16
+      ],
+      "trace": -94
+    },
+    {
+      "a4": [
+        1
+      ],
+      "a6": [],
+      "trace": -94
+    },
+    {
+      "a4": [
+        25
+      ],
+      "a6": [
+        8
+      ],
+      "trace": -94
+    }
+  ],
+  "scope": "unique maximal form for every geometric supersingular j"
+}

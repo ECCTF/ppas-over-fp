@@ -1,0 +1,30 @@
+{
+  "2": {
+    "vertices": 903,
+    "directed_kernel_edges": 3633,
+    "support_components": 6,
+    "component_size_histogram": {
+      "105": 3,
+      "196": 3
+    },
+    "loop_kernels": 42,
+    "degree_histogram": {
+      "1": 231,
+      "3": 441,
+      "9": 231
+    }
+  },
+  "3": {
+    "vertices": 903,
+    "directed_kernel_edges": 3612,
+    "support_components": 3,
+    "component_size_histogram": {
+      "231": 2,
+      "441": 1
+    },
+    "loop_kernels": 42,
+    "degree_histogram": {
+      "4": 903
+    }
+  }
+}
