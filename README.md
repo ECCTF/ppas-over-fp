@@ -68,6 +68,19 @@ On Windows, run the SageMath/C++ workflow inside WSL or another supported Linux 
 
 The workflow constructs the graph, independently enumerates branch models, checks their coverage and rational isomorphisms, verifies the Laplacian ranks, and exports catalogues and drawings. [Reproducibility](docs/REPRODUCIBILITY.md) explains the individual stages, data conventions, and the distinct status of the $p=431$ construction.
 
+## Publication figures
+
+The manuscript figures can be regenerated from the stored graph data:
+
+```sh
+python experiments/plot_ten_bit.py --support-only
+python experiments/plot_ten_bit_jacobian_samples.py
+python experiments/plot_maximal.py --only maximal_p7_full maximal_p31_full_support
+python experiments/plot_complete_p13.py
+```
+
+Outputs are written to `figures/`. Use the vector PDFs for publication. These five figures embed their fonts and use lettering designed to remain at least approximately 8 pt when printed at 119 mm width, following the [DCC figure guidance](https://link.springer.com/journal/10623/submission-guidelines). The restriction graph distinguishes rational and nonrational conjugate orbits by circles and squares; the other graphs retain explicit `S`, `R`, and `J` vertex labels. Figure captions belong in the manuscript. Changes to lettering, colors, and marker spacing do not change the stored vertices, kernels, or adjacency matrices.
+
 ## Interpreting the evidence
 
 Finite-field, integer, and rational arithmetic are exact in the mathematical checks. Floating-point arithmetic is used for drawing layouts only. An adjacency-matrix check confirms properties of that matrix; it does not by itself establish that every required vertex or quotient was constructed. Finite numerical examples support the general results but do not prove statements for all primes.

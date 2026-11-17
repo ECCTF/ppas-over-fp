@@ -18,7 +18,7 @@ import networkx as nx
 
 
 BASE = Path(__file__).resolve().parent
-COLORS = {"split": "#246b96", "restriction": "#c57a20", "Jacobian": "#518a68"}
+COLORS = {"split": "#246b96", "restriction": "#965511", "Jacobian": "#2e6949"}
 EDGE = "#566773"
 
 
@@ -120,20 +120,18 @@ def main():
         ax.add_patch(Circle((x, y), radius, facecolor=COLORS[vertex["type"]],
                             edgecolor="white", linewidth=1.0, zorder=4))
         ax.text(x, y, vertex["label"], ha="center", va="center", color="white",
-                fontsize=14.5, fontweight="normal", zorder=5)
+                fontsize=15.2, fontweight="normal", zorder=5)
 
     ax.set_xlim(-2.35, 9.20)
     ax.set_ylim(-2.65, 2.85)
     ax.set_aspect("equal")
     ax.axis("off")
-    ax.set_title(r"$p=13,\ \ell=2$  |  8 vertices, 32 kernels, 3 components",
-                 fontsize=16, pad=10)
     fig.legend(handles=[Line2D([0], [0], marker="o", color="w", markerfacecolor=c,
                                markersize=10, label=kind)
                         for kind, c in COLORS.items()],
-               loc="lower center", ncol=3, frameon=False, fontsize=13,
+               loc="lower center", ncol=3, frameon=False, fontsize=15.2,
                bbox_to_anchor=(0.5, 0.035))
-    fig.subplots_adjust(left=0.015, right=0.985, bottom=0.12, top=0.88)
+    fig.subplots_adjust(left=0.015, right=0.985, bottom=0.12, top=0.96)
     output = BASE.parent / "figures/maximal_p13_full"
     fig.savefig(output.with_suffix(".pdf"), bbox_inches="tight")
     fig.savefig(output.with_suffix(".png"), bbox_inches="tight", dpi=210)
